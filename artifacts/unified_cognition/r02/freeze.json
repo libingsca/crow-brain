@@ -1,0 +1,13 @@
+{
+  "frozen_utc": "2026-09-28T05:15:21Z",
+  "protocol": "docs/decisions/unified_cognition/R02_PROTOCOL.md",
+  "protocol_sha256": "6e2794107daa63d15b1d4747d1f070064dbf55263e1fba9929243eddcd10d8fe",
+  "source": "scripts/unified_cognition/r02.py",
+  "source_sha256": "ebefe3dd93a1adb18562f0e88906b6af9dff9e6c5b94d4a12663b89e117f3854",
+  "depends_on_source": "scripts/unified_cognition/r01.py",
+  "depends_on_source_sha256": "2ea0e82d4133d8023de0f38eef4e5b0bdd1c0bfea932de1f41b6f4de9ab40989",
+  "config": "artifacts/unified_cognition/r02/config.json",
+  "config_sha256": "085a1865e36e1edc48425f90a4cd5372f6825522424635f06d6188b8208848df",
+  "environment_sha256": "dc49939a5248085d6cdf78a60aa9491758b6005305f739d8028b04a855b2d921",
+  "audit_hard_sha256": "b965720640c92f70979687d77b0b5df36a350d888d2eb5d012d55f664fb766fc"
+}

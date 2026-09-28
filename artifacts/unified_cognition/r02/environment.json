@@ -1,0 +1,11 @@
+{
+  "recorded_utc": "2026-09-28",
+  "python": "3.12.3 (main, Aug 31 2026, 10:17:52) [GCC 13.3.0]",
+  "torch": "2.14.0+cpu",
+  "numpy": "2.5.3",
+  "platform": "linux container overlay; ~23 GiB free on /workspace at freeze",
+  "threads_per_process": 1,
+  "max_concurrent_training_processes": 2,
+  "device": "cpu only",
+  "reuses": "scripts/unified_cognition/r01.py imported unmodified (sha256 2ea0e82d4133d8023de0f38eef4e5b0bdd1c0bfea932de1f41b6f4de9ab40989)"
+}

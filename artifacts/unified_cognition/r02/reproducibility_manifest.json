@@ -1,0 +1,4238 @@
+{
+  "label": "UC-R02",
+  "generated_utc": "2026-09-28",
+  "files": [
+    {
+      "path": "artifacts/unified_cognition/r02/audit_hard.json",
+      "bytes": 1313,
+      "sha256": "b965720640c92f70979687d77b0b5df36a350d888d2eb5d012d55f664fb766fc"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/config.json",
+      "bytes": 1865,
+      "sha256": "085a1865e36e1edc48425f90a4cd5372f6825522424635f06d6188b8208848df"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/environment.json",
+      "bytes": 460,
+      "sha256": "dc49939a5248085d6cdf78a60aa9491758b6005305f739d8028b04a855b2d921"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/freeze.json",
+      "bytes": 819,
+      "sha256": "7dfbf07ba195028ed37800dd1a5a868a7531bdc80f446f74075968b46ea3e172"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270201_lr0.003_st4000/delay8.npz",
+      "bytes": 49194,
+      "sha256": "3363b74dac9feefc64f699d23027a2524f90f7920a80457325acaa5cdc10c6db"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270201_lr0.003_st4000/id.npz",
+      "bytes": 49370,
+      "sha256": "e7492a4c5ff56920eef5078c7e40aa9af3f1c3198dc7073e30807df698536aee"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270201_lr0.003_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "b9d45a778a6d4098d57e61b992633d82a5597c1797f7dfc52a60abee08605bd9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270201_lr0.003_st4000/ood.npz",
+      "bytes": 49017,
+      "sha256": "b14c80b8781ba6b5bd758f3073484b9d1dbd3fb2b7f4f1320df1767137c58f9f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270201_lr0.003_st4000/result.json",
+      "bytes": 2531,
+      "sha256": "3696bb7233d46e6c2474eab997f6fd29eee77492a6ef8294ec00ab9ae0ad404b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270201_lr0.003_st4000/training.npz",
+      "bytes": 1176887,
+      "sha256": "625bf52a6c18d75927afaf9c09a021e752ba064d5df25e7bf31e610e82188b9c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270201_lr0.003_st4000/val.npz",
+      "bytes": 49326,
+      "sha256": "3d2429e9a3aa285345ffab069bdd931fab03c928277087ccfe35d332e9b59b1b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270202_lr0.003_st4000/delay8.npz",
+      "bytes": 49461,
+      "sha256": "2cca6ff38380e57e6e50c6ae477b4c5bf053168fdacc9e4759da8227b31f3684"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270202_lr0.003_st4000/id.npz",
+      "bytes": 49559,
+      "sha256": "c7a07889519492cf9bcc389bef2035f66a6d2187ecd45423d119adc5b9ba633a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270202_lr0.003_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "796ebaa2382e0e4f37120cad9d9eb3dd7d897370eef34ac2b43f38beeab17bf6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270202_lr0.003_st4000/ood.npz",
+      "bytes": 49119,
+      "sha256": "72abc6d0ab59c347887345a16d7d960ac8f1bac651377d39b9ba93b3ac88c9cd"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270202_lr0.003_st4000/result.json",
+      "bytes": 2532,
+      "sha256": "4bae2e9acd51b2fa4b016c0fbb1454dc196df49b09ecaffd7f4ef363c6a051ad"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270202_lr0.003_st4000/training.npz",
+      "bytes": 1177201,
+      "sha256": "8b0b31f13847cc949937d0bb372aaf4341b6478b2025480c4a6c2439fa2a30a2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270202_lr0.003_st4000/val.npz",
+      "bytes": 49371,
+      "sha256": "9f0799cf22187825370c31d5589057f981f293267ac927875ddfc0fa395d3d0d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270203_lr0.003_st4000/delay8.npz",
+      "bytes": 48008,
+      "sha256": "e0e018655a58930b95177778e05706420ef2a2eb72ef7c9e486fde24655ff8fc"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270203_lr0.003_st4000/id.npz",
+      "bytes": 48016,
+      "sha256": "b67555292a20236d9548db9b798f81b5095229d5ac7615822b45ba40da14dd5e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270203_lr0.003_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "1ab42a5408058084c3ed071cc2fdd66f5d17f81493e1d3c06eb35e5f050ded8e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270203_lr0.003_st4000/ood.npz",
+      "bytes": 47843,
+      "sha256": "f7b86c6b21237dc0764d003db0005b65866fec8fe78c6f4e6f74866db90e4eb0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270203_lr0.003_st4000/result.json",
+      "bytes": 2521,
+      "sha256": "a7ad02331beb6333b8051823b2ab29566cfff763ceb06f312b1a5ecc2c1cf4e7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270203_lr0.003_st4000/training.npz",
+      "bytes": 1177409,
+      "sha256": "819f7b0ae023be1e1c05733f3b31ed9b936d49613a7cc601f6f77c715a852e2a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270203_lr0.003_st4000/val.npz",
+      "bytes": 48163,
+      "sha256": "03e0cfffbe8e747ebb7e567a012042198690325bf72baf6dd098f321277a60b5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270204_lr0.003_st4000/delay8.npz",
+      "bytes": 47840,
+      "sha256": "b0bdd50f109371058863c3bacd9727690c1bddd8a5ce58e10c52cc115470906f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270204_lr0.003_st4000/id.npz",
+      "bytes": 48148,
+      "sha256": "1bb7545c996f84bab6325c4c603b7f0f8c356b6ea4470eadad8d7190aa68f05e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270204_lr0.003_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "b837ef607797f369eb94afe6ec05a9c237a26a14ad08e326ce4dced778a9e928"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270204_lr0.003_st4000/ood.npz",
+      "bytes": 47810,
+      "sha256": "0b7e1eb6437734e6486d5e660990ff8a5caf35c7ee23eeed3d84a7f6fe062640"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270204_lr0.003_st4000/result.json",
+      "bytes": 2531,
+      "sha256": "e76c10122e928b9876e64251f4a5bd79644f2675239536b91f251924e95e1406"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270204_lr0.003_st4000/training.npz",
+      "bytes": 1177308,
+      "sha256": "624065593e2f814d45363f816148324995d74245a188961d4debd921fd6a315c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270204_lr0.003_st4000/val.npz",
+      "bytes": 48135,
+      "sha256": "d2daa0992cd6bdddadee5dd9e2fc1d021143bfe1377e7bfa1047eea8ef085166"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270205_lr0.003_st4000/delay8.npz",
+      "bytes": 49347,
+      "sha256": "3aacbbb4c39f7d8b2e0be76bcf1b640fbd111d34affc7f23a23b0299dc9598cb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270205_lr0.003_st4000/id.npz",
+      "bytes": 49354,
+      "sha256": "ef0bc18d23a9ff7d7c8c08c97a621af0799c05b2a75b21f3b1ce0d722c41017e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270205_lr0.003_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "bd0239e0cfdcba6823419de42d751fdb061e0892a04282ee27e0b72654761974"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270205_lr0.003_st4000/ood.npz",
+      "bytes": 48793,
+      "sha256": "0b06c602a5c65f08347df051d4cea5c90c633603896277689fac65db5c5d6f42"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270205_lr0.003_st4000/result.json",
+      "bytes": 2530,
+      "sha256": "771d1097140a03324e1dfc2848ea7654272a86f130e0dfed71c88dd9a26c3798"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270205_lr0.003_st4000/training.npz",
+      "bytes": 1177499,
+      "sha256": "943bb0b9321829c0906a29aab16f85409e71b71c58c56f78b384c37541e23228"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F0_s270205_lr0.003_st4000/val.npz",
+      "bytes": 49358,
+      "sha256": "a500af8bee3fc9f9579c98f0abf7750b4869a7b64c9fa84393a6fee7c9584333"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270201_lr0.003_st4000/delay8.npz",
+      "bytes": 53109,
+      "sha256": "f12d392e59665134fdb5c2fc7daec91be860ffcfe23a1580efaceefce0cdf625"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270201_lr0.003_st4000/id.npz",
+      "bytes": 52997,
+      "sha256": "cf06447fc4f7748b60edbc5ec3dd6d13a3d27de462ebe7109fc441eb6d163a68"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270201_lr0.003_st4000/model.pt",
+      "bytes": 84709,
+      "sha256": "c8dbf1cd903a924f13756260b16f58b069491d381cbdd0fa5e065a7051e2623c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270201_lr0.003_st4000/ood.npz",
+      "bytes": 52614,
+      "sha256": "0ed69685b0d31fd05e5936fbb1f043ea2c6e23918441624fa906bd99a82d9f6c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270201_lr0.003_st4000/result.json",
+      "bytes": 2872,
+      "sha256": "fd0aa7cc45c5e2bca68d8c84e457a73d3c7f407e55884ac2b2fe627b433e6f8e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270201_lr0.003_st4000/training.npz",
+      "bytes": 1176887,
+      "sha256": "625bf52a6c18d75927afaf9c09a021e752ba064d5df25e7bf31e610e82188b9c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270201_lr0.003_st4000/val.npz",
+      "bytes": 53014,
+      "sha256": "26e39b592d2513cff3a669a10d95f8377fd0252c74e02baeaacc6355fe4336bb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270202_lr0.003_st4000/delay8.npz",
+      "bytes": 53009,
+      "sha256": "b73200401dfa3f91d884aa9cf28f6dd56b3ab3198afc9d9945ce4d0eb59f4390"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270202_lr0.003_st4000/id.npz",
+      "bytes": 52966,
+      "sha256": "79951814de6f95540c87db12d7be628a7d5654d9155e64146ad35a204716dd17"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270202_lr0.003_st4000/model.pt",
+      "bytes": 84709,
+      "sha256": "aa77775086baf340ffd01e76ed67c31a7372e0ef90f7ecf47a5f066be9c51940"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270202_lr0.003_st4000/ood.npz",
+      "bytes": 52558,
+      "sha256": "df4b1db77f0356dc44a2480ea375caa757bbaab543b684d0bede49be8ac4a535"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270202_lr0.003_st4000/result.json",
+      "bytes": 2874,
+      "sha256": "990c61dd0c77b72d846c22c1fed1e98fdb4cc84da606cd04ba2ef2a06a8e4de8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270202_lr0.003_st4000/training.npz",
+      "bytes": 1177201,
+      "sha256": "8b0b31f13847cc949937d0bb372aaf4341b6478b2025480c4a6c2439fa2a30a2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270202_lr0.003_st4000/val.npz",
+      "bytes": 52873,
+      "sha256": "4584a18f68108a2f79e78982f4109b990fd19ea3ca4194160f1e408233cdf327"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270203_lr0.003_st4000/delay8.npz",
+      "bytes": 53055,
+      "sha256": "e9b726c8886fcfd8b972bb542b6bfb15b67a565332ee9fec2a4361e7ce2845c4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270203_lr0.003_st4000/id.npz",
+      "bytes": 53077,
+      "sha256": "83544383c530d6b2f1ab86c2dec54af0e031ab55e69f125d3ece733f8bce93ef"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270203_lr0.003_st4000/model.pt",
+      "bytes": 84709,
+      "sha256": "c9e70de727a021094ec03dc5b2d3d21ea3878dfc72966b8aaa50ddd195aa01d3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270203_lr0.003_st4000/ood.npz",
+      "bytes": 52754,
+      "sha256": "ced82d99009f1271a2165a30196d4fba3601c5283464682cb8c73bfdc7c6c20a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270203_lr0.003_st4000/result.json",
+      "bytes": 2869,
+      "sha256": "c3f9be9145796755512edb6d84d7a774232705d65f331792eb6d055fa67f6a9d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270203_lr0.003_st4000/training.npz",
+      "bytes": 1177409,
+      "sha256": "819f7b0ae023be1e1c05733f3b31ed9b936d49613a7cc601f6f77c715a852e2a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270203_lr0.003_st4000/val.npz",
+      "bytes": 53188,
+      "sha256": "1e23cc3b5c282f2469897d4be5a18464c88fa4ad34886d194e65ce323cdcde7c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270204_lr0.003_st4000/delay8.npz",
+      "bytes": 51832,
+      "sha256": "1c9169aa8edeb92d7ac18ec0d094b99487de5e8abeb773c89f9dedae40c55cbd"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270204_lr0.003_st4000/id.npz",
+      "bytes": 51915,
+      "sha256": "e02077d81df454420dcd2c35695e9352b82599285e5e4ff15431a91cc8df3f02"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270204_lr0.003_st4000/model.pt",
+      "bytes": 84709,
+      "sha256": "b9ee1ab3d8d2ea67cfee33afcf65e8a933d191dd910ff696e8ca06f2be9346aa"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270204_lr0.003_st4000/ood.npz",
+      "bytes": 51373,
+      "sha256": "df0aeec640447ff6699505d8657587fc2a73f800d9384b315e5d304999aed131"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270204_lr0.003_st4000/result.json",
+      "bytes": 2865,
+      "sha256": "cda3c02c95fcc57089fdbce005bd390f5530651256b368cae1ae4fb1d73b7d28"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270204_lr0.003_st4000/training.npz",
+      "bytes": 1177308,
+      "sha256": "624065593e2f814d45363f816148324995d74245a188961d4debd921fd6a315c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270204_lr0.003_st4000/val.npz",
+      "bytes": 51820,
+      "sha256": "6637bead9a6c735176e060514e1e1d0bbcc333e97ca5f6dfe6198c479434553c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270205_lr0.003_st4000/delay8.npz",
+      "bytes": 52856,
+      "sha256": "d4501bbf3385899865f5c5ce58622078d02d447aa7526d20cf4a376f6cf06536"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270205_lr0.003_st4000/id.npz",
+      "bytes": 53017,
+      "sha256": "0b1e554b10217b1a8c0d01f89fdcb1d208dd5a472714112920529ce2f8b47f9d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270205_lr0.003_st4000/model.pt",
+      "bytes": 84709,
+      "sha256": "79a2d8e9ee8e434284ee4b4d372cb707e065d3e3258a8587e7487f3e61586f34"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270205_lr0.003_st4000/ood.npz",
+      "bytes": 52536,
+      "sha256": "54e6aa8db40053efde12898bff0f5edf3fb9d98e98c983cf1b7b1b10d25336d4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270205_lr0.003_st4000/result.json",
+      "bytes": 2868,
+      "sha256": "19addf3503faa91aed6e1f387f99d412a994240b0936de1e93b7c183196ac75b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270205_lr0.003_st4000/training.npz",
+      "bytes": 1177499,
+      "sha256": "943bb0b9321829c0906a29aab16f85409e71b71c58c56f78b384c37541e23228"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/F1_s270205_lr0.003_st4000/val.npz",
+      "bytes": 52965,
+      "sha256": "ab93720d52d2ef1c16ca90a4c807ca55318a5e96aece775b60c823e67a9da200"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270201_lr0.003_st4000/delay8.npz",
+      "bytes": 49421,
+      "sha256": "6313c0a5ca0cf3fec5e3f64a66587886334f7a8367c21a09435d50b5f7b7f48e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270201_lr0.003_st4000/id.npz",
+      "bytes": 49456,
+      "sha256": "957de0148f01fc9461f77bb81d4c06e566667f9618f89042c7a2aa20d49870ca"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270201_lr0.003_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "d050a688712c57ad0d3a4999eae0df078e7ede6add1dbd87fcabd37e4715b3b0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270201_lr0.003_st4000/ood.npz",
+      "bytes": 49115,
+      "sha256": "4e40c163ce5aefd8a5eb0382d5e6d660eea415875c933eb164afcc14561c9f0e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270201_lr0.003_st4000/result.json",
+      "bytes": 2521,
+      "sha256": "f04045675fa9522906461ec10ae95f0c731317c8efb5d53ccee4ecaff1ec4ea5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270201_lr0.003_st4000/training.npz",
+      "bytes": 1176887,
+      "sha256": "625bf52a6c18d75927afaf9c09a021e752ba064d5df25e7bf31e610e82188b9c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270201_lr0.003_st4000/val.npz",
+      "bytes": 49431,
+      "sha256": "c4d00562d2e2b5b3d9b1ce22c9659e31e4d3d79e462cff9bcdd86aa4e0ea2846"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270202_lr0.003_st4000/delay8.npz",
+      "bytes": 48332,
+      "sha256": "8975f1cb5c5e588f6ca205af3f9ef0abbe0712a92275a297ce6845e1b76cf0e0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270202_lr0.003_st4000/id.npz",
+      "bytes": 48317,
+      "sha256": "4b0cff8c11a76ba1745dee8abe522b3c43db76804542d3c154b62617668bbb93"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270202_lr0.003_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "d9fdbd5351989c83a2d61ddbed2d84bba5972a8bbc08d73c881e150924ddc400"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270202_lr0.003_st4000/ood.npz",
+      "bytes": 47758,
+      "sha256": "f4dfe02f0af76c1a288e1f0aff9d72aad42794ce0340d75f7f14e1526fd766ab"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270202_lr0.003_st4000/result.json",
+      "bytes": 2521,
+      "sha256": "28cfb873a576f8fa06615148884fa47d72bbac14b64fc90d024905718d6e598d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270202_lr0.003_st4000/training.npz",
+      "bytes": 1177201,
+      "sha256": "8b0b31f13847cc949937d0bb372aaf4341b6478b2025480c4a6c2439fa2a30a2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270202_lr0.003_st4000/val.npz",
+      "bytes": 48177,
+      "sha256": "4e1d77d28682c72884899b6cf32117ab915dfe098fef1615fb27c2d005884839"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270203_lr0.003_st4000/delay8.npz",
+      "bytes": 49468,
+      "sha256": "e58bf03614955b4d21a6541c5c0dc4bd08b67d9a9955cccf404d7bce7c930293"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270203_lr0.003_st4000/id.npz",
+      "bytes": 49394,
+      "sha256": "04adf08527919c9cd7d1d9d2794f231adb6e24c5a31929742ec0572fada29311"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270203_lr0.003_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "c4def59c1d75a69cff28a6a49098335fb8bf23b3aa71c8dd3e5d4b26b8428c64"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270203_lr0.003_st4000/ood.npz",
+      "bytes": 49224,
+      "sha256": "f9a69b7216ba432b058d2bcc092fc4860e30b816964ef206072601ae11df418e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270203_lr0.003_st4000/result.json",
+      "bytes": 2525,
+      "sha256": "3d491e20b0a71fbd5b15426e9c63e2b299d6d14016aed43de9c505f160adc9b8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270203_lr0.003_st4000/training.npz",
+      "bytes": 1177409,
+      "sha256": "819f7b0ae023be1e1c05733f3b31ed9b936d49613a7cc601f6f77c715a852e2a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270203_lr0.003_st4000/val.npz",
+      "bytes": 49520,
+      "sha256": "d27929c1ed63599156898cc96a17f2e0aabe2c6839226fed44c7fba1edc60ebf"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270204_lr0.003_st4000/delay8.npz",
+      "bytes": 49000,
+      "sha256": "0ea057eafffc485d78248bf75a3f9508b4f193ad855e897848c7ddcece5ff998"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270204_lr0.003_st4000/id.npz",
+      "bytes": 49504,
+      "sha256": "37095362bc702049d30753269d95bee6ea5c5f6b2c2ecb2e92db6635d3396c5c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270204_lr0.003_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "58f163b81b7e5ff9540036a244dbab9a6ca6f925166e4fde9eb8936c35568082"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270204_lr0.003_st4000/ood.npz",
+      "bytes": 49041,
+      "sha256": "b5d6b07340817969199314f792e3dfdc0d1152baecad61a5114521913755d4fd"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270204_lr0.003_st4000/result.json",
+      "bytes": 2528,
+      "sha256": "b2a5a3d1bfd3a75c68911071277e4a7a2de26acb87b146b85039e6b45c9c3f07"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270204_lr0.003_st4000/training.npz",
+      "bytes": 1177308,
+      "sha256": "624065593e2f814d45363f816148324995d74245a188961d4debd921fd6a315c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270204_lr0.003_st4000/val.npz",
+      "bytes": 49463,
+      "sha256": "bb097078085c5dbe90624cde0fea37c035560dbed8469a9b338f7604e1d5b7ed"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270205_lr0.003_st4000/delay8.npz",
+      "bytes": 49397,
+      "sha256": "587fc786ff8e223bc959982ddedc853d7765eb32be642853c6c27273c089a50e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270205_lr0.003_st4000/id.npz",
+      "bytes": 49300,
+      "sha256": "7f93759e9bcfebf605480a5aebdff2fe313cc57d1b70b028a6d6ae755c37ec76"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270205_lr0.003_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "d9beee1abcc6dbdf6900bad6d7378d3941ab21fcbfa1c0b24bf91ead885274f5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270205_lr0.003_st4000/ood.npz",
+      "bytes": 48659,
+      "sha256": "ceb38e5f8bb9f9df480920dff9285bdd80e81aea7cd94f653f33a2668fbe3d99"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270205_lr0.003_st4000/result.json",
+      "bytes": 2526,
+      "sha256": "c5cbdbb866fc848c61b833f7aaa3930145bdfecbf65ed75bbd5c0bf6ef799d43"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270205_lr0.003_st4000/training.npz",
+      "bytes": 1177499,
+      "sha256": "943bb0b9321829c0906a29aab16f85409e71b71c58c56f78b384c37541e23228"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/G_s270205_lr0.003_st4000/val.npz",
+      "bytes": 49331,
+      "sha256": "2418b6f4f75c3873b0c9fc53aedaa472eeea7afd35733d95eea242e0b10ae14f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270201_lr0.003_st4000/delay8.npz",
+      "bytes": 47449,
+      "sha256": "78573f16703111601961b0bac2244d930a3a202baec4ebf6f8d7b0f161ab1395"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270201_lr0.003_st4000/id.npz",
+      "bytes": 47387,
+      "sha256": "fa6315772dbb44d4b2a4263d40061d4ced69fb3fd0c61f51b773f81dd416dfe2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270201_lr0.003_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "dce7e98f7576e344f70976323c3d0e216f3a07216f5989c4f25cf91e9348f2b0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270201_lr0.003_st4000/ood.npz",
+      "bytes": 47067,
+      "sha256": "f0eaf02dffe9b2f5d62494a39cc3420cf147ed0fd69607d2f9029218992b3cf0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270201_lr0.003_st4000/result.json",
+      "bytes": 2510,
+      "sha256": "43a5230aa6ae1032acbd3dd2bf01b149a131b810aed6be5ff745a88f3c37a9d7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270201_lr0.003_st4000/training.npz",
+      "bytes": 1176887,
+      "sha256": "625bf52a6c18d75927afaf9c09a021e752ba064d5df25e7bf31e610e82188b9c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270201_lr0.003_st4000/val.npz",
+      "bytes": 47366,
+      "sha256": "1648a738c5faaafd71778e9e40872eb802a58b2d25410fd82d96a7d62493651a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270202_lr0.003_st4000/delay8.npz",
+      "bytes": 47660,
+      "sha256": "2a5991d17a709e38d1ab0557c58d5a7f1a6a24cd2f1f804ce0691def2f382471"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270202_lr0.003_st4000/id.npz",
+      "bytes": 47522,
+      "sha256": "a65eb69b889b977b733506d8d7d579dfcb4a4e503ef0562ff84b76cb833cfb28"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270202_lr0.003_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "ee19437856ba6ba1223d00f831ea35a8245a923004165f97d5132e0979c019b2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270202_lr0.003_st4000/ood.npz",
+      "bytes": 46970,
+      "sha256": "4e514e30693451fdc3f140b89f5450400061901ffbf7367a9cb04a99e5380a73"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270202_lr0.003_st4000/result.json",
+      "bytes": 2505,
+      "sha256": "7516e32fce28f36b7c114a15306c5099d56bf26579bb84ffe298fc806751b6b2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270202_lr0.003_st4000/training.npz",
+      "bytes": 1177201,
+      "sha256": "8b0b31f13847cc949937d0bb372aaf4341b6478b2025480c4a6c2439fa2a30a2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270202_lr0.003_st4000/val.npz",
+      "bytes": 47354,
+      "sha256": "832a87e0b538e608a165179bda9795ccce83c92ac4d3586609ca5cc4e6ec22e5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270203_lr0.003_st4000/delay8.npz",
+      "bytes": 47977,
+      "sha256": "c91fc7ddb6ef85b115489588f55d4b1783d8982238d0c683b9a255241e2f3d5d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270203_lr0.003_st4000/id.npz",
+      "bytes": 47972,
+      "sha256": "8e6978b51ac87f5fb4da4a4631e02020bcccddcf27ad8be96c4973a288f9b085"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270203_lr0.003_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "2301ce2da5649c73bf47f21a41407fc20303932eb2cc7dda05d6502f93b9ba6a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270203_lr0.003_st4000/ood.npz",
+      "bytes": 47665,
+      "sha256": "f22e690635fd2105782e583e4eeaae3a3811f29b650db9ac04aa52766052f953"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270203_lr0.003_st4000/result.json",
+      "bytes": 2484,
+      "sha256": "a4ad8f8d5b95af7e7534a08158fc5d01cdf8e04c214d0fe0684f7102d931a301"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270203_lr0.003_st4000/training.npz",
+      "bytes": 1177409,
+      "sha256": "819f7b0ae023be1e1c05733f3b31ed9b936d49613a7cc601f6f77c715a852e2a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270203_lr0.003_st4000/val.npz",
+      "bytes": 48072,
+      "sha256": "6a9af11c9204f71a4f2368f04e27d1229f4bd7dc932cdb5280b971aebbe67c91"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270204_lr0.003_st4000/delay8.npz",
+      "bytes": 48755,
+      "sha256": "fccc0523a1a624082a0e30e1d40dcd3c3a84433eaf0c4672e71d47222f41bf5d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270204_lr0.003_st4000/id.npz",
+      "bytes": 48690,
+      "sha256": "503116f47c99018ccfceca9427c4d30f69e5fa09b16bce2deb4060991f822d06"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270204_lr0.003_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "0a93e395fdbda772a8da1e35e76877b07394a554ee6ae0fa8e5e4b5f3a342c42"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270204_lr0.003_st4000/ood.npz",
+      "bytes": 48256,
+      "sha256": "c4e636aca2e821ed051872f931378978c1d3a1310ce6d540191e92861ef1c2c9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270204_lr0.003_st4000/result.json",
+      "bytes": 2510,
+      "sha256": "0daaf4e01cd29ff392ce96df2b27074301b1310a98ec66f0a3c13fdfd48297a0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270204_lr0.003_st4000/training.npz",
+      "bytes": 1177308,
+      "sha256": "624065593e2f814d45363f816148324995d74245a188961d4debd921fd6a315c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270204_lr0.003_st4000/val.npz",
+      "bytes": 48676,
+      "sha256": "5fd17543f51661b78d2cfc4c7066a7e5cb9632425fd6a8c0a8214cc97bf438e0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270205_lr0.003_st4000/delay8.npz",
+      "bytes": 47426,
+      "sha256": "05e933ed2b00a2e201dda30785eb3253563faf92297ea53b20daaf7b96d0a066"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270205_lr0.003_st4000/id.npz",
+      "bytes": 47416,
+      "sha256": "9fc8f19a581d7db9ce535cf7540c9a87ebe35a5fc010ce80ea2e0b15b9bb304c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270205_lr0.003_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "db7714b30c435d7c13f76cfe58f6a16eb1cd292ee60e06935308aa613889edac"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270205_lr0.003_st4000/ood.npz",
+      "bytes": 46950,
+      "sha256": "1f77f6dc74c6f9abafb812284307e2aea7a281e030163562e146227a58b9647e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270205_lr0.003_st4000/result.json",
+      "bytes": 2495,
+      "sha256": "0222a0a36162da2fb8fa92cdc8f1d2def1a770cfb4c160121c2afb136c2ac538"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270205_lr0.003_st4000/training.npz",
+      "bytes": 1177499,
+      "sha256": "943bb0b9321829c0906a29aab16f85409e71b71c58c56f78b384c37541e23228"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S0_s270205_lr0.003_st4000/val.npz",
+      "bytes": 47412,
+      "sha256": "05440124b7909f35e254fbc8f766cc2e657ea0e60e3729d1ba1092a16b96a976"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270201_lr0.003_st4000/delay8.npz",
+      "bytes": 51747,
+      "sha256": "423343ec8200d9f0c9bf3977cace740e2583e1ab562978c1a46ffdb7941ec3de"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270201_lr0.003_st4000/id.npz",
+      "bytes": 51854,
+      "sha256": "f19c3090065cf26e5bf5eba6fea0e839111f894013101519c3d4f819fd0976c3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270201_lr0.003_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "e2d7179fe62b68cacfed921669bcf43535aed5448e1585fe86423914847b4027"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270201_lr0.003_st4000/ood.npz",
+      "bytes": 51687,
+      "sha256": "8769629b40b0c97e569c84a7091854cd94404ff7e395a9e9485975e0ee75408e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270201_lr0.003_st4000/result.json",
+      "bytes": 2853,
+      "sha256": "77264b9b137116d600ee41a41136269b153efaec4e450064135304e7dc0f7c11"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270201_lr0.003_st4000/training.npz",
+      "bytes": 1176887,
+      "sha256": "625bf52a6c18d75927afaf9c09a021e752ba064d5df25e7bf31e610e82188b9c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270201_lr0.003_st4000/val.npz",
+      "bytes": 51884,
+      "sha256": "546a36d0f27948e0429404382e7c55ddf52397d0b137902cc86b551b2c6863e7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270202_lr0.003_st4000/delay8.npz",
+      "bytes": 52598,
+      "sha256": "905613f70c94b1c08558c5938cf2720d87f660943b02e50fb26c5938c69a4e90"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270202_lr0.003_st4000/id.npz",
+      "bytes": 52378,
+      "sha256": "755351ebdcd32b4f46c9ee5d75cb472c78ccdbb5ab97579f76852f1abe8b7b58"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270202_lr0.003_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "5035486a9f63bc1dacdef42df8bde4b32f0e8de813bb83e312c74c77cba1666e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270202_lr0.003_st4000/ood.npz",
+      "bytes": 51981,
+      "sha256": "358dee7598d54e8c0aa2add19ad01d400d18499acaeb253c215dcd79cd6973ae"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270202_lr0.003_st4000/result.json",
+      "bytes": 2857,
+      "sha256": "fbc1617849acf9863553a49af2b2c1e1d13b1628faf4ad77cb6d55564c845f9c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270202_lr0.003_st4000/training.npz",
+      "bytes": 1177201,
+      "sha256": "8b0b31f13847cc949937d0bb372aaf4341b6478b2025480c4a6c2439fa2a30a2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270202_lr0.003_st4000/val.npz",
+      "bytes": 52202,
+      "sha256": "26bbd4c6d1a2087b66209ccf45d3e8c41fc96688a3b439cc12961dbcea31865b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270203_lr0.003_st4000/delay8.npz",
+      "bytes": 51951,
+      "sha256": "ff6a91b899338c80d8066e8ddef705175d4957500467a00839821ea906595585"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270203_lr0.003_st4000/id.npz",
+      "bytes": 52026,
+      "sha256": "9782656990f50255be8ce8dbdc1792869e549ddb578fc3e0aee97db0572f56d6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270203_lr0.003_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "518137c3258fa66275a79b8f443adcd2589b5fb1507ce69068cfd24216d0bc94"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270203_lr0.003_st4000/ood.npz",
+      "bytes": 51558,
+      "sha256": "d451dbbe9e592d94c39526a33e03e85da554c07a73d36664e674ac2f3ade88c7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270203_lr0.003_st4000/result.json",
+      "bytes": 2837,
+      "sha256": "112a6e8291919d457e7c31af5412e977c46ce98ce5de44f419b137966e659215"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270203_lr0.003_st4000/training.npz",
+      "bytes": 1177409,
+      "sha256": "819f7b0ae023be1e1c05733f3b31ed9b936d49613a7cc601f6f77c715a852e2a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270203_lr0.003_st4000/val.npz",
+      "bytes": 52152,
+      "sha256": "bf865fd349974eacc5d6c14360d90875864eddf740168649b788904228c7bac5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270204_lr0.003_st4000/delay8.npz",
+      "bytes": 52301,
+      "sha256": "111bf09816af5d9c7524da5461d91c76dc0509cb0c8e5038b5f0ea832525d6a2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270204_lr0.003_st4000/id.npz",
+      "bytes": 52345,
+      "sha256": "59bbbb450132ae2e86dfe7dd39ece5b71a08c97c164de59fbedb6f6a90aeff2b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270204_lr0.003_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "7f4c83d21c97b4c2aa10057c142d9efcfc3ee33c6120c38876dcda0e90ad7912"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270204_lr0.003_st4000/ood.npz",
+      "bytes": 51746,
+      "sha256": "5992b8788e7058fee0f6efe88633cd0bcc62da8722de066e46f74139fb3dfe1a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270204_lr0.003_st4000/result.json",
+      "bytes": 2867,
+      "sha256": "a6238a907df1112ecf541443cb14c05530d6772e2455da4b12eb6639f82bfc79"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270204_lr0.003_st4000/training.npz",
+      "bytes": 1177308,
+      "sha256": "624065593e2f814d45363f816148324995d74245a188961d4debd921fd6a315c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270204_lr0.003_st4000/val.npz",
+      "bytes": 52313,
+      "sha256": "a13ec48389fa7c2ff570e1c9e8c9549b3f4f12caa7d174844d835e238cf1bcf4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270205_lr0.003_st4000/delay8.npz",
+      "bytes": 51526,
+      "sha256": "f44023d3b74baf29c067db89dff351bbe7cc80b16a9138c55019b6672254d6b5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270205_lr0.003_st4000/id.npz",
+      "bytes": 51748,
+      "sha256": "7c28d308e1dd9934401953df875bcc8ea88b482e37989c74b37c4660270acc1c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270205_lr0.003_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "c2c4f9c03eb835c0a42d0b5add05ff58d2e5a0e6f4ccbf62a1693371baa2534d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270205_lr0.003_st4000/ood.npz",
+      "bytes": 51546,
+      "sha256": "669fb74d74d1ef4c68917fa9848ed5832a3863b0be5c1c48f378562a25e023bc"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270205_lr0.003_st4000/result.json",
+      "bytes": 2872,
+      "sha256": "1a109ff4ba2e4d289a9988647c8c36834951c6f9fc570803e21fd5825fe56be6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270205_lr0.003_st4000/training.npz",
+      "bytes": 1177499,
+      "sha256": "943bb0b9321829c0906a29aab16f85409e71b71c58c56f78b384c37541e23228"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/hard/S1_s270205_lr0.003_st4000/val.npz",
+      "bytes": 51658,
+      "sha256": "2317bea41e5111f49f8225f767d4d5e8efe7d52932ee7629b314be8ebc965663"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/GRID_DONE",
+      "bytes": 21,
+      "sha256": "1f55e566b01592517ab4b99a3ff1b8e567fd84985c86e6df78be4d23f25d68e4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_F0_s270201_lr0.003_st4000.log",
+      "bytes": 148,
+      "sha256": "3219169965410ef9afde2a5b661261054da59b2cdd2a372d375230c65323048a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_F0_s270202_lr0.003_st4000.log",
+      "bytes": 148,
+      "sha256": "4fa251291b12d62a487e3e27735cd41d56e120d099c52a3827122d5a7715fcf5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_F0_s270203_lr0.003_st4000.log",
+      "bytes": 144,
+      "sha256": "91775a0f60097e86b8ea9e595d8a60f6e823eb4a1f542f10c8e59d53af0c331f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_F0_s270204_lr0.003_st4000.log",
+      "bytes": 148,
+      "sha256": "8c4cd221eef2fa45e971c9f13861b1148e72b730a95ab549b43a7f2a79e06a15"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_F0_s270205_lr0.003_st4000.log",
+      "bytes": 148,
+      "sha256": "a341e3b8c1e048f53e77f0fc1b84ed02c54b8c61764c1c0e83cab88ba3c67707"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_F1_s270201_lr0.003_st4000.log",
+      "bytes": 148,
+      "sha256": "2c45c8df6b806bd5f2e9249a1c4a69035c91a4979a758534d54a07d0d6b76a2b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_F1_s270202_lr0.003_st4000.log",
+      "bytes": 147,
+      "sha256": "ea4de9cbc600d6aa903ec7dbaa743d9b70453b34fa22dd0d5de79f5806a88b62"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_F1_s270203_lr0.003_st4000.log",
+      "bytes": 145,
+      "sha256": "e5b0b89cc1d7031ae5eebc94a74bdf33bb4184070b27ccf1f7d08db914715fda"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_F1_s270204_lr0.003_st4000.log",
+      "bytes": 148,
+      "sha256": "87be6ad7c5641a1fc83bf59954c32b2a39d4bca068627165ddbf17de2d04d6db"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_F1_s270205_lr0.003_st4000.log",
+      "bytes": 145,
+      "sha256": "f0ac79fa98df1e03c8d970fdfed36200277fb37cf4ad2fc383a7d3ddb44e847e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_G_s270201_lr0.003_st4000.log",
+      "bytes": 143,
+      "sha256": "9ff9a1406ecb72a267f6e7c4a0d15ba304f48f0fcee096bc647f4c177958ded6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_G_s270202_lr0.003_st4000.log",
+      "bytes": 147,
+      "sha256": "c91220c743d47c40d82de3bf9a76cb4e6fc73cd770cc1853eadfbdeb58b64de9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_G_s270203_lr0.003_st4000.log",
+      "bytes": 145,
+      "sha256": "ede522ae2d370dfc11167ac98be5fa807cdcfb0f2afa2d9a68a4dee74dbd23f8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_G_s270204_lr0.003_st4000.log",
+      "bytes": 147,
+      "sha256": "745cadadc2493982de416e036e30f244f3467cd0dd9c1b79c362e6c1ccf12098"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_G_s270205_lr0.003_st4000.log",
+      "bytes": 148,
+      "sha256": "e6b1dfdaf376e4ff5b9e60184bd3e0607a358ad1933ce35fb507dd9c9026e0bf"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_S0_s270201_lr0.003_st4000.log",
+      "bytes": 147,
+      "sha256": "ac87c34244bc6aec38c1a374b1217f2f83e443340f0040a998c088b2f7e5de18"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_S0_s270202_lr0.003_st4000.log",
+      "bytes": 149,
+      "sha256": "a15120b576e1fcbc05b36a3387d84bc5c9fd65b9cecd41b09a9650d5c23adae1"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_S0_s270203_lr0.003_st4000.log",
+      "bytes": 147,
+      "sha256": "452fa59106512af8b030036e044e8b5f5858b58c1338b6a969cd0811fe412212"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_S0_s270204_lr0.003_st4000.log",
+      "bytes": 149,
+      "sha256": "3a509e96ba4f4de80a8c00b4e25b899f09b085b5b6969f9ef12d37fa3590cf4a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_S0_s270205_lr0.003_st4000.log",
+      "bytes": 148,
+      "sha256": "e1ef4b572b547fab0b6269a77faa410b1897fecd542a6b26c6a71d2cbbc82991"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_S1_s270201_lr0.003_st4000.log",
+      "bytes": 147,
+      "sha256": "65f31d9a92bb87e620be62f226f17864da562f10f0ccbc31387db21eac11c521"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_S1_s270202_lr0.003_st4000.log",
+      "bytes": 145,
+      "sha256": "4ef820de26aeb55cd46026569e7e21c3d11eac1a519d8dc510dcc075cfe9e2b6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_S1_s270203_lr0.003_st4000.log",
+      "bytes": 144,
+      "sha256": "4d99405909d5f000a1f7167650dad8bc701a33fe1e05a4337bee6104a72be081"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_S1_s270204_lr0.003_st4000.log",
+      "bytes": 156,
+      "sha256": "970ef59ed84cdfa7aff78a30d87f8befc7cc4acda961d9529916e30d7a20b30e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_hard_S1_s270205_lr0.003_st4000.log",
+      "bytes": 148,
+      "sha256": "7d9c8c18560eb62cc4732c65b68866f0203ce3f7dab311a6e3fe5f470cf39d2c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270201_lr0.003_st2000.log",
+      "bytes": 152,
+      "sha256": "c1e379a3e5fcf9673b2e7bb8ca78d25d67cc95bbb68c881ac0ac0b74580e301a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270201_lr0.003_st4000.log",
+      "bytes": 151,
+      "sha256": "15bdfb30d3073e9899f96371366c0584cc305cd864fcb4a17e8467da8d5e6a9f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270201_lr0.01_st2000.log",
+      "bytes": 152,
+      "sha256": "f85704e969a21712189717fe980fb625a49bb8971b111d9c6b6232b533cffb63"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270201_lr0.01_st4000.log",
+      "bytes": 147,
+      "sha256": "f231f479244be8397a965848976c4d73a4138c15364b7df6bbbe26d1d55d85b6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270202_lr0.003_st2000.log",
+      "bytes": 152,
+      "sha256": "2bb7d5087a03ec53c2a2383937c6c447a37742149e0f7e380260e2d037d52f8f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270202_lr0.003_st4000.log",
+      "bytes": 150,
+      "sha256": "5972ee4dcfd23f3efee329746cd929dd6aedb48ee10d8cf29c335a998a072198"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270202_lr0.01_st2000.log",
+      "bytes": 151,
+      "sha256": "ea2f6d79410cd064592606d306516714bfdc018e7c9eaa4e50794e728ea27bc4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270202_lr0.01_st4000.log",
+      "bytes": 152,
+      "sha256": "b113fb9679f9c09160f568f7a1271dc8f38fdc74b51e0112e2494a2b2b2e002e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270203_lr0.003_st2000.log",
+      "bytes": 151,
+      "sha256": "bd4dd89f8a2753875d75c03307d6113d6f0182c750a7eba5773042003449d06c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270203_lr0.003_st4000.log",
+      "bytes": 152,
+      "sha256": "c75f933c4aea5ecf698afe9270bbcc961dd0430a5d077045c26c7a0221153975"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270203_lr0.01_st2000.log",
+      "bytes": 150,
+      "sha256": "0babf66d344adcbeadda44c58ba07d1712f241514ef0badf8fc92803030f3f91"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270203_lr0.01_st4000.log",
+      "bytes": 151,
+      "sha256": "1829ecc126e7135c5a2753df1d6d48444ba4d157d19232df9c133e51fe525233"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270204_lr0.003_st2000.log",
+      "bytes": 152,
+      "sha256": "ddf0eefcb11890fe6450a1d80b5cfa826570b011ca6c6032da057818582d0377"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270204_lr0.003_st4000.log",
+      "bytes": 152,
+      "sha256": "46537039122dcc85126469c1b83ad0d30d0f4cc3ef2c4e8c5ad9ea8fe9ab895c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270204_lr0.01_st2000.log",
+      "bytes": 151,
+      "sha256": "874aed040e47747d9201cd1a9ba86a3eaa4820b31b044338aa91eee20a8e5448"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270204_lr0.01_st4000.log",
+      "bytes": 148,
+      "sha256": "f188dc5f070e90e5b29ca3e4500baceaaa56cbfebdac8e78f3c957dad019c891"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270205_lr0.003_st2000.log",
+      "bytes": 151,
+      "sha256": "cc41b6a0f2a070cfed5f6a311b603df448cd4e749a50e3ac6164bea0f86486fe"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270205_lr0.003_st4000.log",
+      "bytes": 150,
+      "sha256": "f183dfa83c95dbc3e2605096186ee8d787125f91cfd0541394e907a0f7542366"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270205_lr0.01_st2000.log",
+      "bytes": 150,
+      "sha256": "5858506e126af90eb45ce7d288ddfe99da3f6c665d95a55cab39c8b5778716e7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_F0_s270205_lr0.01_st4000.log",
+      "bytes": 151,
+      "sha256": "7d75133554fdec0ce3b52c3e73ef267c43a9f16ff49b8d721b7d74125017949b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270201_lr0.003_st2000.log",
+      "bytes": 152,
+      "sha256": "df158efd7386e0c7aa7ec41078dc4aef82358ddea60666a70ffa742d90f31e58"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270201_lr0.003_st4000.log",
+      "bytes": 151,
+      "sha256": "dcf1ab1f9f2fced32455f5ef146393203f4dfbe8185ca8ba23838c31d198e353"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270201_lr0.01_st2000.log",
+      "bytes": 150,
+      "sha256": "6b028e50815ec55f0c75cbb659ae8ff210e12b20bfa5abebf373742dfb880f3a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270201_lr0.01_st4000.log",
+      "bytes": 147,
+      "sha256": "81e7d9fc070c35813bf16f30153987a547ca098812893a7df192b156b34e82e5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270202_lr0.003_st2000.log",
+      "bytes": 152,
+      "sha256": "8a6ac94077727152ca09d4a92f3e60669487328a8a910010646091cfea1191fc"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270202_lr0.003_st4000.log",
+      "bytes": 148,
+      "sha256": "c580bf60672170cbd15a732ff55fb8a1146737a3a7a196584f8f8dfb9d48e0d6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270202_lr0.01_st2000.log",
+      "bytes": 147,
+      "sha256": "072ad31d626a0f295eb1a350796587b7123fc3f3786a2cce7a04505ed1aca0d6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270202_lr0.01_st4000.log",
+      "bytes": 150,
+      "sha256": "121b626943bf24532804365765d392f97b34c3fd66de71ed6ac1166877beb5a8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270203_lr0.003_st2000.log",
+      "bytes": 151,
+      "sha256": "aceb7fa686e9a83608acfc380083e76be20f84bff13318abd89fd0057e9360b6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270203_lr0.003_st4000.log",
+      "bytes": 149,
+      "sha256": "4b637daad2b861f78d80bbce55cd3daa22c14f0b0d65c940f5a3374edc4d18e4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270203_lr0.01_st2000.log",
+      "bytes": 150,
+      "sha256": "30df32e620044672fb699d4f425e8d753bf89860a8e4eff591b32afebf9ee748"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270203_lr0.01_st4000.log",
+      "bytes": 147,
+      "sha256": "7786b867ac83e9f2aa900241fc3d9a0fbc6f7e015f25c8cb24fa2dda78848dc2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270204_lr0.003_st2000.log",
+      "bytes": 145,
+      "sha256": "89de9981434236df20171445722e73f94787f25e8e0a5e01df84cb785dc13667"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270204_lr0.003_st4000.log",
+      "bytes": 149,
+      "sha256": "feae38658cda21a161e513040a68a3292dd17a8853338a0558f6a890b72fa46c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270204_lr0.01_st2000.log",
+      "bytes": 149,
+      "sha256": "65f4e781ee7cd11549ab046ffaf0159f7bfb51925173010dd2c9397aa7855cb5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270204_lr0.01_st4000.log",
+      "bytes": 150,
+      "sha256": "92c88ba9fe7b50ab0ac9686b9a6c0571c886ae7deda8080183d20f1e1c642de3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270205_lr0.003_st2000.log",
+      "bytes": 151,
+      "sha256": "011977830517d9621fcbde92e972f861394e5f19a960a2e5f430003c2f723505"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270205_lr0.003_st4000.log",
+      "bytes": 143,
+      "sha256": "609583ffc5383cd4cef99ac681a5a27078d024dfe7c723d196052779980d91c3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270205_lr0.01_st2000.log",
+      "bytes": 151,
+      "sha256": "4c607a99eeec1eed7671518561d61576749cbf613dca7fe7c4dcd237140baba0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_G_s270205_lr0.01_st4000.log",
+      "bytes": 145,
+      "sha256": "40416edd2253d8708f0ad7f540446318352111c9594bc9a1ff81d5e778aef259"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270201_lr0.003_st2000.log",
+      "bytes": 164,
+      "sha256": "d1defb3fe9b6b8f6a92a9ebe5b1562f15e09f2140c45311dca1c07ee8fc6184a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270201_lr0.003_st4000.log",
+      "bytes": 164,
+      "sha256": "42eee100abea3397645e19e81dec048dc3990c7969d23ab43e6fcb58aff78970"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270201_lr0.01_st2000.log",
+      "bytes": 162,
+      "sha256": "19f6c80b44e39e10134f7e81756dc3a9bee6f919587babf5317317764d2f5e76"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270201_lr0.01_st4000.log",
+      "bytes": 163,
+      "sha256": "0c2744ef1054d1c610b284d8f4a4c6d4fed402f592905e0fd2a7f495d00e41da"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270202_lr0.003_st2000.log",
+      "bytes": 163,
+      "sha256": "46252b2c0ffb1b65102b825071082efd662ff78615ca4e60abc938ec4c9fb9f6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270202_lr0.003_st4000.log",
+      "bytes": 157,
+      "sha256": "7f0419743818eb4f197aec57b38bab8525c1e10596fd8a93eb1c544b9a6bb5f4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270202_lr0.01_st2000.log",
+      "bytes": 162,
+      "sha256": "b52c98950460a39134116c8fe989eada8ba811a35c50c7c24625673befb1edbf"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270202_lr0.01_st4000.log",
+      "bytes": 151,
+      "sha256": "3344b22024d5db4a0066c0e77d061a52026d49c87d90cfbe206105e4baa006ce"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270203_lr0.003_st2000.log",
+      "bytes": 161,
+      "sha256": "0b67c97b708260cf661b8b63d3576bb8ff1f183fe52c4949631e1ef652881dd0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270203_lr0.003_st4000.log",
+      "bytes": 159,
+      "sha256": "a543bc797b3b96c156ef9019bf37c50392cac7bf582386ea0049199b25fd3e43"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270203_lr0.01_st2000.log",
+      "bytes": 162,
+      "sha256": "c7e635a25a7e8d86283303b457d054310d52d3e30d0a974b769605169b5899ef"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270203_lr0.01_st4000.log",
+      "bytes": 161,
+      "sha256": "8f62d8a6c0f907d84a5b5000d29458dc11ecf0010de9d4ffd135e2f1f7fdbed4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270204_lr0.003_st2000.log",
+      "bytes": 164,
+      "sha256": "4aab2fe8e6b973bd8c9709b635318fc0fec8a64c1a055145198e98867ca7e133"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270204_lr0.003_st4000.log",
+      "bytes": 162,
+      "sha256": "aa5ebfd6ecc573dc24c968e86ebdc8b722dff1817011109f7b15c553c55de12a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270204_lr0.01_st2000.log",
+      "bytes": 159,
+      "sha256": "f23247b027575b74ba72ff614a490aed8dc09531b1cfcbfd1ea08fa459088264"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270204_lr0.01_st4000.log",
+      "bytes": 161,
+      "sha256": "1dab502727de9b7e72597347d47db21df7f9c7b58c1c1950b9fc0621766492d5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270205_lr0.003_st2000.log",
+      "bytes": 163,
+      "sha256": "b5b1e1525db9c532dd47e5cbfded8550e9797c4f29c64b054ba22c882c6c509c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270205_lr0.003_st4000.log",
+      "bytes": 163,
+      "sha256": "164cbd72a105f8c794b90f82c841c13b24956bd20a0a5fad18470212740bdbcd"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270205_lr0.01_st2000.log",
+      "bytes": 163,
+      "sha256": "53e877252465b58d92d12808dcaa7de8c413e50f6af8e0742a84c783fd9c85d2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S0_s270205_lr0.01_st4000.log",
+      "bytes": 149,
+      "sha256": "38dc9419d917a8d57fb123f423056879f1da290a5d2d9462bf6f0ece51c17e80"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270201_lr0.003_st2000.log",
+      "bytes": 152,
+      "sha256": "2d94b3a76d7be8c5eacc6a0a9f5a255715b4c36599782d7c0c16b99582abea06"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270201_lr0.003_st4000.log",
+      "bytes": 161,
+      "sha256": "736dd028d8727a835ab302a1992d541f7ffb74e37cf0b5ef47c4a42a27178f10"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270201_lr0.01_st2000.log",
+      "bytes": 160,
+      "sha256": "e5077c49520b58c3e7cc95f95aeb965ada2eb7f76aa8e2f7fbcb186a4455585c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270201_lr0.01_st4000.log",
+      "bytes": 149,
+      "sha256": "626fa1a63e5ae0269ac6fe6b0cc725973fc9e24ba0f21d13192175eeeed12ea4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270202_lr0.003_st2000.log",
+      "bytes": 157,
+      "sha256": "d8e28353e17c282275dbe8be6228a9432788286f9f27f5846c4b890132b86ba2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270202_lr0.003_st4000.log",
+      "bytes": 153,
+      "sha256": "9bdb280ebfc2b5d9aa811c97db986f9754b09bf2a467e61f9d2d4b60f166871e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270202_lr0.01_st2000.log",
+      "bytes": 151,
+      "sha256": "7d239a4f8077bbb4408fd0c81e2ad24406e25bac44fd089a5e6a5baa097f8fe8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270202_lr0.01_st4000.log",
+      "bytes": 152,
+      "sha256": "ba4efe48123a096a4585461b178d710f3bfe0a9daa86004a78527d76c227e01a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270203_lr0.003_st2000.log",
+      "bytes": 163,
+      "sha256": "0e80e0118b1f99cbc3a179f0cb152682d5a00bf25ec7c6c084ecb0502b8f14ac"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270203_lr0.003_st4000.log",
+      "bytes": 151,
+      "sha256": "4fe54ccaf7d0935334c365808f63ec8c939724817d5eeacbb8ace1104b78cf4f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270203_lr0.01_st2000.log",
+      "bytes": 149,
+      "sha256": "22feb37361aaa6314cd5412908863f70a3a6f81384d097980befd3422cdafb78"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270203_lr0.01_st4000.log",
+      "bytes": 151,
+      "sha256": "f61ba9b480116d460881d61bed3339207cbcc34d07612421fab4161fa56095d0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270204_lr0.003_st2000.log",
+      "bytes": 164,
+      "sha256": "93c7b570c3cffed4230d5c389da8ba1a82a2a0e722fd0915f2974a0a7fbd678c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270204_lr0.003_st4000.log",
+      "bytes": 163,
+      "sha256": "1ba4f389dbab147cfa32d835ccf94aaf17937d212a78fdeec5a1a0068f93dd3b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270204_lr0.01_st2000.log",
+      "bytes": 151,
+      "sha256": "aeeef7978a8355054856a0e42b38bc798c28e8ee58c60dcea751d314424c5e0f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270204_lr0.01_st4000.log",
+      "bytes": 150,
+      "sha256": "8870e5a5ebd23f98afdfab92f301077f28db60a3e977cf32e5bea69cbf2fa7dd"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270205_lr0.003_st2000.log",
+      "bytes": 162,
+      "sha256": "eb0e6b5682d51ac85228e95dbd271e57696eb1f4a214d7f58ac887e6c78850bb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270205_lr0.003_st4000.log",
+      "bytes": 150,
+      "sha256": "352ad480ca2f296ccc7767c5f981aced7bc4fe319dc86c2e2f09d16b8e201893"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270205_lr0.01_st2000.log",
+      "bytes": 163,
+      "sha256": "b0032cd61243b0cb710779a5b60d4ca6b19da1f278e8e2520f3be1a85b8fd35c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/logs/run_standard_S1_s270205_lr0.01_st4000.log",
+      "bytes": 149,
+      "sha256": "47a9b9f3051314d5193d9a3d34864363ed4b240d35479ed6286e14d20cd32616"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.003_st2000/delay8.npz",
+      "bytes": 50343,
+      "sha256": "69da8d2e9ee56a96fc2de7dac1a3ce0f07e73e2305937dff3935e27dc02be977"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.003_st2000/id.npz",
+      "bytes": 50360,
+      "sha256": "e80f27a43d502185c8fb61223b513dbdbfbc7186223a0b960a6ad941c0548a00"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.003_st2000/model.pt",
+      "bytes": 83953,
+      "sha256": "626521d8ae52984e30c5868bc2a0dd5b91d72e8f86e0f9907e3de7a235320c4c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.003_st2000/ood.npz",
+      "bytes": 50288,
+      "sha256": "c0a54ad2d332e50323ae6de099d2c097de00e61845c598f519c8c753498c7ef1"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.003_st2000/result.json",
+      "bytes": 1977,
+      "sha256": "658e97908bc53367a64b342177ce51df220cf71aa2f5261b6c07aaf59d1746fa"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.003_st2000/training.npz",
+      "bytes": 593553,
+      "sha256": "2d83d7bb46d8b1a15bd0b98e6315f18b5cfcb93e639f69044829b27339e57447"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.003_st2000/val.npz",
+      "bytes": 50272,
+      "sha256": "fc019bcb350657fb61d1471924113132e53d164ff680a33054dfe55abe4fcec6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.003_st4000/delay8.npz",
+      "bytes": 50317,
+      "sha256": "5b2b0effb5f25ed97c5e92cab7d13d04b56f58ac0e178aba662300bdd56cf7e6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.003_st4000/id.npz",
+      "bytes": 50303,
+      "sha256": "42edc8e57a23890f65b688f6c88b2e5917393123652d0cd3b8bb5bcb347ee5eb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.003_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "be7396dc657fe45731ef2f584daf758a8483fd90931be2410b0922674af7259c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.003_st4000/ood.npz",
+      "bytes": 50278,
+      "sha256": "245df7c26d46b087e1a198862d7c5e41c8c1ddb0a42f3cacd0d54be7af33db46"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.003_st4000/result.json",
+      "bytes": 2530,
+      "sha256": "76e0c3d3f5acd3c2c22a3015973f84bdc3dfcf7ffbe788f92efcaef03f176187"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.003_st4000/training.npz",
+      "bytes": 1186041,
+      "sha256": "5bf9e9b5359b97e372068baffde76123cab9ea3e8f27312f7c5c4152ed87a4d9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.003_st4000/val.npz",
+      "bytes": 50229,
+      "sha256": "01a868d99f8ebf755de9f46962e31d9b077fde202b24d8fdf507eb7e31c0c582"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.01_st2000/delay8.npz",
+      "bytes": 49814,
+      "sha256": "059f647133eebd35378c0c613c55c94cee2cfdfb1b40089daca76696c799985f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.01_st2000/id.npz",
+      "bytes": 49824,
+      "sha256": "08e272c8ff623ea122018cddce4bc6add626131867a7a175c9d7d1bfb01fd5c2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.01_st2000/model.pt",
+      "bytes": 83953,
+      "sha256": "71532f7eacef3a2bc782264b5560fa5605bbc7090040c8d6c8fc8a3deb1dd05f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.01_st2000/ood.npz",
+      "bytes": 49581,
+      "sha256": "bb98fc6ecfdade5219db36785032b286e8ad15a46f66dc6e0c9f66c3f3af715a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.01_st2000/result.json",
+      "bytes": 1980,
+      "sha256": "7a93b4bba4eb401b6d7ad2a8726dfc4234f7dc9c82278d835a18d8cdf450dec7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.01_st2000/training.npz",
+      "bytes": 593553,
+      "sha256": "2d83d7bb46d8b1a15bd0b98e6315f18b5cfcb93e639f69044829b27339e57447"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.01_st2000/val.npz",
+      "bytes": 49736,
+      "sha256": "b7ddeefe8d1291c529094e117a53a466e0f276d59df2dc81e24a529090781644"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.01_st4000/delay8.npz",
+      "bytes": 50144,
+      "sha256": "d2eb7f93ac4778ff9d09b4a51af063729d9a037dbc0ef269eab31cef5cb01fca"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.01_st4000/id.npz",
+      "bytes": 50118,
+      "sha256": "e6d59f23525861b5d4de90d93170e41870fed357d2dd408730d5b872b2dd0ab7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.01_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "76f806b2a83653f594e7ea1881ad619b87f9f27cd570e651d783fd899eaa75ff"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.01_st4000/ood.npz",
+      "bytes": 49810,
+      "sha256": "1a33551bddc1eb2d95704624c2d15c2198257d75eb9dacd7d6c3358856608866"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.01_st4000/result.json",
+      "bytes": 2537,
+      "sha256": "ffd91b24e704bb49f143d9289f9c60720ef4f3d37202c88cebcf11b022392f12"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.01_st4000/training.npz",
+      "bytes": 1186041,
+      "sha256": "5bf9e9b5359b97e372068baffde76123cab9ea3e8f27312f7c5c4152ed87a4d9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270201_lr0.01_st4000/val.npz",
+      "bytes": 50022,
+      "sha256": "b33c7d873d5dfcca62356354b88206c50f77b30223ef042273ee2688e370dbe0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.003_st2000/delay8.npz",
+      "bytes": 49085,
+      "sha256": "ffbbbaae7d1945253038d9e5cdee5fa9e39be9df453728125b2d449f36edc2be"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.003_st2000/id.npz",
+      "bytes": 49201,
+      "sha256": "e3ac51d08fc221b6c908821344fab603c75fe01098a2476ca947d21c69a5125f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.003_st2000/model.pt",
+      "bytes": 83953,
+      "sha256": "67120a3974cf89a5d3ea068ebb375b249e3292c175a5ad35b6c86d6a734f7af5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.003_st2000/ood.npz",
+      "bytes": 49314,
+      "sha256": "582f1eb0a2aa08b3e8f13c348698db60e07347ec7428417a734f2ab8d3ccf53d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.003_st2000/result.json",
+      "bytes": 1977,
+      "sha256": "82f2b2e02f516d5ab5996a04d6f1be1e0a7c44448d23be55db3e15ee14316ec9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.003_st2000/training.npz",
+      "bytes": 593419,
+      "sha256": "023e50afe2c74b6ceb28a71d670bce40c3212e64204ba1577663d3ad5a82197f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.003_st2000/val.npz",
+      "bytes": 49185,
+      "sha256": "41aaae565e05f3bcd9e67c2d9de3ba5e998b190b8a14f3043580a3ca62b7b7a9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.003_st4000/delay8.npz",
+      "bytes": 49061,
+      "sha256": "6ab275316ec64e8a628523bb185a46072ef7b0df5d62b09ea9ad16fd42e6c891"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.003_st4000/id.npz",
+      "bytes": 49158,
+      "sha256": "b383cb93256eecdcbf9a8996fe224d6790441e9394e104ab1738f3654a2699a3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.003_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "1940c208f70ab086c23dc3faf6075c884e5b691dde020a36a62c48cbefc95731"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.003_st4000/ood.npz",
+      "bytes": 49248,
+      "sha256": "db141f076b6c19c2bfe4caec759ca0050826eb09d8fdbcca178b42b5b8aed552"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.003_st4000/result.json",
+      "bytes": 2535,
+      "sha256": "82f5f21ecc079a7dfa66ebd1c4901565c031c6ad855627e024d2ac392348822e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.003_st4000/training.npz",
+      "bytes": 1185759,
+      "sha256": "c6f5052c708c2108254711b52685899208d01e6ecb1db6207b88cb795cf59a9f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.003_st4000/val.npz",
+      "bytes": 49157,
+      "sha256": "8c379cfeb383818662b8526e666a8c2bd52ef59e8bb19fd1465b972dde83fc57"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.01_st2000/delay8.npz",
+      "bytes": 48009,
+      "sha256": "84c482908de26f3195cd3c11d78ca405dc820e23a184d83060cfb6dafecd1157"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.01_st2000/id.npz",
+      "bytes": 48062,
+      "sha256": "a75d3bff3aaac6c4909f4cc9b1b8dc2ee1bcb54b5c12fdd2aa3329e0965616d7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.01_st2000/model.pt",
+      "bytes": 83953,
+      "sha256": "302a16b4fa4b8f7c9349751c811c751dbc8569e6949aaebd37b038899cce3a95"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.01_st2000/ood.npz",
+      "bytes": 48075,
+      "sha256": "0e4ac21952a2fdf0fed820449bd5866eb41f90ae90cfa0cfcb0bf519c9d28b24"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.01_st2000/result.json",
+      "bytes": 1981,
+      "sha256": "06415159a42f8532227b753d9eb890630576156a07b056af33c978cb440f2bc9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.01_st2000/training.npz",
+      "bytes": 593419,
+      "sha256": "023e50afe2c74b6ceb28a71d670bce40c3212e64204ba1577663d3ad5a82197f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.01_st2000/val.npz",
+      "bytes": 48095,
+      "sha256": "94983e7278ede49ff6b0d2ebd56140110120d8493fccc14eba86d8c548477364"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.01_st4000/delay8.npz",
+      "bytes": 48630,
+      "sha256": "50432bc1420afc4c69f4a50f308c30dcd1a8d16a22a15ff17f1f4b0e6155fd6a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.01_st4000/id.npz",
+      "bytes": 48693,
+      "sha256": "931e7ee278f4b3a76c93675662b0d31ea0fabfc1fe142f28c14c2eb16eb19c8d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.01_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "d13c82fdaf79234d2899da22b574aa3d87552e67ff80afe7193044f301a40369"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.01_st4000/ood.npz",
+      "bytes": 48478,
+      "sha256": "b30c14063866290e8a49b8031aa337b5dd122351e659bbca2450279bee9fc319"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.01_st4000/result.json",
+      "bytes": 2536,
+      "sha256": "1cedc623ed74571a8a7096d4cdc6e71124185b15b0eef3ea3651a5cc8e4362dd"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.01_st4000/training.npz",
+      "bytes": 1185759,
+      "sha256": "c6f5052c708c2108254711b52685899208d01e6ecb1db6207b88cb795cf59a9f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270202_lr0.01_st4000/val.npz",
+      "bytes": 48700,
+      "sha256": "50d364181a8fb1918084e78b2254d67afef7d96f4d811ee54e4e81dc4a8e9ddb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.003_st2000/delay8.npz",
+      "bytes": 48906,
+      "sha256": "e565bb2c210b8d0951d1b8ba82cc9246170c63b4b882a23172b319eb427276a2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.003_st2000/id.npz",
+      "bytes": 49028,
+      "sha256": "a5077c548c8f502799fbea730bffc787f6260a48c8d3c12af8bac4b1f2e943f6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.003_st2000/model.pt",
+      "bytes": 83953,
+      "sha256": "59df8108bc6283e70eb835de698f56235ee73c8474bf0a3704f8347c89d8448d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.003_st2000/ood.npz",
+      "bytes": 49206,
+      "sha256": "8fed054660acfdb466c0d5ffc737349b0c36192a0fbbef0e163a2726fcc7984f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.003_st2000/result.json",
+      "bytes": 1976,
+      "sha256": "b1e7cd718564dc1899fb84abc76a4562bbb72f65f8bc30e8eac8b63389095d72"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.003_st2000/training.npz",
+      "bytes": 593280,
+      "sha256": "c712a755a77fa1b2c2864565cb79f64e303d2701130788ae82c6119bea9d67a7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.003_st2000/val.npz",
+      "bytes": 49142,
+      "sha256": "c2fc549092c30d505bd02055d18c73644bfc08e8f2ed5e4d32c727e4d45f719f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.003_st4000/delay8.npz",
+      "bytes": 48982,
+      "sha256": "d1fa4709c65d9d2bc31e263758445408a49f694d6bc797b734f5b0cb4e2bf849"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.003_st4000/id.npz",
+      "bytes": 49049,
+      "sha256": "df93e6293e4b4c3a5e119a32e0e4c2291a99d19824797ef25de30062ba7e800f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.003_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "28657083536c6d2833934507d72319b09c3a701790e46bb41d594c3b76e28dc4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.003_st4000/ood.npz",
+      "bytes": 49236,
+      "sha256": "7dc25b07f53ec37f4a8dd6bc08db6821ee9f0176b1ed94d44a5cd2154a0893ae"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.003_st4000/result.json",
+      "bytes": 2531,
+      "sha256": "252ae6a708c987c2e7f83d791a856d9a550a8528687057fac610628a0c9148c8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.003_st4000/training.npz",
+      "bytes": 1185893,
+      "sha256": "f296ebb11b4fa24b96820df6f58806dff82a614be9552a6ec544cc1e9c23b9e8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.003_st4000/val.npz",
+      "bytes": 49119,
+      "sha256": "8f364a623d9bc079dcd39a7b132c5d36a575d410eb6968c35a6aadb48b009fa6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.01_st2000/delay8.npz",
+      "bytes": 49749,
+      "sha256": "85068010ade9fc4a7bc72ba22a462fed6e73959381ad52600bf476b8520ab836"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.01_st2000/id.npz",
+      "bytes": 49720,
+      "sha256": "3922741110db7b0a7f739c1c74c69ecfae1345cbc28e66166db226ea54c94d6e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.01_st2000/model.pt",
+      "bytes": 83953,
+      "sha256": "c22a39d5f739f36a6084395463f718e2800fe822bb8e84bf4411e120c1fa4d6a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.01_st2000/ood.npz",
+      "bytes": 49850,
+      "sha256": "0f112327c743a7cf24dc26cf823022f5ad3f3347b36bc2a8c268a1d4ef341802"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.01_st2000/result.json",
+      "bytes": 1976,
+      "sha256": "f04656d15cdd4da17071cecc6b97ec2191dd413e0da625c37af3bd01ac97ab4d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.01_st2000/training.npz",
+      "bytes": 593280,
+      "sha256": "c712a755a77fa1b2c2864565cb79f64e303d2701130788ae82c6119bea9d67a7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.01_st2000/val.npz",
+      "bytes": 49778,
+      "sha256": "854533585c5c580b0317ae73402a261ad721f4b250ebf4ee3e182777e757fd6c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.01_st4000/delay8.npz",
+      "bytes": 50163,
+      "sha256": "2a12f4f80c3140ba2dd2b7b62f2b4a20a56a0337f1bea4982b473a53f6f013f3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.01_st4000/id.npz",
+      "bytes": 50161,
+      "sha256": "14b0d22c2dcdaeb406349e69ff3228d6e775d44ed46f298a53e944591c8061fb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.01_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "3349f6d6a6ff94a75c0a1185d75d9f84ca84b14ffda734a7364d490c8034c7d5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.01_st4000/ood.npz",
+      "bytes": 50176,
+      "sha256": "d98557d21ec4b391404061ffe482a4dfd813ae78c6248cfd93de5cce0489bfe5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.01_st4000/result.json",
+      "bytes": 2539,
+      "sha256": "33467ee9843d17ddc632a9975ea07223fc1f8e2fa586e514b943370e9c0e08a1"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.01_st4000/training.npz",
+      "bytes": 1185893,
+      "sha256": "f296ebb11b4fa24b96820df6f58806dff82a614be9552a6ec544cc1e9c23b9e8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270203_lr0.01_st4000/val.npz",
+      "bytes": 50244,
+      "sha256": "02187ea2e1382688ea32ed1a2060ede161a7fd4f74482e906510430fd84ffcf2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.003_st2000/delay8.npz",
+      "bytes": 50463,
+      "sha256": "880ce30c950e4395ece58f20359d469d7fbf9ef212ebdc51fc59132c0ffa85e6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.003_st2000/id.npz",
+      "bytes": 50483,
+      "sha256": "f5203692a0461626ba00fe5b773e74abd1fcd7a6c196f7acb88571d582d900b0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.003_st2000/model.pt",
+      "bytes": 83953,
+      "sha256": "4188ed8874fbeebd2552956bddb64f457826b9c6023555b1ed40e21e0ff49dc1"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.003_st2000/ood.npz",
+      "bytes": 50581,
+      "sha256": "254855ba314749c5b47801ed42e4d0c0621dd175408f04b05c73cfec749f4bb4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.003_st2000/result.json",
+      "bytes": 1968,
+      "sha256": "d4bd4f082e373b6b532aa6f879ebff5fa6b761b64cebcc80b8bdd255fbde7647"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.003_st2000/training.npz",
+      "bytes": 593227,
+      "sha256": "5aeabbf3546bebc3132e52929e91dbc7859d7e2122c242c28406e26a6d66f081"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.003_st2000/val.npz",
+      "bytes": 50552,
+      "sha256": "e2736e07975aa23f1f2585816af1f758317bd5974618e02fac84f3660e94ba5f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.003_st4000/delay8.npz",
+      "bytes": 50160,
+      "sha256": "21445ca62409ede7efa030b27c13218d9fa4a6eb866e51e2d146aa70f61e87ec"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.003_st4000/id.npz",
+      "bytes": 50085,
+      "sha256": "90010ed660e5adfb06f551419b734513bd93dbb13597e69149eb900e76382752"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.003_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "b246083226f8a454bc182afedf5ea007b2f045f5b1da178b4609cd3b9068e86f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.003_st4000/ood.npz",
+      "bytes": 50309,
+      "sha256": "a0716d05ff909475d6a69dc3302a225161010530c5bf9dbc94bb7fda15edfbc7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.003_st4000/result.json",
+      "bytes": 2544,
+      "sha256": "1c1099aa27d803bcb422f41a6df0062a8bf73b1e1498f600dcf500561b400136"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.003_st4000/training.npz",
+      "bytes": 1185591,
+      "sha256": "b76dc3bb734310d0fecccb47ea09b8dccc3fe9f33be7a390f4a9bab9cd76ad69"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.003_st4000/val.npz",
+      "bytes": 50137,
+      "sha256": "59cdf94d07b3844cff9a4969f71e688ac1670f049a0bfb099f1eb91504cfd52d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.01_st2000/delay8.npz",
+      "bytes": 49746,
+      "sha256": "50b7d4bcdb049decf9dd8b5ea563906fed7d14d4b108d182be2fec1befb2699a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.01_st2000/id.npz",
+      "bytes": 49580,
+      "sha256": "5a4300215d6f581869f20d074cf91f022f377cc49cd32e7b221e1724616cba52"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.01_st2000/model.pt",
+      "bytes": 83953,
+      "sha256": "0d2176373dd27680858eb050e2e3d467da50d1282ea6b8c6d151c7e833d02051"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.01_st2000/ood.npz",
+      "bytes": 49707,
+      "sha256": "135e0711c637c79a6f8fd8952e623bd7eb276b0d97bd6954a7d3b7fe6fa4a2a6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.01_st2000/result.json",
+      "bytes": 1980,
+      "sha256": "47175f3d09618c5e57c92de4a5b0a105b4f4d186dc429f57fd0edb38b8b3cdf6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.01_st2000/training.npz",
+      "bytes": 593227,
+      "sha256": "5aeabbf3546bebc3132e52929e91dbc7859d7e2122c242c28406e26a6d66f081"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.01_st2000/val.npz",
+      "bytes": 49661,
+      "sha256": "0d62341779871212ea767f302c1446723f52d28e03f63599bcf83affb396ade3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.01_st4000/delay8.npz",
+      "bytes": 50256,
+      "sha256": "5a61425457102ae5af4844c5c4611f2808fac8d6d5847ab4d6d35fb641472a17"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.01_st4000/id.npz",
+      "bytes": 50145,
+      "sha256": "380da6864d59d145ddcf003b91ddd09e45c1b7f846d345d3e3b525eb8f9ef390"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.01_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "88ea0dd19bde83ae83e949b3cce5ea98acc7f7cf67fbc1c891ec06a2e254072d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.01_st4000/ood.npz",
+      "bytes": 50155,
+      "sha256": "86ad22ab651e5b049db7dc78c28ac594bd13578c6fd49c908ecfbb59b36fec41"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.01_st4000/result.json",
+      "bytes": 2536,
+      "sha256": "24699f5b6c8aad6bcd9621e54440ff760022dba7a8b239eabe7176cc547c110c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.01_st4000/training.npz",
+      "bytes": 1185591,
+      "sha256": "b76dc3bb734310d0fecccb47ea09b8dccc3fe9f33be7a390f4a9bab9cd76ad69"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270204_lr0.01_st4000/val.npz",
+      "bytes": 50237,
+      "sha256": "122eda9205a444ca064a1517f04c99e1106aee7d5dd48de1d800f222b7011d1b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.003_st2000/delay8.npz",
+      "bytes": 50163,
+      "sha256": "6638cd2eba256a80eca650777a82b02deefd54af777819bf44e51898bd20e922"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.003_st2000/id.npz",
+      "bytes": 50276,
+      "sha256": "b0058dfc7e10c94543995a6060190d195bc6f5951c2c614e251ffcc727b9a7f9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.003_st2000/model.pt",
+      "bytes": 83953,
+      "sha256": "9034bb509e1756403f8ace09fa05de40ff5baba96b339cfe5c7771981f7c735b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.003_st2000/ood.npz",
+      "bytes": 50316,
+      "sha256": "4714ada08dae9823f3814a812aa2ff30c4dff84aaa39dcbb9221b5105b5d148a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.003_st2000/result.json",
+      "bytes": 1975,
+      "sha256": "702b11a601fef7fa8362be19efebd7bdb67eda9e5f83684ba0f2bec1ebc3a3d1"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.003_st2000/training.npz",
+      "bytes": 593777,
+      "sha256": "57e3a21a4f088f41d44edbd0d8b283aa9607ced19f6afa61f632b8140d17e609"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.003_st2000/val.npz",
+      "bytes": 50304,
+      "sha256": "b5dbe66cabb7c22f5d53d4189ae3f70f5b67ea48e2301c90c45ef372d4ce2b8e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.003_st4000/delay8.npz",
+      "bytes": 48949,
+      "sha256": "6594d747ab9ca00eeadd22f32ad961a1ebb646574575c2d4655905bfb9182d36"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.003_st4000/id.npz",
+      "bytes": 49051,
+      "sha256": "aeb3862ee75ffd7cd0600f1c5816bd47c8095a958b4d82abf40ec434bfe3fad2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.003_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "a2422ab9b59d33d3c236e92af8b31483f36638f24f60b9d19c57bfacd54cbf9d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.003_st4000/ood.npz",
+      "bytes": 49136,
+      "sha256": "b15af33bfb593fb356e1015d35841ad72652f98bc31ebd778299d79c774fddeb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.003_st4000/result.json",
+      "bytes": 2528,
+      "sha256": "bf9a69e6dffbeb8ca9a63c00ebe06b289cbbcfd622fc26df56f464eff7e5a7d0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.003_st4000/training.npz",
+      "bytes": 1186588,
+      "sha256": "e005d60217912d033d40382a37ce8087b6234d2674534ce9d57dce122cd36744"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.003_st4000/val.npz",
+      "bytes": 49073,
+      "sha256": "7eea2ca7225150fa0f12b591676483e6155304a1cf0def71629caa75f914a7fe"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.01_st2000/delay8.npz",
+      "bytes": 49296,
+      "sha256": "f1ab1bb6b93cc32850a9e60f6710a1dbbcaff47fe943b3afe53194eda9b7927c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.01_st2000/id.npz",
+      "bytes": 49357,
+      "sha256": "cfa722c62222785c2a144984d1dde3559f5f4730ea0bc601c8c56488d350b60c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.01_st2000/model.pt",
+      "bytes": 83953,
+      "sha256": "2820a92d2d73153c1c33471fa5c31ca758b34bdd6aed4c6606804e1beb7d6249"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.01_st2000/ood.npz",
+      "bytes": 49249,
+      "sha256": "f2f12970a3b51f6beddeebca1e00065443c8c387565cb87545a59da0f0c2837f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.01_st2000/result.json",
+      "bytes": 1981,
+      "sha256": "323fb82b3761886fcb1a09d7df904519d1c26c09a021df9a8e38108b1193049b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.01_st2000/training.npz",
+      "bytes": 593777,
+      "sha256": "57e3a21a4f088f41d44edbd0d8b283aa9607ced19f6afa61f632b8140d17e609"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.01_st2000/val.npz",
+      "bytes": 49396,
+      "sha256": "ff3833a80d5310b66d0e9a5ab1c8c14a8732d93d17444dc0c80faa9a859c74c2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.01_st4000/delay8.npz",
+      "bytes": 49865,
+      "sha256": "bbf631edb53670c779b5b21198620d3a81500261f2b5c136ee6e6a3e5fa583b6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.01_st4000/id.npz",
+      "bytes": 49925,
+      "sha256": "9c2f4dc1dbf663327b931f363657521538118030a5e42e789badedfaef008aae"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.01_st4000/model.pt",
+      "bytes": 83953,
+      "sha256": "31926cd8ba9e6066d40f815a81c38a8a7c0018193d6d30e4c93027d03d50fcb4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.01_st4000/ood.npz",
+      "bytes": 49628,
+      "sha256": "d1824b923b189344358868f3d96f7d52600b825ce9c406b429d8f7c776092e81"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.01_st4000/result.json",
+      "bytes": 2536,
+      "sha256": "e3c59b849adecbef8ea4231873fa529ec065b4cf3144c6a464e3c4c2b2e06261"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.01_st4000/training.npz",
+      "bytes": 1186588,
+      "sha256": "e005d60217912d033d40382a37ce8087b6234d2674534ce9d57dce122cd36744"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/F0_s270205_lr0.01_st4000/val.npz",
+      "bytes": 49958,
+      "sha256": "6881728659231eedf4cfb20ea14573519ddb59581a7452c690513dfce2a0ea1f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.003_st2000/delay8.npz",
+      "bytes": 49162,
+      "sha256": "a63329609771cbaa7dd3dfec1604c7fa37877e04c5679d21e4626b557fe8d4bb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.003_st2000/id.npz",
+      "bytes": 49110,
+      "sha256": "7aec98f88342dc5a064222020000af71f12bd32b94af3468c52f3993e9999352"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.003_st2000/model.pt",
+      "bytes": 59761,
+      "sha256": "3ff359bedd3dcb9d8d6eb037e0ba4913c751257c0abfbbfb0872b3e55bf8c123"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.003_st2000/ood.npz",
+      "bytes": 49070,
+      "sha256": "4229e9f5b079d460b119f913d08c9b2c9253509628e1272a9c1afdea49db13e4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.003_st2000/result.json",
+      "bytes": 1976,
+      "sha256": "e769dfcf8f421e4a736d096529ae444b80807016a1e07b0eeec7ec4d4a9d5ea8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.003_st2000/training.npz",
+      "bytes": 593553,
+      "sha256": "2d83d7bb46d8b1a15bd0b98e6315f18b5cfcb93e639f69044829b27339e57447"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.003_st2000/val.npz",
+      "bytes": 49049,
+      "sha256": "fedd8b3e52e58475f1d0b2bbf41aa75ec7ebdcc86d861b827b8a2b4ce8e7cd18"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.003_st4000/delay8.npz",
+      "bytes": 49149,
+      "sha256": "bed655ff7c72ed5fef0140b3cf0688219c94dbd7b602a738d2519db50a6de3a7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.003_st4000/id.npz",
+      "bytes": 49135,
+      "sha256": "553afa32dffab6b7549520c69ef643df86181854d838eaca426bc2498483caef"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.003_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "4a274948886a9b237985ca94d6dde68f33b73ce4a886b208466ac0acee861228"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.003_st4000/ood.npz",
+      "bytes": 49123,
+      "sha256": "495902c9fd8a6812a558e44cf116d72813c09fcf812b3e4d4b2ce967f06ba912"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.003_st4000/result.json",
+      "bytes": 2538,
+      "sha256": "4feef170f718e652f1e6b5a4d594105c3b213dfe68df59876827fdf69a8e7346"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.003_st4000/training.npz",
+      "bytes": 1186041,
+      "sha256": "5bf9e9b5359b97e372068baffde76123cab9ea3e8f27312f7c5c4152ed87a4d9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.003_st4000/val.npz",
+      "bytes": 49044,
+      "sha256": "e90d5a8a8e52ad2f24a916e42afb4db78cc3e61e1d0717fb637c582e18e0cd45"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.01_st2000/delay8.npz",
+      "bytes": 50323,
+      "sha256": "4ef17fa5c2340006ca225c4cfc850896159139722b7456d6543b4fff723be2a8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.01_st2000/id.npz",
+      "bytes": 50265,
+      "sha256": "0c8c9bdb3377439e612055e74225227e5a6a0b7956b1619be2fcdc680a5ca9f5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.01_st2000/model.pt",
+      "bytes": 59761,
+      "sha256": "3f6d302f9e3069dbb4260999fb40dc823d5dbb7e25d1910a324a5eed4d943cb0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.01_st2000/ood.npz",
+      "bytes": 50177,
+      "sha256": "42980e34bdf3b43d67419100aa717ece2970f1fb4bfa4e0c83150181622a1649"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.01_st2000/result.json",
+      "bytes": 1984,
+      "sha256": "1f362f30ba79a1ccef4f098f2a1e79e80a0b72d0395d93c0d80984ec8f7c9fdd"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.01_st2000/training.npz",
+      "bytes": 593553,
+      "sha256": "2d83d7bb46d8b1a15bd0b98e6315f18b5cfcb93e639f69044829b27339e57447"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.01_st2000/val.npz",
+      "bytes": 50167,
+      "sha256": "ae90f209ab4a80e834a75806643d601e3cf55eab2fd5758427a14b5f2b493525"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.01_st4000/delay8.npz",
+      "bytes": 50254,
+      "sha256": "18bd404f0167840529440a3350dbc2deda59368356f2acddfe76b53585a4c81e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.01_st4000/id.npz",
+      "bytes": 50180,
+      "sha256": "38d3c12cd01b9a17cc980b6ab937dbf51b07f4d7712d5b0103e912cf2a96763b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.01_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "9a5bff55d06e7c6bed4df394ff0da4221a20450f0457005748a8c74ca7c3c354"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.01_st4000/ood.npz",
+      "bytes": 50302,
+      "sha256": "473026e3260da3339d5dc1ae980abd5f73f7d8ae3970fa7be9bc63c95044aed6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.01_st4000/result.json",
+      "bytes": 2539,
+      "sha256": "c41ad3f772dc3361c0ce9b3f53aab9e620770be3845858d12ada4096929975f2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.01_st4000/training.npz",
+      "bytes": 1186041,
+      "sha256": "5bf9e9b5359b97e372068baffde76123cab9ea3e8f27312f7c5c4152ed87a4d9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270201_lr0.01_st4000/val.npz",
+      "bytes": 50142,
+      "sha256": "80e0c87c63ad301b33ac539fe49d90bde75da111296d70c873bb25523d4fd5d7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.003_st2000/delay8.npz",
+      "bytes": 49100,
+      "sha256": "f2fd2537dc19805d3ff35e2157acdd31a0e87430ddc21da05cd77f30b6e5231e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.003_st2000/id.npz",
+      "bytes": 49299,
+      "sha256": "74c762def233cef69bce09670bd7ce085d8ca9cdefd6055385b1ba4f597054b0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.003_st2000/model.pt",
+      "bytes": 59761,
+      "sha256": "7164d66039bcad493d297d8ea0b98fff4150c335fdeea3b7aa9f77ac0de2be7f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.003_st2000/ood.npz",
+      "bytes": 49435,
+      "sha256": "700b9761f40bdf895b04d853d42a0e765d23e88a05493e29b04422b4a5a8b4a9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.003_st2000/result.json",
+      "bytes": 1971,
+      "sha256": "eb2c07919570cca4b3098239ec66980386e9e05bb996527febd5bc637157b9a3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.003_st2000/training.npz",
+      "bytes": 593419,
+      "sha256": "023e50afe2c74b6ceb28a71d670bce40c3212e64204ba1577663d3ad5a82197f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.003_st2000/val.npz",
+      "bytes": 49316,
+      "sha256": "fb141deee694224b56cd0d5aa1bd77cd7249e4937e0627b815c56e070f62eb4b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.003_st4000/delay8.npz",
+      "bytes": 49028,
+      "sha256": "a46e1292517915569145c1954ab7a2d0da587cb593fff6b96e39fb0e8ebf0ff7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.003_st4000/id.npz",
+      "bytes": 49051,
+      "sha256": "8bfd191cef559d89980cea6f3d5c91d1226040f0b8d49bafb7c27be8967190a6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.003_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "95e1239f6051156ee2175fc5ba0905a477d80ceb30a028d6096683cc3166a91a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.003_st4000/ood.npz",
+      "bytes": 49372,
+      "sha256": "ceb2c27b94f3a46c739d5b826b33e823e4cb0e8beeae72c9a353e37045de4a04"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.003_st4000/result.json",
+      "bytes": 2523,
+      "sha256": "2692781ef9a9dc2d1d9127fbc4e7edb75560d849254cadad65325e8ffd79b135"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.003_st4000/training.npz",
+      "bytes": 1185759,
+      "sha256": "c6f5052c708c2108254711b52685899208d01e6ecb1db6207b88cb795cf59a9f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.003_st4000/val.npz",
+      "bytes": 49078,
+      "sha256": "d427f373709c60f37f2d654d5aec5063c3c68e40f87bb3c6e86ad8da2d1de681"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.01_st2000/delay8.npz",
+      "bytes": 49196,
+      "sha256": "4262f7ff3328e414ece26a8340d5a6446f822343f6b66f38511b1361f79021af"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.01_st2000/id.npz",
+      "bytes": 49243,
+      "sha256": "1771863f511c545fbcb19459faa160a801597ecaf366c6d21943cd810585064a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.01_st2000/model.pt",
+      "bytes": 59761,
+      "sha256": "b4ff309494b675d6e66a05318316f1e161a115a017ac26366e69dfe155cff592"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.01_st2000/ood.npz",
+      "bytes": 49052,
+      "sha256": "04043c8438c82726144d61cc09f152c139566df6feace8a4a1ea2fa0e2bd6a6f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.01_st2000/result.json",
+      "bytes": 2001,
+      "sha256": "da1bdb322aa05403e84cc93ce1ef49a2c3485c5991d6fc3101593ed1b9aff2ea"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.01_st2000/training.npz",
+      "bytes": 593419,
+      "sha256": "023e50afe2c74b6ceb28a71d670bce40c3212e64204ba1577663d3ad5a82197f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.01_st2000/val.npz",
+      "bytes": 49258,
+      "sha256": "151d181f0be360bafea5eb434bcb5ee743954377a628d1e9252c4d7db9b3e114"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.01_st4000/delay8.npz",
+      "bytes": 49870,
+      "sha256": "d54dc55b0d2bca87783785ca48c609a1333630a586d16dfd9b173c3b8e2efb09"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.01_st4000/id.npz",
+      "bytes": 49933,
+      "sha256": "105bded7bb69d082dcbfbf3ffd8b184fe250741f9dc4f3d93de93c5ad1d71b7b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.01_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "189dd9d7c43432b6f18be96868f9f9187db629bd6076d8604431378dce41b835"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.01_st4000/ood.npz",
+      "bytes": 49632,
+      "sha256": "17488b77ed1b7481aa236c047bae9b2b8a12fcd63c967ba2e4869082e1c2f128"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.01_st4000/result.json",
+      "bytes": 2545,
+      "sha256": "d47ac4749cb5ca5898209a413b0524cc0f7e0af8ca374398bd372aff63f0a7c7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.01_st4000/training.npz",
+      "bytes": 1185759,
+      "sha256": "c6f5052c708c2108254711b52685899208d01e6ecb1db6207b88cb795cf59a9f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270202_lr0.01_st4000/val.npz",
+      "bytes": 49959,
+      "sha256": "26820c860be6921015bcb3dd51aabb037331c986755900cab22ca723ffb01afa"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.003_st2000/delay8.npz",
+      "bytes": 50521,
+      "sha256": "473ba57be12a39010445186da4c933abd5cf481268fec71ce533d743c7ce642a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.003_st2000/id.npz",
+      "bytes": 50478,
+      "sha256": "ee0155dce859617279855e156889951f288a73048ddfe782c27dd7ec64132549"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.003_st2000/model.pt",
+      "bytes": 59761,
+      "sha256": "215ef1e3c1f4d5f0f6304b75e865492a7b000f7266c8b6cb63439fc9f30f07e2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.003_st2000/ood.npz",
+      "bytes": 50656,
+      "sha256": "ee1e31a8eae194e4d38bc59bde8994dba0a8bd2e338d5bdafbcc139b349446b3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.003_st2000/result.json",
+      "bytes": 1976,
+      "sha256": "05da0d6a143c3e390c375766eb0e03f2d5246759edd8be72a1d672d62a6f3803"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.003_st2000/training.npz",
+      "bytes": 593280,
+      "sha256": "c712a755a77fa1b2c2864565cb79f64e303d2701130788ae82c6119bea9d67a7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.003_st2000/val.npz",
+      "bytes": 50603,
+      "sha256": "6d4831651324b8ffb725aaa3b5147ac8bcaca83510d18b7338518c2921c05580"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.003_st4000/delay8.npz",
+      "bytes": 50343,
+      "sha256": "b372f8cae98ffca4b2e51c6d600e76b29781541bd37fabb3ec4d69a2da872151"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.003_st4000/id.npz",
+      "bytes": 50378,
+      "sha256": "4a68da8d34e739be3c9c3d1505cd160da5626b03871fdc1d00d1bcd8fb1f3e77"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.003_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "13e42aba307112a3b899e9e722a89a54b2fb1f363f1874f249b382eaaef7c6c4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.003_st4000/ood.npz",
+      "bytes": 50699,
+      "sha256": "439a735518b2fda84230c68d40378d19d897e60173190dcde734b272e5d268ae"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.003_st4000/result.json",
+      "bytes": 2532,
+      "sha256": "52ce8a680afcde2c3cf3911091c70f59dafedfa5bde21123608dd2b969da0e54"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.003_st4000/training.npz",
+      "bytes": 1185893,
+      "sha256": "f296ebb11b4fa24b96820df6f58806dff82a614be9552a6ec544cc1e9c23b9e8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.003_st4000/val.npz",
+      "bytes": 50533,
+      "sha256": "5bccdb4fa5496736d7c1fcc26540f0a8dd8baa7cbba91aa01b0a436423a5a2af"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.01_st2000/delay8.npz",
+      "bytes": 49018,
+      "sha256": "580b63f3d790217d61943426d9bb41245c359ef66f217099942f1ce481364c72"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.01_st2000/id.npz",
+      "bytes": 49027,
+      "sha256": "1ea143d24e1c1ee6f1f8770520afdec4cf5eeba20fd945a9ac91a7f147a19cf7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.01_st2000/model.pt",
+      "bytes": 59761,
+      "sha256": "ab83da7ceab3c1b45d832451047ba8b14c20c1a40c3d3209b772ff2970887cb5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.01_st2000/ood.npz",
+      "bytes": 49284,
+      "sha256": "32899688bc063394ef3185f134f4b2b4e49a8c9cc5e3088217404cc457f69318"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.01_st2000/result.json",
+      "bytes": 1980,
+      "sha256": "37e8f6f93b5a74c503f08418196a95baecc366ca02622309e24fedb659d76b9a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.01_st2000/training.npz",
+      "bytes": 593280,
+      "sha256": "c712a755a77fa1b2c2864565cb79f64e303d2701130788ae82c6119bea9d67a7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.01_st2000/val.npz",
+      "bytes": 49119,
+      "sha256": "6b17301683f05eb39a16717d263896740b4488a9a80e676d86ed1521c49e38b7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.01_st4000/delay8.npz",
+      "bytes": 48981,
+      "sha256": "6a9b4f9f58bee97d7337d0e7cacab156fd5370ce6494f2a072601d3eb52615f1"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.01_st4000/id.npz",
+      "bytes": 48937,
+      "sha256": "2d73f470268b62f29ef5bfdbdf8d134a06145ded636cb3d8e4e86a5747a58d93"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.01_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "806bfe82dde0e435e52ba67ba1ee84606d646c3ff3b48389867bfdb31537f397"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.01_st4000/ood.npz",
+      "bytes": 49322,
+      "sha256": "0b426507c8b002aebe679e53a7a47c672dc5327918501603ff8cbf9b5149a4a2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.01_st4000/result.json",
+      "bytes": 2538,
+      "sha256": "f4a4b649f40ed2134a98bfbf0949bb4e64a47e375bb4ee7b9e7cbd33aefe13d2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.01_st4000/training.npz",
+      "bytes": 1185893,
+      "sha256": "f296ebb11b4fa24b96820df6f58806dff82a614be9552a6ec544cc1e9c23b9e8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270203_lr0.01_st4000/val.npz",
+      "bytes": 49038,
+      "sha256": "fbe9a819ad48178be387aa8f8f64e03fefd5983b104e3ed04c6959edec47670b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.003_st2000/delay8.npz",
+      "bytes": 49321,
+      "sha256": "7a6ccab3773cfe9c5bdf3b0954288eda6de2b898186703569ffd3bf1a21274a0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.003_st2000/id.npz",
+      "bytes": 49306,
+      "sha256": "b564ac8f40ae03a6d92fa97515c5bce4e77e007ca6b4edd6ff5ff5eebe927e59"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.003_st2000/model.pt",
+      "bytes": 59761,
+      "sha256": "a823001d96643efc0d5fca282a1eaad5802e966a7834908753acbba60208dec0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.003_st2000/ood.npz",
+      "bytes": 49235,
+      "sha256": "c54b668112e6b62da6dadb8cd0295ad7935b444bcc870364ad4245778b996893"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.003_st2000/result.json",
+      "bytes": 1965,
+      "sha256": "055be3b5c6e471448ace9138eb7b51ff79bc1c61a42638e898cb1211a8b41cf5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.003_st2000/training.npz",
+      "bytes": 593227,
+      "sha256": "5aeabbf3546bebc3132e52929e91dbc7859d7e2122c242c28406e26a6d66f081"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.003_st2000/val.npz",
+      "bytes": 49377,
+      "sha256": "0df7c3e551e8e8f7a2ecdc162eb18caf69f01720420d3e1acec769cc15956ceb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.003_st4000/delay8.npz",
+      "bytes": 49272,
+      "sha256": "1c6827baf326e95a9009e2d347d2f85502b09342c0ad907581b1a231c550e377"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.003_st4000/id.npz",
+      "bytes": 49268,
+      "sha256": "c2c3af5114253751a905a0eafb46836e4b4b5b6f1cc58d0745a3adb745ee5e66"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.003_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "334a43a29fdad251fe8010299454980f2a218c8c796b88033d2550a6492409c2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.003_st4000/ood.npz",
+      "bytes": 49254,
+      "sha256": "7ff908368c2f7857e6f88158d44a9eab4a27c1b9c17758fc47b1bda7a1423961"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.003_st4000/result.json",
+      "bytes": 2529,
+      "sha256": "f92d15619e61a5f9b0a64f41cdb7378c571e82c19deae87077febdd51c1c780a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.003_st4000/training.npz",
+      "bytes": 1185591,
+      "sha256": "b76dc3bb734310d0fecccb47ea09b8dccc3fe9f33be7a390f4a9bab9cd76ad69"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.003_st4000/val.npz",
+      "bytes": 49398,
+      "sha256": "dde79b55679fbcf909d24e88314cba2b4c5eae69a4c8eb0f065a4e35ae06d534"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.01_st2000/delay8.npz",
+      "bytes": 50384,
+      "sha256": "4ac3b769d0bb1384af93b2a327b22c1a0b076d7331da6672106550284ac669a7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.01_st2000/id.npz",
+      "bytes": 50261,
+      "sha256": "e9f1a2353bea9e8a2e0ab09605131e63487e1d3e7586b55bb15d92ad82394a48"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.01_st2000/model.pt",
+      "bytes": 59761,
+      "sha256": "8863d8f732081d532e263383f0a212ee575bf1e294c315a213747a91769c1579"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.01_st2000/ood.npz",
+      "bytes": 49993,
+      "sha256": "623dc00e75f0bbeb37fe8e120b43cc55bd26fd602e440b107a9a5179fbf41666"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.01_st2000/result.json",
+      "bytes": 1984,
+      "sha256": "5ff817d952a5abdb8fd1f542ba15bc4338fdc5105a7873fca9cf7f17e622c814"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.01_st2000/training.npz",
+      "bytes": 593227,
+      "sha256": "5aeabbf3546bebc3132e52929e91dbc7859d7e2122c242c28406e26a6d66f081"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.01_st2000/val.npz",
+      "bytes": 50332,
+      "sha256": "ed9a68eec3b978a4e78f50de6261ea11025a6ab98b77ff15a8767356b813771e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.01_st4000/delay8.npz",
+      "bytes": 50361,
+      "sha256": "c2043c6c398bcfae452af4e27fbe9f94a12db9281bff97d3f04e15c613ad1498"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.01_st4000/id.npz",
+      "bytes": 50292,
+      "sha256": "b0f263b256e395709ef54c842dd0b5aa5a1ac750c3b439ae4e736300fd20b756"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.01_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "033cd7bff84faf698f2ecfbc5b5c58e47821c1de56e5c6dbbd10ef9c91afa7f8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.01_st4000/ood.npz",
+      "bytes": 50134,
+      "sha256": "87673315ca722b4bf95e7de77b44a49e4e35412d3902cfcddc90318c76aa1afb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.01_st4000/result.json",
+      "bytes": 2541,
+      "sha256": "522a7c0d2d52139e47a3741e1a2ece5bcb59936005168ccd3997837d2624f8a3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.01_st4000/training.npz",
+      "bytes": 1185591,
+      "sha256": "b76dc3bb734310d0fecccb47ea09b8dccc3fe9f33be7a390f4a9bab9cd76ad69"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270204_lr0.01_st4000/val.npz",
+      "bytes": 50341,
+      "sha256": "f4f356f17f3fd6a393fd3eaa2e18e5d93ac14b850071dbfd1ede7e2b50323493"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.003_st2000/delay8.npz",
+      "bytes": 49070,
+      "sha256": "39aa75711b600fe62621be0fc0705312dd35d2f8c7fef12b641e63d21ac858b2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.003_st2000/id.npz",
+      "bytes": 49240,
+      "sha256": "215c6eefa32d3b5fb4d4a16100e6821ee6fd640ebb663c63389389428bb2835b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.003_st2000/model.pt",
+      "bytes": 59761,
+      "sha256": "d33fa0d5136a4f0ae7b641c865f65a88a01cdd8a56845e586fa4f70ad6295a39"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.003_st2000/ood.npz",
+      "bytes": 48795,
+      "sha256": "f6693063c5cd7222b1648fdd310af6a2b6037034822c1220ba2aa2dd42f69dc8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.003_st2000/result.json",
+      "bytes": 1974,
+      "sha256": "0735f02e7c1498a9fd049411d8e6c214c36554bad47b9d32ec4ac17e9f085dd4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.003_st2000/training.npz",
+      "bytes": 593777,
+      "sha256": "57e3a21a4f088f41d44edbd0d8b283aa9607ced19f6afa61f632b8140d17e609"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.003_st2000/val.npz",
+      "bytes": 49258,
+      "sha256": "c2d62bb3852c89e8e3893ac5c92c8e6c10daecc500909ca27e711f82a360a1b0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.003_st4000/delay8.npz",
+      "bytes": 49065,
+      "sha256": "d3e26efef3b008dddcfbbbbd4a1a95d78c15c7a83317c6e8fc749aa7754815e3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.003_st4000/id.npz",
+      "bytes": 49197,
+      "sha256": "2fcd4e4c27dd7cf1ac179a6a54c279ea36be6e9450b65bda7e8b59d90cffe683"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.003_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "f76197af7b1dab58c13959c14e757c26b79a8b2941724923c65c492b6aa1ac5d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.003_st4000/ood.npz",
+      "bytes": 48961,
+      "sha256": "a74a397e2e34d3544f4db49f045f9a8d5dde9812b01bec3d4a0adad6d06aa262"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.003_st4000/result.json",
+      "bytes": 2522,
+      "sha256": "d89fd4ac563a54dbb60bc6b5b4d31c1572e6b4c1b48e44ad3c4f90927df7763a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.003_st4000/training.npz",
+      "bytes": 1186588,
+      "sha256": "e005d60217912d033d40382a37ce8087b6234d2674534ce9d57dce122cd36744"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.003_st4000/val.npz",
+      "bytes": 49228,
+      "sha256": "c83a3fe5091328ebbd47de21d698d901e951afaf6f0b6c1fadbeb66ce4910c66"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.01_st2000/delay8.npz",
+      "bytes": 49081,
+      "sha256": "ede9f830f9a82d8106c96cc2b03f8fb6e83c1698f26a3e220a9e9092468c2314"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.01_st2000/id.npz",
+      "bytes": 49056,
+      "sha256": "6e7168502e05c13c39c94ce14ef26a75d84ca6e9570277b0949f1599acb42ad2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.01_st2000/model.pt",
+      "bytes": 59761,
+      "sha256": "4e8fc991d4d4c5ef381f6ab63be9892329e2430644f52ff067febf884ba8c4c7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.01_st2000/ood.npz",
+      "bytes": 48814,
+      "sha256": "b0242643a38a48104d572166f729d7dcee447a3902ef074d9d6d9378d8f03643"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.01_st2000/result.json",
+      "bytes": 1979,
+      "sha256": "930ecaa8e20bc47cf02215d6ac22350abc3ebede98b1ddad11b66baf30251a8f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.01_st2000/training.npz",
+      "bytes": 593777,
+      "sha256": "57e3a21a4f088f41d44edbd0d8b283aa9607ced19f6afa61f632b8140d17e609"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.01_st2000/val.npz",
+      "bytes": 49101,
+      "sha256": "ae6934481563811561601ae6b1886fbb4aaefa6f6c73e8053abce660a1278944"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.01_st4000/delay8.npz",
+      "bytes": 49066,
+      "sha256": "768303ed7456a4dfb386989dd69b51030ed7e560288d72fe0814fc0b0e434463"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.01_st4000/id.npz",
+      "bytes": 49038,
+      "sha256": "110a3c2df732101eb2ccd82e9aa219a0ac03722b1d5e05fa2937452689fdf784"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.01_st4000/model.pt",
+      "bytes": 59761,
+      "sha256": "4009b58e80d689a56c23dacf35432621b9deb1d4aa9b645e94f541a03f871004"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.01_st4000/ood.npz",
+      "bytes": 48973,
+      "sha256": "743438b1b743e17413e10ec2c9115fb57ebf4cd38c316ceb9c11d11ffe6fee06"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.01_st4000/result.json",
+      "bytes": 2535,
+      "sha256": "cc0d0cb41223aa2850161f0a86309f23acbd58e35f1dd5aa45719c9e639a2f30"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.01_st4000/training.npz",
+      "bytes": 1186588,
+      "sha256": "e005d60217912d033d40382a37ce8087b6234d2674534ce9d57dce122cd36744"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/G_s270205_lr0.01_st4000/val.npz",
+      "bytes": 49026,
+      "sha256": "137ae94cce599e09357fc7e150ff224418663ee1964cc675b73ef2a2a2f98239"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.003_st2000/delay8.npz",
+      "bytes": 50277,
+      "sha256": "7e9786688b788f7ca468b828964931b03ed3eebc1699ea9c95090191e8c9c690"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.003_st2000/id.npz",
+      "bytes": 50228,
+      "sha256": "46bfad83d4feb33082c641387830afeb1a14180071c57757e20e976ee58a5909"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.003_st2000/model.pt",
+      "bytes": 59419,
+      "sha256": "d87461c4297ffa37fa9ef60992aa21965cd5c61692b3c1fc01d3c2e7a3195018"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.003_st2000/ood.npz",
+      "bytes": 49640,
+      "sha256": "91b5d74efcd7cb9471f2ce010c9f2d44fa2f8bc6b8e43bc6817fcf4a2bfc5a60"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.003_st2000/result.json",
+      "bytes": 2030,
+      "sha256": "ffaeceefb2c9b220a70f1a5fd49ac06f5132a9757666f0b96a8cc6b0a0d36612"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.003_st2000/training.npz",
+      "bytes": 593553,
+      "sha256": "2d83d7bb46d8b1a15bd0b98e6315f18b5cfcb93e639f69044829b27339e57447"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.003_st2000/val.npz",
+      "bytes": 50124,
+      "sha256": "1edbe4f9a4af28cb5786050f0737880c3cdbb49838b967424fa957da04beef57"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.003_st4000/delay8.npz",
+      "bytes": 50469,
+      "sha256": "93ea10fea3c06c2f074b0d6abe597863557504fec38ab1e54da7f143d1924a58"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.003_st4000/id.npz",
+      "bytes": 50394,
+      "sha256": "92851b146b02ed1b812acccfdaff90bed63ee44e0f08eec9be0c22b82f39d586"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.003_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "8b91630c87a257cd952fb3b13f442de3e6e31584eed02a44db0bb996fec974bb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.003_st4000/ood.npz",
+      "bytes": 49825,
+      "sha256": "eb4d72e8405715aa38338f7c4db26594e0fe35f6f73f999b228533cea390bf3d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.003_st4000/result.json",
+      "bytes": 2560,
+      "sha256": "c99fb7c9ba65eb3e558ef6abb1d0fe4aba8360baa04e0e84ab80c20727d69453"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.003_st4000/training.npz",
+      "bytes": 1186041,
+      "sha256": "5bf9e9b5359b97e372068baffde76123cab9ea3e8f27312f7c5c4152ed87a4d9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.003_st4000/val.npz",
+      "bytes": 50301,
+      "sha256": "36bd7ba6ae68bbcd4c33ed1e018f230c148bbf35422b91b678c0bed918d04521"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.01_st2000/delay8.npz",
+      "bytes": 50197,
+      "sha256": "b7072920dcf07c281ac6f84d8ad83940635c03226b76915bd83e00a18efea862"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.01_st2000/id.npz",
+      "bytes": 50155,
+      "sha256": "dae139db41db204fef89d4c4f1d9a2b3e64061aab6e3b5ba16b470caf2af9215"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.01_st2000/model.pt",
+      "bytes": 59419,
+      "sha256": "3914ccb3cff08817143e9da535d17172ac289bce710a60de8809dd13f40f172f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.01_st2000/ood.npz",
+      "bytes": 49577,
+      "sha256": "cc2ddc81bee1bbc49aaf7a2f5a066046ba14478451af52868474719baf322b1e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.01_st2000/result.json",
+      "bytes": 2029,
+      "sha256": "82443b7a4fb0174d1528c8ade3dad009e5bedd62f630ce98bb93dd415db7c11d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.01_st2000/training.npz",
+      "bytes": 593553,
+      "sha256": "2d83d7bb46d8b1a15bd0b98e6315f18b5cfcb93e639f69044829b27339e57447"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.01_st2000/val.npz",
+      "bytes": 50059,
+      "sha256": "645d17019410fa22e208b1e427cbd663714e6a1f55b88f3c9825a740a58609eb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.01_st4000/delay8.npz",
+      "bytes": 48506,
+      "sha256": "453160b643f304e2ec29ebc36bc1703aa9a99a240be5ef88c54e75259b870ab1"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.01_st4000/id.npz",
+      "bytes": 48448,
+      "sha256": "83a2aae0ea66834830a19e58d2417f5a4c5c3706bf92b95bf3126a0579e05ebd"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.01_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "2779b2a92d3159daff903dc3a6897329b6600cd9f8a9440676e780d6d6380f30"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.01_st4000/ood.npz",
+      "bytes": 48704,
+      "sha256": "8bab9b37f184ea550361f7e7eede25500d94fb39c962518f6fdacdb45e60e599"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.01_st4000/result.json",
+      "bytes": 2549,
+      "sha256": "bae1827ab1c60efee9a2affd5a392d1af99c13de8a0dce3484247b30b9cdd07d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.01_st4000/training.npz",
+      "bytes": 1186041,
+      "sha256": "5bf9e9b5359b97e372068baffde76123cab9ea3e8f27312f7c5c4152ed87a4d9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270201_lr0.01_st4000/val.npz",
+      "bytes": 48398,
+      "sha256": "6a72e3fe10c6215f81b1374093ddfac37f9da61f0dd07ed0bb7d93726714a92e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.003_st2000/delay8.npz",
+      "bytes": 50277,
+      "sha256": "3a1e73754ea72e12d0302e4b092c326d1dd224cfd83d7efc20697d1ce4cf7779"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.003_st2000/id.npz",
+      "bytes": 50141,
+      "sha256": "346ee1f0e103dc61df9c051537d390610f04a1218a5d89439f95fda09d4d8f18"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.003_st2000/model.pt",
+      "bytes": 59419,
+      "sha256": "3cf75b42060137873b3aae72cdfbe0dc625235e6664c3ceb79c0a2d65d43b29b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.003_st2000/ood.npz",
+      "bytes": 49603,
+      "sha256": "196f62a18fc5056122c3290947daf41b5f3ea5e26c873fa569a86549a72cb22c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.003_st2000/result.json",
+      "bytes": 2026,
+      "sha256": "45f169ed95f2eeb3b451a8a6819fb5bcff68fd50c3dc678d485fda395cb1b2b1"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.003_st2000/training.npz",
+      "bytes": 593419,
+      "sha256": "023e50afe2c74b6ceb28a71d670bce40c3212e64204ba1577663d3ad5a82197f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.003_st2000/val.npz",
+      "bytes": 50179,
+      "sha256": "bc72a40953e9b4f7f11514cbea38147ed97b7aae3cc6fe3d74a8cf964c09f8ee"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.003_st4000/delay8.npz",
+      "bytes": 50288,
+      "sha256": "ba18feeb9f02f2dc178653b82e18de4c602d84d5ae59bc2e21cf0bc43485b4dd"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.003_st4000/id.npz",
+      "bytes": 50442,
+      "sha256": "908b9de1be197e8d882898b31a598f58f8a06e1f6355aaeacf3a95502e64439e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.003_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "7ef87cface1f5fdabb610eabd6390c41221a76373fc3b72b15338a25cf21b53f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.003_st4000/ood.npz",
+      "bytes": 49716,
+      "sha256": "ba7ae188f56944976339f46f4e5c67b5da5471e57e62d688be186168bda727d5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.003_st4000/result.json",
+      "bytes": 2547,
+      "sha256": "dc08f357b919daf6ebb5e344ee35f15cf53a3c7265eb0402224e61cd1e813a0d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.003_st4000/training.npz",
+      "bytes": 1185759,
+      "sha256": "c6f5052c708c2108254711b52685899208d01e6ecb1db6207b88cb795cf59a9f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.003_st4000/val.npz",
+      "bytes": 50497,
+      "sha256": "03a98cb9b887638c079b1baba2f53a60e1e1da397a5ede6e59f00ee61f24ef9a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.01_st2000/delay8.npz",
+      "bytes": 50195,
+      "sha256": "41ae0bac8bea09a2065e031aeaa60a75e9e33a1589b73eedcfc884f276f1ac0d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.01_st2000/id.npz",
+      "bytes": 50309,
+      "sha256": "9b45d41795e7993292a917b310eb2599240fa55175e90de01702afbd8a25ef3c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.01_st2000/model.pt",
+      "bytes": 59419,
+      "sha256": "cac6ade37fd5530b89ea5a358d153ac149c1212436a4a827cb4e3916cc98d021"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.01_st2000/ood.npz",
+      "bytes": 49711,
+      "sha256": "6fa258428801a3ca6c90d79b862bf3fa5a403a358aecc426f3e5d46f4939d1f5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.01_st2000/result.json",
+      "bytes": 2034,
+      "sha256": "1b86ef8fc3ebd933944f9765d7546905b23e80adfb3f92209d1dad7c3f4f80ea"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.01_st2000/training.npz",
+      "bytes": 593419,
+      "sha256": "023e50afe2c74b6ceb28a71d670bce40c3212e64204ba1577663d3ad5a82197f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.01_st2000/val.npz",
+      "bytes": 50345,
+      "sha256": "f7d1a8a1cdf8ca070b6f9cc937e31b3acb793b5ec5c8a1876712d253f08b292e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.01_st4000/delay8.npz",
+      "bytes": 48552,
+      "sha256": "dce8553005638ccf04545c1e9b50ac3421329a9358ddbed0c72dad878eb360a7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.01_st4000/id.npz",
+      "bytes": 48565,
+      "sha256": "a851a9b2980239def1910094fd850b0525a1d48af829b6e0c8df2aa8d5e518d2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.01_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "b089f2da261cc99445d3d6ac7a5494f627f4c37a947cee50d32e4203b6c4c389"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.01_st4000/ood.npz",
+      "bytes": 48127,
+      "sha256": "7cea872a491e137c3d0e01e26dc8915ff611b26fc1699f7d4a9577a2b9130bec"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.01_st4000/result.json",
+      "bytes": 2498,
+      "sha256": "085b46765de51624c917b687ebf183c3a4347a9efbc56b3cc5ff242351bd6dd9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.01_st4000/training.npz",
+      "bytes": 1185759,
+      "sha256": "c6f5052c708c2108254711b52685899208d01e6ecb1db6207b88cb795cf59a9f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270202_lr0.01_st4000/val.npz",
+      "bytes": 48584,
+      "sha256": "9c5dddca9d9c25f861cd0fb10190253d35aa8f51e6831a26b31d6c701074014b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.003_st2000/delay8.npz",
+      "bytes": 50107,
+      "sha256": "ebcceaad339e10d4de5a7143aa7541c7a240fbaa7b5fae5c5e6823b4eab784e4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.003_st2000/id.npz",
+      "bytes": 50068,
+      "sha256": "5112c2a2029cf54c201af005a59cb6a04d3b3a2e9dbaea76ee973fbb6dc3ef6f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.003_st2000/model.pt",
+      "bytes": 59419,
+      "sha256": "b5e28d42bb15fd3da834e3e8698776fac0cb5f5bcf39e0c538337d4ef016448f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.003_st2000/ood.npz",
+      "bytes": 49658,
+      "sha256": "bdf61cdb3a17f34d57b0bc09594423230177dabc0d99ef602461a3e33b6973fa"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.003_st2000/result.json",
+      "bytes": 2010,
+      "sha256": "41f1b3ae6c785089310503abd42616ea525214302f658155e6a7b45bb9d1ce78"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.003_st2000/training.npz",
+      "bytes": 593280,
+      "sha256": "c712a755a77fa1b2c2864565cb79f64e303d2701130788ae82c6119bea9d67a7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.003_st2000/val.npz",
+      "bytes": 50201,
+      "sha256": "6984499ae42e9497f7ec47e4c2b544d86d2b6ce9a2fdc3934466b165b6c41a97"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.003_st4000/delay8.npz",
+      "bytes": 50338,
+      "sha256": "a22e77f57871198daea19805d04d15e7084bff4d76893ca7f61835ae53f53862"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.003_st4000/id.npz",
+      "bytes": 50212,
+      "sha256": "5a9afd3475c2d8534e7d5591c4a8741a142a96dc0b9f30f803303fa81c9bcbdc"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.003_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "5a215465ad8fd95ea146546493184491ef4ac9c440b3b5b228834d053d350178"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.003_st4000/ood.npz",
+      "bytes": 49916,
+      "sha256": "9d71740176f3d9383036d0885e77181be1caf553d45e26c1c025cd2829dfdb2d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.003_st4000/result.json",
+      "bytes": 2553,
+      "sha256": "7069384307b3132896ce6c00993fa85cfed5ed8ac8038d3e898c6ef8f64d12ad"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.003_st4000/training.npz",
+      "bytes": 1185893,
+      "sha256": "f296ebb11b4fa24b96820df6f58806dff82a614be9552a6ec544cc1e9c23b9e8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.003_st4000/val.npz",
+      "bytes": 50346,
+      "sha256": "9f623acd701fefafcc124c1c6c365fd31c4d12cae23ba786b12883bfd1806959"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.01_st2000/delay8.npz",
+      "bytes": 50051,
+      "sha256": "82d2756b3ccaf9839f0b1ef09a4e5c910931f90820682868483c833755fc926a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.01_st2000/id.npz",
+      "bytes": 50055,
+      "sha256": "d98fc45034d4e1760fb6038b206e85477bba9c62a1510991933f03d5f58941a7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.01_st2000/model.pt",
+      "bytes": 59419,
+      "sha256": "a19b0c2a96c9c5444826f663105a09ad621a0937b705f5ff84cf14cb1691ad6b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.01_st2000/ood.npz",
+      "bytes": 49623,
+      "sha256": "2346c59168bdf756c1589502b79b6183c57359ec051a35371da382e41f72b0f5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.01_st2000/result.json",
+      "bytes": 2025,
+      "sha256": "538ff98fb65a378c375d92cea0ab2fae67ce2e59fe9358a3927f2e28a9d9173c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.01_st2000/training.npz",
+      "bytes": 593280,
+      "sha256": "c712a755a77fa1b2c2864565cb79f64e303d2701130788ae82c6119bea9d67a7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.01_st2000/val.npz",
+      "bytes": 50146,
+      "sha256": "aa95eda07eaa2439b3156962f1f5f5b750d01bc47be7e3fd60a2e919dade0249"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.01_st4000/delay8.npz",
+      "bytes": 50203,
+      "sha256": "cc91efc7043e8a344fab63814e0a1b264fa5225d2256d2642d9426aaf69cba0d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.01_st4000/id.npz",
+      "bytes": 50134,
+      "sha256": "4fd1a1cd4f57777c1f70d21351a883d116cc991a48e3b322d7be3af54d1a8e5f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.01_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "9115028628fe494b59c36fd5be3b38d3ed4ac2a2d3db13b365870f9d061bde62"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.01_st4000/ood.npz",
+      "bytes": 50166,
+      "sha256": "cf6c5ecdc597973088ed987f639186cb08920abb1119907379a1c86fbda8272a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.01_st4000/result.json",
+      "bytes": 2568,
+      "sha256": "9645262ee92aaa865e86e05b260f545518a66d87d228b67f54708f418da38672"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.01_st4000/training.npz",
+      "bytes": 1185893,
+      "sha256": "f296ebb11b4fa24b96820df6f58806dff82a614be9552a6ec544cc1e9c23b9e8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270203_lr0.01_st4000/val.npz",
+      "bytes": 50302,
+      "sha256": "d9578d6a82ccdf9dbe63ebcb5551fc86d0664db4bbef206df74570d7e64f00e2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.003_st2000/delay8.npz",
+      "bytes": 50356,
+      "sha256": "41025bbc203f1ed7dd9afd26659c13a1ebe509c2824c6836b4c4eab963cc95f7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.003_st2000/id.npz",
+      "bytes": 50421,
+      "sha256": "1919e122b243709f0a414d5da00fb742c7b024a14ceaca0e773c14976514bb27"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.003_st2000/model.pt",
+      "bytes": 59419,
+      "sha256": "63632aff4c15f66377c6dea103ebbe1eceff368d1c4b9d2f43206568d460b285"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.003_st2000/ood.npz",
+      "bytes": 49690,
+      "sha256": "ff4592d6200947d6222bd4707753c8e067100410784fd37db0ea41091105196e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.003_st2000/result.json",
+      "bytes": 2023,
+      "sha256": "af8859a1741c3927a65368bcfa97045686154011a7f029e1815ef59b9ea82bf8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.003_st2000/training.npz",
+      "bytes": 593227,
+      "sha256": "5aeabbf3546bebc3132e52929e91dbc7859d7e2122c242c28406e26a6d66f081"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.003_st2000/val.npz",
+      "bytes": 50531,
+      "sha256": "a087fc1faec4299b10260224ce0ca73f72836a93dc71186f5fd567bab42fc1e2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.003_st4000/delay8.npz",
+      "bytes": 50624,
+      "sha256": "46357929681fe366074d8cc99e8dc695802f550fd478c8fb027244542e3c1bfc"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.003_st4000/id.npz",
+      "bytes": 50521,
+      "sha256": "2d19a20693b68d7f20c4b6aaa0c1190d2efcfee19cd42115587629a83b97c51b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.003_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "13cd72704058a60fcdfba181f70197d03ec8a5451fb7de34dbf976e6cbcbb6dd"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.003_st4000/ood.npz",
+      "bytes": 49724,
+      "sha256": "a0c2653cf3fb28dac70cc8ad2f23c3c4ad23f348c9a0636a89be7423a2e19bfd"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.003_st4000/result.json",
+      "bytes": 2550,
+      "sha256": "abbd0715063b77315a5f3b23c83c99df52cad4f2b2ee378b44290d715505c6ba"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.003_st4000/training.npz",
+      "bytes": 1185591,
+      "sha256": "b76dc3bb734310d0fecccb47ea09b8dccc3fe9f33be7a390f4a9bab9cd76ad69"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.003_st4000/val.npz",
+      "bytes": 50598,
+      "sha256": "55e6023a3dec05a46d1e145d971340710e442174154fabd3a885d6a1716c91e6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.01_st2000/delay8.npz",
+      "bytes": 50429,
+      "sha256": "69dd133a53e8cab089fdfaa0afa482ea897ad40ece4081252c32a03d1288727f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.01_st2000/id.npz",
+      "bytes": 50305,
+      "sha256": "9c149bb5418cefb536e396d465fa3521124d5ff5c3881f316d1d38a40d823c19"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.01_st2000/model.pt",
+      "bytes": 59419,
+      "sha256": "99d1502bdd347ca35a5e71b947124efe49392db1458047e28998b94bc51eaa05"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.01_st2000/ood.npz",
+      "bytes": 49507,
+      "sha256": "8d65f42d4a04378af03a21a286669e1aab2b6feb1c0b5a7a421485389b463799"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.01_st2000/result.json",
+      "bytes": 2027,
+      "sha256": "f4a40a230138af8a7bad754c3a1f82d958aea7dde7ea1e8fb87cf1151c869951"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.01_st2000/training.npz",
+      "bytes": 593227,
+      "sha256": "5aeabbf3546bebc3132e52929e91dbc7859d7e2122c242c28406e26a6d66f081"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.01_st2000/val.npz",
+      "bytes": 50382,
+      "sha256": "c4d3559015115583d45536c5773ae9f3d4b0488f9d8cad3fa065dbab21b0efc3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.01_st4000/delay8.npz",
+      "bytes": 50371,
+      "sha256": "8a1d871a4606998c39db5fd6f3299a0d1574eddb678c0a99aaaf61589661030f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.01_st4000/id.npz",
+      "bytes": 50320,
+      "sha256": "0fcad292d0a27437b032664779e1fe6e1575717705832e1981fb3ff08feda68e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.01_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "c6c9e0a4705fa0cfe9737bf097c080f7f13fbd905be34c459a168b2ae4846cf2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.01_st4000/ood.npz",
+      "bytes": 49533,
+      "sha256": "6beb805ff4fbece6d24a51cd043608429cc672d3c6667cbbf98698766319fd79"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.01_st4000/result.json",
+      "bytes": 2556,
+      "sha256": "b906bc50c8f329f07c2cd3473763c94e02c1461d3bc3a01e701c93e635816254"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.01_st4000/training.npz",
+      "bytes": 1185591,
+      "sha256": "b76dc3bb734310d0fecccb47ea09b8dccc3fe9f33be7a390f4a9bab9cd76ad69"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270204_lr0.01_st4000/val.npz",
+      "bytes": 50408,
+      "sha256": "116581003784a3597fd59ead16c37c37525ae495cac3eeb8cb19a543eb22784a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.003_st2000/delay8.npz",
+      "bytes": 50364,
+      "sha256": "691586d04cea8fd4f10f9a5d7af3f0ce7563aa787f764cfaeabbbe6ec53ef660"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.003_st2000/id.npz",
+      "bytes": 50270,
+      "sha256": "8be93fd96d00d2123b5c71d2f01d56ebc56e74d737a9fe64a888ddf440b8f5a2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.003_st2000/model.pt",
+      "bytes": 59419,
+      "sha256": "a727317b3977a1dde34f14119ce3ead5877b5d5ae0fdeac865f25cc82dcc4f89"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.003_st2000/ood.npz",
+      "bytes": 49555,
+      "sha256": "3bfaea168a80915b669865ad7664f733825b53050e39a4f3b8b847a747ac0588"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.003_st2000/result.json",
+      "bytes": 2025,
+      "sha256": "b02eee1bda5ca47539b120e38396c1fd9773e8e6e9088aa38f8e1909bd600c56"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.003_st2000/training.npz",
+      "bytes": 593777,
+      "sha256": "57e3a21a4f088f41d44edbd0d8b283aa9607ced19f6afa61f632b8140d17e609"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.003_st2000/val.npz",
+      "bytes": 50318,
+      "sha256": "2a3fb13d266da55f73b4c661ee90c33d09aafbb1f8bc9e6777cbabe7526bb473"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.003_st4000/delay8.npz",
+      "bytes": 50364,
+      "sha256": "5ef5c72c08d2533c2053ae2b6418c568b46f6081ddea359a7b17a1727ee4b833"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.003_st4000/id.npz",
+      "bytes": 50453,
+      "sha256": "065ede7f704afb74657d31bc1c2c732873cb19de598b2d45e35b914d7ad80cbd"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.003_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "163be18963e52096428db3a77f9e9f2fea7ecd65729b0135709dc76f40fdfd58"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.003_st4000/ood.npz",
+      "bytes": 49685,
+      "sha256": "a96726749f231fb1a1964ad6fe8d1d7fc608877879508ed0e0c9c1a21cd3ce4c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.003_st4000/result.json",
+      "bytes": 2553,
+      "sha256": "7b8eba87da989d7520af01b7ba83cbfe2fde5928f2bcc080a4fbf17d4a58d3e1"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.003_st4000/training.npz",
+      "bytes": 1186588,
+      "sha256": "e005d60217912d033d40382a37ce8087b6234d2674534ce9d57dce122cd36744"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.003_st4000/val.npz",
+      "bytes": 50490,
+      "sha256": "fde93bb744a94da193177c64e2c59e0417ee90ffa9ace6ba5c230814125d4062"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.01_st2000/delay8.npz",
+      "bytes": 51281,
+      "sha256": "0bd018cf56baba18f5cb73de8dd8efd4fc02dbf76e6a0c4785d7c870bb0f542c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.01_st2000/id.npz",
+      "bytes": 51311,
+      "sha256": "dcc0813adf9861301a9246e35f66362d0d9a8672b3155439a0f678e3a8eef4f5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.01_st2000/model.pt",
+      "bytes": 59419,
+      "sha256": "85e39fe852eaa0de7c8952ca923fed66d7a4210bb92d93ed76d9291531c47d6a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.01_st2000/ood.npz",
+      "bytes": 50512,
+      "sha256": "5644c055948151e835d46de243a724babd6443aee2025c3dec4e321a324268a9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.01_st2000/result.json",
+      "bytes": 2028,
+      "sha256": "dcfe82175a7074463699350156c62e238c7b3df80c9526202535a371bd83f4f1"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.01_st2000/training.npz",
+      "bytes": 593777,
+      "sha256": "57e3a21a4f088f41d44edbd0d8b283aa9607ced19f6afa61f632b8140d17e609"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.01_st2000/val.npz",
+      "bytes": 51328,
+      "sha256": "7a44ff2809b914fb0753e80d65187961ec1a2c3ae3f1e74bf20f88f3bfa3fe61"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.01_st4000/delay8.npz",
+      "bytes": 49780,
+      "sha256": "c53b11a73c63e51db4b69eb703ebfecb6a881bc7bf1c7150f611cbbba5f1d328"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.01_st4000/id.npz",
+      "bytes": 49814,
+      "sha256": "40ef59f7ce0f09f4b2ab0123049c1e6c27da7d2c91c83da1b6796b121c118146"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.01_st4000/model.pt",
+      "bytes": 59419,
+      "sha256": "c7e6e5727a235087f4f81c2a45ebabdd46a520ff3d61457bb927f6acc55b535f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.01_st4000/ood.npz",
+      "bytes": 49344,
+      "sha256": "7d1769253adb1306f9d90fe5630e7e541c14f26de2def5b4ec0053439efec8ce"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.01_st4000/result.json",
+      "bytes": 2497,
+      "sha256": "32a2b58f5fe8c13fc04681fb95e6aa45c47feaafd4677379265d19ec8377bd5d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.01_st4000/training.npz",
+      "bytes": 1186588,
+      "sha256": "e005d60217912d033d40382a37ce8087b6234d2674534ce9d57dce122cd36744"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S0_s270205_lr0.01_st4000/val.npz",
+      "bytes": 49807,
+      "sha256": "d39552f29183c344a5fe6a4bf10f8b1bd7f6c41c4520887b23e0ed7f5e977a39"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.003_st2000/delay8.npz",
+      "bytes": 51909,
+      "sha256": "e7fb104e48110d36d76ee3ea09a40b306fe61433d2a07708e13026d26930510e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.003_st2000/id.npz",
+      "bytes": 51969,
+      "sha256": "5c577f65961017d966ed71aec10b072a6194b91520c707a48f67af86c240420c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.003_st2000/model.pt",
+      "bytes": 60177,
+      "sha256": "4647e6e6e92ea66e4c2b5b91c7c92b19fca92daeb0bfd858c1984ed1ec3e0c7b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.003_st2000/ood.npz",
+      "bytes": 51685,
+      "sha256": "77c64ca4dc93a0e0ce11c89875017a0ffa4654edf501aed5344f12097e637710"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.003_st2000/result.json",
+      "bytes": 2309,
+      "sha256": "438cfface40df89dbd1653944984739da25955a136cec94d938d5da613207e93"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.003_st2000/training.npz",
+      "bytes": 593553,
+      "sha256": "2d83d7bb46d8b1a15bd0b98e6315f18b5cfcb93e639f69044829b27339e57447"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.003_st2000/val.npz",
+      "bytes": 51892,
+      "sha256": "2c2144ed181567d33e6445a7c6967f22dc6337aed6709761ffccf4e3b63739ac"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.003_st4000/delay8.npz",
+      "bytes": 51872,
+      "sha256": "c09e04a573b96d72e8a46c074debc3048bb7c2551694690ecb37cdbc366d1de4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.003_st4000/id.npz",
+      "bytes": 51948,
+      "sha256": "41cc2b8cdcf8686ac7e43987ea126f5b8599accfecf8875607bdf848737d564d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.003_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "601d81051467a1a4755cb6d5567be42c07223c87b9b1c0afff84d275453d1cdc"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.003_st4000/ood.npz",
+      "bytes": 51723,
+      "sha256": "dcc7a73846d7d29626457deb4b462b83ec9b4bf91ef62eaba0bcf55753ba4a9c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.003_st4000/result.json",
+      "bytes": 2933,
+      "sha256": "04378d01631bb1c9bdf93e9749e2e01a481f53d914329c1990f690a165f29d3d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.003_st4000/training.npz",
+      "bytes": 1186041,
+      "sha256": "5bf9e9b5359b97e372068baffde76123cab9ea3e8f27312f7c5c4152ed87a4d9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.003_st4000/val.npz",
+      "bytes": 51904,
+      "sha256": "e120906e443b97d42aaf8148f7f8aab828a380b330b6c83fb2ed6509374635cb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.01_st2000/delay8.npz",
+      "bytes": 53756,
+      "sha256": "da14d537f743cfbdd1468f8c25add4a33c227200ea6ccec672e5fe5f2e7842af"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.01_st2000/id.npz",
+      "bytes": 53775,
+      "sha256": "45634c995ad3085e3d182e97f41d1dd198eec0145c0946c6d0bc7ec6402df436"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.01_st2000/model.pt",
+      "bytes": 60177,
+      "sha256": "6b329e9619c78b0ab77ef2e5b9ffbdcc7b9197831e3c34bb3f91cd97e0996976"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.01_st2000/ood.npz",
+      "bytes": 53545,
+      "sha256": "d216caf0ccee094fa85c28a8255670765514562a7e5634fe8fe06462c84787a6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.01_st2000/result.json",
+      "bytes": 2342,
+      "sha256": "a3beb28e4b9c5f0f6c3a2f4e00a31aeeff9b453dc9c58733eedfde6948a8fc37"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.01_st2000/training.npz",
+      "bytes": 593553,
+      "sha256": "2d83d7bb46d8b1a15bd0b98e6315f18b5cfcb93e639f69044829b27339e57447"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.01_st2000/val.npz",
+      "bytes": 53668,
+      "sha256": "75f93e8d5750bcd5499dedbfcbc8d75538991e9399697bcff8b8ae62bf8d7f3d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.01_st4000/delay8.npz",
+      "bytes": 52357,
+      "sha256": "fe9b8ab011babae8435cbf602aff8bb113f821139e1d6b1d93ea4f98971d7081"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.01_st4000/id.npz",
+      "bytes": 52289,
+      "sha256": "669e9825b0284e37e5886389e763efd53e0856f7e3a2f7c214eec202e230adb0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.01_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "3bfb9104d03e428804f3793620cb69568bb88bdc604a234f7fdc9bd3eaf7eb2d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.01_st4000/ood.npz",
+      "bytes": 51753,
+      "sha256": "5f32acc899d90831a5a5f90daa4867c1af452866a9084c87db9e4a771d214aa9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.01_st4000/result.json",
+      "bytes": 2860,
+      "sha256": "2721d0792fe379e6e1a4467b5f7f10c2076ab8d89a8619a7bdd911f6c003e166"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.01_st4000/training.npz",
+      "bytes": 1186041,
+      "sha256": "5bf9e9b5359b97e372068baffde76123cab9ea3e8f27312f7c5c4152ed87a4d9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270201_lr0.01_st4000/val.npz",
+      "bytes": 52231,
+      "sha256": "adec0d37a91081b742db2aed7de3a41ab6de68cd02813220c42a8e841b5faefb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.003_st2000/delay8.npz",
+      "bytes": 53068,
+      "sha256": "2358a0765120f0f1ff5c9d7b2662a5a41bd0415dc1c56024d6fa57fdd66f7930"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.003_st2000/id.npz",
+      "bytes": 53347,
+      "sha256": "31c918862612644e44391d80355525abdd1dd159c373f1b6f04f1e10614bdadd"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.003_st2000/model.pt",
+      "bytes": 60177,
+      "sha256": "254d61654b78354c2cddb0862d27aa69c2665b49e5f1d16b268c07cc5eae72c8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.003_st2000/ood.npz",
+      "bytes": 53643,
+      "sha256": "245fa9abb15d3586c3e864415da1f4ed6f97247d2964e30574c4c4b748322a10"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.003_st2000/result.json",
+      "bytes": 2372,
+      "sha256": "b31ad489785f1070e214dfbc6041afb4e1707a41576cba8dc1f16d43fb60c9e5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.003_st2000/training.npz",
+      "bytes": 593419,
+      "sha256": "023e50afe2c74b6ceb28a71d670bce40c3212e64204ba1577663d3ad5a82197f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.003_st2000/val.npz",
+      "bytes": 53361,
+      "sha256": "b2ec7e4d11a301729c30e99843006fade387817f3d2502536bc0897cf18053fa"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.003_st4000/delay8.npz",
+      "bytes": 52970,
+      "sha256": "d49a26e9671d842bbeb1f5454e78568802a4dd7b83440fbf640f2999493d04ef"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.003_st4000/id.npz",
+      "bytes": 53210,
+      "sha256": "566d935ee99de8adead65ea8c352b46668f47a40dd201c3b062463cf9ae27598"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.003_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "1b0bfd335674c5e71bee2d25e5485a68403ce0f1875bf00b62ce4695bafb1e7f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.003_st4000/ood.npz",
+      "bytes": 53205,
+      "sha256": "61ab8ca2e5ee905aa60c37cd01bdf21475a618f19c4a1bfe4ebf978bfa77ab95"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.003_st4000/result.json",
+      "bytes": 2850,
+      "sha256": "8b2fb8fda9a119c667e96c250b0c53e495d3cef511d4d4f5ee0db01703be8e12"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.003_st4000/training.npz",
+      "bytes": 1185759,
+      "sha256": "c6f5052c708c2108254711b52685899208d01e6ecb1db6207b88cb795cf59a9f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.003_st4000/val.npz",
+      "bytes": 53243,
+      "sha256": "85f0bf632a0de445448a3e3a154cc2ac81562f9ea913e966446023613ac7d951"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.01_st2000/delay8.npz",
+      "bytes": 53961,
+      "sha256": "ca262415bb4793a3856ecc813a934287dac9d65e621b69760b7b2e5dd79e2d04"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.01_st2000/id.npz",
+      "bytes": 54080,
+      "sha256": "6e4ed7462ccc8a31c20fdf8659dd0f2fccc3a664e274ba5c4c74fae5eaa7a10a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.01_st2000/model.pt",
+      "bytes": 60177,
+      "sha256": "c2eefc2114c045a53b49d63d5c34b29e6bc243c6ba8cecc88ef2fad2b9396098"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.01_st2000/ood.npz",
+      "bytes": 53444,
+      "sha256": "a1520ad5ac9d68adaa6c905a9ce858312319fc02d91d53199749b33dbca63f55"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.01_st2000/result.json",
+      "bytes": 2317,
+      "sha256": "0ebc1c137050b56d5f3cbb4393fe3f05953de3d87cc685622db114f7ad15f71e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.01_st2000/training.npz",
+      "bytes": 593419,
+      "sha256": "023e50afe2c74b6ceb28a71d670bce40c3212e64204ba1577663d3ad5a82197f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.01_st2000/val.npz",
+      "bytes": 54055,
+      "sha256": "a3a399aa33a42bc91073b29bf948a6b42f3a65789352017a9b53929673299fcc"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.01_st4000/delay8.npz",
+      "bytes": 54024,
+      "sha256": "8c628cebbe32cd036f53b15b75d299c1658c1adafef5c8e8e67065f4b610e69f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.01_st4000/id.npz",
+      "bytes": 54110,
+      "sha256": "20a02428aa129ff9104dde8680731b5ccc95fd77315c73188f3dafbe61380b6e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.01_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "d6522309563db85163a4c7020e9d9b746b165a715b7d3e5d3bc1b17e23519107"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.01_st4000/ood.npz",
+      "bytes": 53559,
+      "sha256": "aa367df4a06aec5fea4647f4cf6d619e4cf6e01223305ecaf7ca1f76bef4c98d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.01_st4000/result.json",
+      "bytes": 2871,
+      "sha256": "ae23d76d954f5c134745f2e392c99c2f6d4ce49f0a1b05b5141df51ea19c9695"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.01_st4000/training.npz",
+      "bytes": 1185759,
+      "sha256": "c6f5052c708c2108254711b52685899208d01e6ecb1db6207b88cb795cf59a9f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270202_lr0.01_st4000/val.npz",
+      "bytes": 54134,
+      "sha256": "d5cd4e7c12973937b18d8a23a97796c9149bc313a0e1cf113546d2512e0d2ed5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.003_st2000/delay8.npz",
+      "bytes": 52958,
+      "sha256": "9928d05dcb89fc23a1a49d08234ab1f7ebc677a3be40902ac3b5db072f9619d9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.003_st2000/id.npz",
+      "bytes": 53508,
+      "sha256": "6905069c15159dd6733fa65fa949e53e538fb2147a329d2761d373a3a30562e8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.003_st2000/model.pt",
+      "bytes": 60177,
+      "sha256": "1f5604fa8de026e6d8defad0477cb90f020944701ea0b6a542a7464a48d241ed"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.003_st2000/ood.npz",
+      "bytes": 53692,
+      "sha256": "3979c4652d1902d033f35337fab2bca36162ff0d6177a521cfd8482cc4d03bb2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.003_st2000/result.json",
+      "bytes": 2332,
+      "sha256": "adbe9a1478436987979c96c660565c8e3020f0ba86dc7070073fd3d36b79c9de"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.003_st2000/training.npz",
+      "bytes": 593280,
+      "sha256": "c712a755a77fa1b2c2864565cb79f64e303d2701130788ae82c6119bea9d67a7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.003_st2000/val.npz",
+      "bytes": 53589,
+      "sha256": "443aff647c8c81d9e4bd27e87e302d0188ebc9634f7ecdeebebe4814094bfbf0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.003_st4000/delay8.npz",
+      "bytes": 52730,
+      "sha256": "ff028c9af7bf2b877159f309524f6644e18a2a9016e5d3732df6751c10e0eb9f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.003_st4000/id.npz",
+      "bytes": 52787,
+      "sha256": "71cc21ea040ad47de888260f31789777bd4b1fb1effad844e64ef51ff675c36d"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.003_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "dbbb22824f057e48274a51ad68c73ef4990d6feaf432bced29c51c895e640ad0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.003_st4000/ood.npz",
+      "bytes": 53115,
+      "sha256": "2c682d38a9066638d8a7d926057b5502cf4dc31721c2cd14eab5a1a5e1be09bd"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.003_st4000/result.json",
+      "bytes": 2840,
+      "sha256": "e60ed41f37e880c55da59379db910916568a4a75bfd36d1a6ffa91a540b394b3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.003_st4000/training.npz",
+      "bytes": 1185893,
+      "sha256": "f296ebb11b4fa24b96820df6f58806dff82a614be9552a6ec544cc1e9c23b9e8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.003_st4000/val.npz",
+      "bytes": 52873,
+      "sha256": "45c833f502e50f6442a2f2a31e41ae9ed5d52006c33dcdb94574a4001fcdfac9"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.01_st2000/delay8.npz",
+      "bytes": 53673,
+      "sha256": "f17e5dc11cfbd8c92042bb1c8acef8594b6a1f2ee3ee257720e3de56ad775c60"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.01_st2000/id.npz",
+      "bytes": 53748,
+      "sha256": "f24dfd52cb27151f16b96720063fbd6fe3b6caf9f4789ae88f89ebc303838faa"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.01_st2000/model.pt",
+      "bytes": 60177,
+      "sha256": "dc031266d1ac86e08a92f1c3f0b7489dbecede25a63972c7ffc8b487448a6e29"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.01_st2000/ood.npz",
+      "bytes": 53554,
+      "sha256": "fea99b483b2417d05cdef6667669028ca855744c097ac194be4f59ed00d2b379"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.01_st2000/result.json",
+      "bytes": 2319,
+      "sha256": "228a3f86938c3b8b1d32833032ab03af8080db8258c3fd79ab1406a31e8eb272"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.01_st2000/training.npz",
+      "bytes": 593280,
+      "sha256": "c712a755a77fa1b2c2864565cb79f64e303d2701130788ae82c6119bea9d67a7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.01_st2000/val.npz",
+      "bytes": 53821,
+      "sha256": "e6692078274c95bbfd589fbbe388c61004dd20999a3ca5b374f544b0775ef455"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.01_st4000/delay8.npz",
+      "bytes": 53994,
+      "sha256": "60a09787bbe6c96e509d165a891bfe725a0482d85fa03ee35405394ec37245a3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.01_st4000/id.npz",
+      "bytes": 54069,
+      "sha256": "f2639e5cc4fd03872f41f9daf70eb7255ca2296161bd693efbe8faaaea3e81ad"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.01_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "8b571e830d5db77708f1faddd23ea92d514111fd6cd4beff8949046389ae48f5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.01_st4000/ood.npz",
+      "bytes": 53808,
+      "sha256": "5893084edd0c699c58c84da6972921908c8fe27e5dc377ae88c087aa26d10040"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.01_st4000/result.json",
+      "bytes": 2877,
+      "sha256": "90ccbc1a2441f50a756a3b3bf3a46d405def83f885e18b43e77157ef8c92ef37"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.01_st4000/training.npz",
+      "bytes": 1185893,
+      "sha256": "f296ebb11b4fa24b96820df6f58806dff82a614be9552a6ec544cc1e9c23b9e8"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270203_lr0.01_st4000/val.npz",
+      "bytes": 54155,
+      "sha256": "629f5b925cec6a69e53d75af4239f6323f601258053da18debd2a3efc67a875f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.003_st2000/delay8.npz",
+      "bytes": 52780,
+      "sha256": "503aa99c507ebf96c2962e530c0fe09049b888d89ccd4b241eec3e9b2572b90b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.003_st2000/id.npz",
+      "bytes": 53560,
+      "sha256": "7e6e479c51cc9e3c2f7ee42c384bfa5039dbb560c56084cb65c391b967a07050"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.003_st2000/model.pt",
+      "bytes": 60177,
+      "sha256": "4a8f83231a5df85608bf7797f0e41e54e956a14a5c804791645bec8208d0b0e0"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.003_st2000/ood.npz",
+      "bytes": 53198,
+      "sha256": "977fc5d7170907f664e640f1562a468f487f2984cf7dbcf7e2a67a9a064e6ed6"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.003_st2000/result.json",
+      "bytes": 2343,
+      "sha256": "c78cfda3ee3f437c3b2477d1612f03bf335bc3a810228afc6d332c52946ae80e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.003_st2000/training.npz",
+      "bytes": 593227,
+      "sha256": "5aeabbf3546bebc3132e52929e91dbc7859d7e2122c242c28406e26a6d66f081"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.003_st2000/val.npz",
+      "bytes": 53690,
+      "sha256": "7ec3988ab50aca2bee3205017a28941ed01b27a46183a6529606391460abd1fe"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.003_st4000/delay8.npz",
+      "bytes": 54045,
+      "sha256": "c1b986f4952f0a7e2da375f54d566951704f2277bd4edf070279a8b33719bd1c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.003_st4000/id.npz",
+      "bytes": 54319,
+      "sha256": "2cbacf4b33a44155d896b7a31e85e30ae3b3c7eb3a3d8db5f217fcedfbd6a263"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.003_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "a6b0a13feb44b451eb6e1016d2c38768d507b5a67dddfd57709b08becb3c84cc"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.003_st4000/ood.npz",
+      "bytes": 54333,
+      "sha256": "4287fc26ddefe4482bb8f95c8900149e09ca973d2859f60b2ce2c864ef677fc5"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.003_st4000/result.json",
+      "bytes": 2901,
+      "sha256": "a8b3d7feb6e76e44397c1fb9e4b97f0964e7e28a16e5ae645dfc461d81ed7716"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.003_st4000/training.npz",
+      "bytes": 1185591,
+      "sha256": "b76dc3bb734310d0fecccb47ea09b8dccc3fe9f33be7a390f4a9bab9cd76ad69"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.003_st4000/val.npz",
+      "bytes": 54458,
+      "sha256": "4a12283ec8dbb608d37133e4fe3d569e69c96122c94423c5ab3d87f876959734"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.01_st2000/delay8.npz",
+      "bytes": 53989,
+      "sha256": "5455dc9b905704ddd3f0b42c54f69282b07034a06762c0969e9c73a04a59bd5a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.01_st2000/id.npz",
+      "bytes": 53921,
+      "sha256": "03def17025f51215b3f01cfc131e332ae30fbd4861097e66e986536b4f1cc028"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.01_st2000/model.pt",
+      "bytes": 60177,
+      "sha256": "7ddbfce55c133c85cf1908890d2cc8645e1189f227bea1947d121c54038e80ab"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.01_st2000/ood.npz",
+      "bytes": 53407,
+      "sha256": "1131f178aba3d2145fdb656f3d6ac7936a31f16910fc8e728eba5b9cf504e9db"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.01_st2000/result.json",
+      "bytes": 2319,
+      "sha256": "c62a596f60065b35048511e4e05ef9f33fc49c8b9f1c002802e1435b7e43e5db"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.01_st2000/training.npz",
+      "bytes": 593227,
+      "sha256": "5aeabbf3546bebc3132e52929e91dbc7859d7e2122c242c28406e26a6d66f081"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.01_st2000/val.npz",
+      "bytes": 54051,
+      "sha256": "0a08797743c3d85ee796e9c1c9fb6a410dcfc0ad9e4a3049bd731603e311a0e2"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.01_st4000/delay8.npz",
+      "bytes": 53986,
+      "sha256": "548af5f969b307c487719945dc7224eaf66ca99832b960f4768f2fef2588e3ba"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.01_st4000/id.npz",
+      "bytes": 53879,
+      "sha256": "66b6ca9e4a015e4f3d13a8b368a71662a579d2686b59db147e0867cc19261c94"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.01_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "914308c1880928ffd04ee2043e09b9f4c77fe436644843838dc7fc472266c30c"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.01_st4000/ood.npz",
+      "bytes": 53311,
+      "sha256": "1e1d59ccf3e8e3739b98f1808f0c99a27a53bbd7cda7fa7f274b8c33657afb9f"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.01_st4000/result.json",
+      "bytes": 2875,
+      "sha256": "52f350e4ffdeb1ac96f0f38daf6acc71b9a5c391124ca1be23a88f9e682f9300"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.01_st4000/training.npz",
+      "bytes": 1185591,
+      "sha256": "b76dc3bb734310d0fecccb47ea09b8dccc3fe9f33be7a390f4a9bab9cd76ad69"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270204_lr0.01_st4000/val.npz",
+      "bytes": 53973,
+      "sha256": "3fab21a6b4efbba7f2ae8ccaa99332ad9c5eb03080298b9389431d22853ec23e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.003_st2000/delay8.npz",
+      "bytes": 52247,
+      "sha256": "cf5a60225425ef82a44978cb7d0f66c17f9ec470d6b3dec32da46113f1cbdf47"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.003_st2000/id.npz",
+      "bytes": 52374,
+      "sha256": "6f9ce167dd1fefdbe502f85d824385db93b33a130fc2e0e9795ed69f2bc25bbc"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.003_st2000/model.pt",
+      "bytes": 60177,
+      "sha256": "0228018368c62926234b481c879e8459bd212acc19711aeff0f3b7fab583b621"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.003_st2000/ood.npz",
+      "bytes": 52444,
+      "sha256": "f0482d1023331e9e59d2f04cd8c92179ab71302e932aeecfbd7a953cee68a950"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.003_st2000/result.json",
+      "bytes": 2388,
+      "sha256": "b039a3684775c9f606d012d46e107555c11565621a218f56a89d6b745b09ac4a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.003_st2000/training.npz",
+      "bytes": 593777,
+      "sha256": "57e3a21a4f088f41d44edbd0d8b283aa9607ced19f6afa61f632b8140d17e609"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.003_st2000/val.npz",
+      "bytes": 52414,
+      "sha256": "76a37a8bb93e0330d466ec796cbd39fc1ed2ec064ed6c9a319e67983de9bdd69"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.003_st4000/delay8.npz",
+      "bytes": 51807,
+      "sha256": "f940af49d606933d62facc0597aa03f70c6964cd9598fe64407df867f048ae09"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.003_st4000/id.npz",
+      "bytes": 51960,
+      "sha256": "4a566d8585d7d0b302ed53dab3dd8f16d17ffda38796748c8491a5dff9fd6c9e"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.003_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "5185ba8dd7e10a14490eca915de57e921ddd9e6442830a9b01c5f83a3b444637"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.003_st4000/ood.npz",
+      "bytes": 51563,
+      "sha256": "f2a2e480770be8055afa31f3b6c686490b57bfa1b9ba4ac6de73eb8e1eb738f7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.003_st4000/result.json",
+      "bytes": 2857,
+      "sha256": "ef5bbb1f6d95deddb23082935661f371b677c976180ced732c74b893bc39bb84"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.003_st4000/training.npz",
+      "bytes": 1186588,
+      "sha256": "e005d60217912d033d40382a37ce8087b6234d2674534ce9d57dce122cd36744"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.003_st4000/val.npz",
+      "bytes": 51984,
+      "sha256": "5e807bd2ade81a9fc9ffb2e21d194a85adb26617e89300b8edcd55945831c087"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.01_st2000/delay8.npz",
+      "bytes": 53872,
+      "sha256": "d1de14dc31b5825650290ee9cebffda61a9c1315ba4437323dd6b88b6ef674bb"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.01_st2000/id.npz",
+      "bytes": 54008,
+      "sha256": "6f7079bfe571ac8aca104cf724567f783faec9abb1bc6a426f7e5dc08cfc5654"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.01_st2000/model.pt",
+      "bytes": 60177,
+      "sha256": "d8ca6debe370eadd62c274724cce54ab09871c0a6768d683467c315a8f0aa3db"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.01_st2000/ood.npz",
+      "bytes": 53556,
+      "sha256": "a6ff46a44f8c551f5a4f6f19110ca12b86a48ff117378e472022e0a89cdc2e91"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.01_st2000/result.json",
+      "bytes": 2328,
+      "sha256": "82224a4391a0ac06947a0d87d439b2d1a5f6a59811cad314c48c7ef2ff050207"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.01_st2000/training.npz",
+      "bytes": 593777,
+      "sha256": "57e3a21a4f088f41d44edbd0d8b283aa9607ced19f6afa61f632b8140d17e609"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.01_st2000/val.npz",
+      "bytes": 54092,
+      "sha256": "6a8622e2eb71c6ecb297dbde31c86694e4bb1507c6231262e43e29db876937d4"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.01_st4000/delay8.npz",
+      "bytes": 53888,
+      "sha256": "10817ce599e86a14f80b53044ff3f5c68a778f75b7760fefb77ed73110d1b748"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.01_st4000/id.npz",
+      "bytes": 54032,
+      "sha256": "5bb862988772a2fd418886ae55d0b9ce6f981b3773a87acfff3e06c33f707198"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.01_st4000/model.pt",
+      "bytes": 60177,
+      "sha256": "015719143af69e20894f73800b707bbe05dfe99bf858fab9967dedce9aa8bcd3"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.01_st4000/ood.npz",
+      "bytes": 53451,
+      "sha256": "2c352137df2f1aa39daa7238aae80eff1775e66d19a3c498380bfdc197121ec7"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.01_st4000/result.json",
+      "bytes": 2866,
+      "sha256": "1c6fcdaaee4fc88e4a493a3ec52bdbd196e60d74bd5e914acde8dd2f9aa80f8b"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.01_st4000/training.npz",
+      "bytes": 1186588,
+      "sha256": "e005d60217912d033d40382a37ce8087b6234d2674534ce9d57dce122cd36744"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/standard/S1_s270205_lr0.01_st4000/val.npz",
+      "bytes": 54065,
+      "sha256": "c0dffbdd2bd7de515ccffb61708a1f82066b32bd2b84177cdf752fbf271bba3a"
+    },
+    {
+      "path": "artifacts/unified_cognition/r02/summary.json",
+      "bytes": 17899,
+      "sha256": "c6b09536165b914145cf1daf024a1078902557ae8fc11cc212ee52f134001478"
+    }
+  ],
+  "file_count": 846,
+  "total_bytes": 129105342
+}

@@ -1,0 +1,45 @@
+{
+  "round": "UC-R02",
+  "branch": "unified_cognition",
+  "nature": "development_screening",
+  "grids": {
+    "A_rescue": {
+      "task": "standard",
+      "models": ["F0", "G", "S0", "S1"],
+      "lrs": [0.003, 0.01],
+      "steps": [2000, 4000],
+      "seeds": [270201, 270202, 270203, 270204, 270205],
+      "runs": 80
+    },
+    "B_hardscreen": {
+      "task": "hard",
+      "models": ["F0", "F1", "S0", "S1", "G"],
+      "lrs": [0.003],
+      "steps": [4000],
+      "seeds": [270201, 270202, 270203, 270204, 270205],
+      "runs": 25
+    }
+  },
+  "rescue_criterion": {"ceiling": "mean id BA >= 99% across 5 seeds at any (lr,steps)", "partial": "95-99% recorded as not reached"},
+  "hard_task": {
+    "lure_rule": "shares exactly one relation (color or shape, 50/50) with the effective pair; drawn from ID pools",
+    "balance_strata": "u x q x c x s x share (32, exact)",
+    "everything_else": "identical to R01 T1 (object algebra, diagonal holdout, splitmix buckets, positions, delays 2/4/6 + extrapolation 8)"
+  },
+  "primary_contrasts": {
+    "B_H02_clean": "hard id hold BA: F1-F0 (direction: positive)",
+    "guards": "update degradation <= 2pp; F0 must be off ceiling for informativeness (else registered negative-development outcome)"
+  },
+  "quality_gates": {
+    "hard_generator_audit": "artifacts/unified_cognition/r02/audit_hard.json (passed at freeze)",
+    "oracle_per_run": 1.0,
+    "reset_band": [0.45, 0.55],
+    "shortcut_probes": {"question_only": 0.5, "update_only": 0.5, "pair_a_expected": 0.75}
+  },
+  "commands": {
+    "run_one": ".venv/bin/python scripts/unified_cognition/r02.py run --task {T} --model {M} --seed {S} --lr {L} --steps {K}",
+    "grid": "xargs -P 2 -n 5 (task model seed lr steps)",
+    "logs_dir": "artifacts/unified_cognition/r02/logs/",
+    "resume": "re-issue the same command set; completed runs are skipped"
+  }
+}

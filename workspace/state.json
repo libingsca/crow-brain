@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_utc": "2026-09-28",
-  "current_branch": "UC-R01",
-  "phase": "r01_development_complete_unconfirmed",
+  "current_branch": "UC-R02",
+  "phase": "r02_development_complete_unconfirmed",
   "active_runs": [],
-  "next_action": "R02 需新协议并由用户授权后启动：先做 S 族对称救援诊断（优化/容量），再在基线脱离上限的干扰加载体上重筛 H01/H02；见 reports/unified_cognition/R01_REPORT.md 的决策节。",
+  "next_action": "R03 需新协议并由用户授权后启动：负载杠杆使基线脱离上限以完成 H02 干净对比；预登记 H01 的 lure 分布条件性检查；次要 S0 双峰初始化诊断。见 reports/unified_cognition/R02_REPORT.md 决策节。",
   "handoff": null,
   "hypotheses": {
     "H01": "scoped_useful_gain_excluded_broader_unresolved_r01_dev_negative_but_split_unresolved",
-    "H02": "development_screened_unconfirmed",
+    "H02": "development_screened_unconfirmed_offceiling_test_incomplete",
     "H03": "not_started",
     "H04": "not_started",
     "H05": "not_started",
@@ -30,7 +30,11 @@
     "status_snapshot": "CURRENT_RESEARCH_STATUS.md",
     "stop": "artifacts/unified_cognition/h01/round3/STOP.json",
     "confirmation": "artifacts/unified_cognition/h01/round3/confirmation.json",
-    "alpha_ledger": "artifacts/unified_cognition/h01/alpha_ledger.json"
+    "alpha_ledger": "artifacts/unified_cognition/h01/alpha_ledger.json",
+    "r02_protocol": "docs/decisions/unified_cognition/R02_PROTOCOL.md",
+    "r02_report": "reports/unified_cognition/R02_REPORT.md",
+    "r02_summary": "artifacts/unified_cognition/r02/summary.json",
+    "r02_freeze": "artifacts/unified_cognition/r02/freeze.json"
   },
   "seals": [
     {
@@ -42,6 +46,11 @@
       "label": "UC-R01",
       "manifest": "artifacts/unified_cognition/r01/reproducibility_manifest.json",
       "sha256": "156ee488dd122b17005a22189ede331b000b959c7a5ca8e294e089b25202277c"
+    },
+    {
+      "label": "UC-R02",
+      "manifest": "artifacts/unified_cognition/r02/reproducibility_manifest.json",
+      "sha256": "c5cf32622aa64c7ab23b65f8ec1f06dc499f8f920db12ec33a768c23a5d03b09"
     }
   ]
 }

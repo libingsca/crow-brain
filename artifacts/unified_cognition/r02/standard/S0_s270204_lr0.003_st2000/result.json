@@ -1,0 +1,94 @@
+{
+  "round": "UC-R02",
+  "task": "standard",
+  "model": "S0",
+  "seed": 270204,
+  "lr": 0.003,
+  "steps": 2000,
+  "nparams": 13858,
+  "width": 64,
+  "curve": [
+    {
+      "step": 1,
+      "loss": 0.7066377997398376,
+      "grad_norm": 0.1680467128753662
+    },
+    {
+      "step": 401,
+      "loss": 0.63411545753479,
+      "grad_norm": 0.37542587518692017
+    },
+    {
+      "step": 801,
+      "loss": 0.5384889841079712,
+      "grad_norm": 0.35166382789611816
+    },
+    {
+      "step": 1201,
+      "loss": 0.6539698839187622,
+      "grad_norm": 0.3578052520751953
+    },
+    {
+      "step": 1601,
+      "loss": 0.513922393321991,
+      "grad_norm": 0.30981916189193726
+    },
+    {
+      "step": 2000,
+      "loss": 0.6005796194076538,
+      "grad_norm": 0.4685974419116974
+    }
+  ],
+  "peak_rss_mb": 298.703125,
+  "source_r01_sha256": "2ea0e82d4133d8023de0f38eef4e5b0bdd1c0bfea932de1f41b6f4de9ab40989",
+  "source_sha256": "ebefe3dd93a1adb18562f0e88906b6af9dff9e6c5b94d4a12663b89e117f3854",
+  "val": {
+    "accuracy": 0.686767578125,
+    "loss": 0.5534446239471436,
+    "reset_accuracy": 0.5,
+    "hold": 0.68115234375,
+    "update": 0.6923828125
+  },
+  "oracle_val": {
+    "oracle_accuracy": 1.0,
+    "n": 4096,
+    "mean_label": 0.5
+  },
+  "id": {
+    "accuracy": 0.679931640625,
+    "loss": 0.560874342918396,
+    "reset_accuracy": 0.5,
+    "hold": 0.67431640625,
+    "update": 0.685546875
+  },
+  "oracle_id": {
+    "oracle_accuracy": 1.0,
+    "n": 4096,
+    "mean_label": 0.5
+  },
+  "ood": {
+    "accuracy": 0.599365234375,
+    "loss": 0.6760491728782654,
+    "reset_accuracy": 0.5,
+    "hold": 0.60498046875,
+    "update": 0.59375
+  },
+  "oracle_ood": {
+    "oracle_accuracy": 1.0,
+    "n": 4096,
+    "mean_label": 0.5
+  },
+  "delay8": {
+    "accuracy": 0.679931640625,
+    "loss": 0.5609666109085083,
+    "reset_accuracy": 0.5,
+    "hold": 0.6884765625,
+    "update": 0.67138671875
+  },
+  "oracle_delay8": {
+    "oracle_accuracy": 1.0,
+    "n": 4096,
+    "mean_label": 0.5
+  },
+  "seconds": 28.567739109043032
+}

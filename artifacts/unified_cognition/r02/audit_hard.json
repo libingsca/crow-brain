@@ -1,0 +1,56 @@
+{
+  "round": "UC-R02",
+  "task": "hard",
+  "checks": [
+    {
+      "split": "train",
+      "ood": false,
+      "n": 4096,
+      "oracle_accuracy": 1.0,
+      "lure_shared_relations_all_exactly_one": true
+    },
+    {
+      "split": "train",
+      "ood": true,
+      "n": 4096,
+      "oracle_accuracy": 1.0,
+      "lure_shared_relations_all_exactly_one": true
+    },
+    {
+      "split": "val",
+      "ood": false,
+      "n": 4096,
+      "oracle_accuracy": 1.0,
+      "lure_shared_relations_all_exactly_one": true
+    },
+    {
+      "split": "val",
+      "ood": true,
+      "n": 4096,
+      "oracle_accuracy": 1.0,
+      "lure_shared_relations_all_exactly_one": true
+    },
+    {
+      "split": "test",
+      "ood": false,
+      "n": 4096,
+      "oracle_accuracy": 1.0,
+      "lure_shared_relations_all_exactly_one": true
+    },
+    {
+      "split": "test",
+      "ood": true,
+      "n": 4096,
+      "oracle_accuracy": 1.0,
+      "lure_shared_relations_all_exactly_one": true
+    }
+  ],
+  "shortcut_probes": {
+    "question_only": 0.5,
+    "update_only": 0.5,
+    "effective_pair_only": 1.0,
+    "pair_a_only_expected_0.75": 0.75
+  },
+  "source_r01_sha256": "2ea0e82d4133d8023de0f38eef4e5b0bdd1c0bfea932de1f41b6f4de9ab40989",
+  "source_sha256": "ebefe3dd93a1adb18562f0e88906b6af9dff9e6c5b94d4a12663b89e117f3854"
+}
