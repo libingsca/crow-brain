@@ -1,0 +1,11 @@
+{
+  "verified_utc": "2026-09-27T06:09:54.541302+00:00",
+  "manifest_sha256": "65f18bfc3e8e72cabc3c9133d2a6a1a3e5957c1131aa9bab1bbe55e75d39e319",
+  "files_verified": 2585,
+  "bytes_verified": 283695224,
+  "all_registered_sources_unchanged": true,
+  "stop_certificate_verified": true,
+  "negative_controls_verified": true,
+  "navigation_links_valid": true,
+  "training_status": "completed; no further experiment launched"
+}

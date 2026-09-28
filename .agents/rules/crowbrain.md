@@ -1,0 +1,7 @@
+---
+trigger: always_on
+description: CrowBrain research continuity and experiment integrity
+---
+Read the workspace-root AGENTS.md, START_HERE.md and workspace/state.json before acting.
+Follow their shared experiment and handoff rules. Opening this project does not launch experiments.
+Do not treat the historical NEXT_EXPERIMENT_PLAN.md as the current execution queue.

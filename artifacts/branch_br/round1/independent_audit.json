@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "complete_cells": 500,
+  "head_prediction_vectors_recomputed": 14300,
+  "all_noise_replicates_reconstructed": true,
+  "negative_predictions_and_rng_verified": true,
+  "reset_recomputed": true,
+  "input_hashes_unchanged": true,
+  "frozen_parameters_unchanged": true
+}

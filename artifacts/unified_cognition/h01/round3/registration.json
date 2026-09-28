@@ -1,0 +1,17 @@
+{
+  "files": {
+    "scripts/unified_cognition/h01.py": "bc7f529fa3f1bb49e15cba1df244312961f6341c00a07ad19f90db7730e17c1e",
+    "scripts/unified_cognition/h01_product.py": "412b10062587627a5afbb3254fb52331bdc01f403d598ccf54e0d1a734f32df5",
+    "scripts/unified_cognition/run_persistent.py": "e3aaf89dc7f883619c433d3959fc0ce4ea0c063a557be72a042d8f4c1a95d29f",
+    "scripts/unified_cognition/statistics_h01.py": "097fc3d99c4b4114d128143ce45c7e23f679335134e202dc1904644e3fa87a5f",
+    "scripts/unified_cognition/audit_h01.py": "27aca88c46108df27d3817af76d0d5ba6af85224c3a8bc4ddf88b71a17ad5a3e",
+    "docs/decisions/unified_cognition/H01_ROUND3_PROTOCOL.md": "3db91e50e44674100d718b43f1f49bf796233e8d51af2965d4093ef74f6c7fc1"
+  },
+  "config_sha256": "f939dd1cc23dbce909acc7a49433228ed35926f850c2d509871484cd44885542",
+  "status": "registered_before_training",
+  "alpha_total": 0.0020833333333333333,
+  "alpha_each": 0.0005208333333333333,
+  "n_primary_pairs": 139,
+  "n_secondary_pairs": 20,
+  "jobs": 298
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "claim_id": "ditz2016",
+    "claim": "NCL sensory and working-memory numerosity selectivity",
+    "species": "carrion crow",
+    "brain_region": "NCL",
+    "cell_type": "unknown",
+    "cell_type_identification_method": "unknown",
+    "method": "single-unit recording during delayed match",
+    "n_animals": "unknown",
+    "n_sessions": "unknown",
+    "n_neurons": "unknown",
+    "finding": "unknown",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/27881787/",
+    "source_version": "2016 published",
+    "evidence_kind": "direct_observation",
+    "limitations": "Does not identify unique circuit mechanism; current task differs",
+    "computational_interpretation": "Candidate tuning and delay coding targets",
+    "data_level": "paper_only",
+    "access_status": "unverified",
+    "license": "unknown",
+    "verified_at": "2026-09-24",
+    "local_path": "unknown",
+    "checksum": "unknown",
+    "usable_observables": [
+      "published tuning summaries",
+      "task timing"
+    ]
+  },
+  {
+    "claim_id": "ditz2022",
+    "claim": "Cell-class differences and coupling consistent with feedforward inhibition",
+    "species": "carrion crow",
+    "brain_region": "NCL",
+    "cell_type": "putative BS/NS",
+    "cell_type_identification_method": "extracellular waveform and physiology; not anatomical verification",
+    "method": "single units and subset pair correlations",
+    "n_animals": 3,
+    "n_sessions": "unknown",
+    "n_neurons": 1136,
+    "finding": "unknown",
+    "source_url": "https://www.nature.com/articles/s42003-022-03208-z",
+    "source_version": "2022 published",
+    "evidence_kind": "inferred",
+    "limitations": "Functional coupling not direct synaptic identity; data pooled across protocols",
+    "computational_interpretation": "Competing inhibitory shaping hypothesis",
+    "data_level": "processed",
+    "access_status": "downloaded",
+    "license": "CC BY 4.0",
+    "verified_at": "2026-09-24",
+    "local_path": "data/ditz2022/",
+    "checksum": "per-file SHA-256: data/evidence/download_manifest.json",
+    "usable_observables": [
+      "processed per-unit count-conditioned firing",
+      "selected aligned tuning matrices",
+      "example trial recordings",
+      "aggregate behavior"
+    ]
+  }
+]

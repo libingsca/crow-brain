@@ -1,0 +1,39 @@
+{
+  "checked_at": 1790305397.122129,
+  "branches": {
+    "b": {
+      "manifest": "artifacts/branch_b/reproducibility_manifest.json",
+      "sha256": "ca8598b59039362e94b5f6b204c997e2a9bd1c16d22b6e5fe7c314d07b27efc5",
+      "files_verified": 118
+    },
+    "bn": {
+      "manifest": "artifacts/branch_bn/reproducibility_manifest.json",
+      "sha256": "5f96be18d7b007933a68365bce8ea0fab84d3f20c7e8f82b87c29546abce748e",
+      "files_verified": 217
+    },
+    "bt": {
+      "manifest": "artifacts/branch_bt/reproducibility_manifest.json",
+      "sha256": "b2600106241a9c559aa78cacc7971b4d79a0e79d5a897f38d69271c84a517902",
+      "files_verified": 601
+    },
+    "br": {
+      "manifest": "artifacts/branch_br/reproducibility_manifest.json",
+      "sha256": "1de6796b4da29613cd5f46241308d78d0ef4559464927d74273133f2afa9ade6",
+      "files_verified": 705
+    },
+    "bs": {
+      "manifest": "artifacts/branch_bs/reproducibility_manifest.json",
+      "sha256": "920b07a964b3412c130216205f11e280e3abd22116abb70f2123e5be13ddb775",
+      "files_verified": 1345
+    }
+  },
+  "preexisting_planning_pointer_mismatches": [
+    {
+      "branch": "bn",
+      "path": "NEXT_EXPERIMENT_PLAN.md",
+      "expected": "a43831e9682b93a1a646c568b775421f38d027de8876df73b9a7d7c46e0236c9",
+      "actual": "0489c2d21d0b590cae0c5ed7a1533a1a87a5e0816eee10fd3a1fbafed8683baf",
+      "reason": "Current planning entry updated in prior user-authorized planning turn; historical scientific artifacts unchanged."
+    }
+  ]
+}

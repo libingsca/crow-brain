@@ -1,0 +1,1371 @@
+{
+  "status": "quality_gate_failed",
+  "quality_gate": false,
+  "standard_original": {
+    "mean": 1.0,
+    "low": 1.0,
+    "high": 1.0,
+    "confidence": 0.95,
+    "n_models": 5
+  },
+  "long_original": {
+    "mean": 0.48394999999999994,
+    "low": 0.41148484924012246,
+    "high": 0.5564151507598774,
+    "confidence": 0.95,
+    "n_models": 5
+  },
+  "long_rescue": {
+    "mean": 0.9778,
+    "low": 0.9510290353231778,
+    "high": 1.0045709646768222,
+    "confidence": 0.975,
+    "n_models": 5
+  },
+  "paired_improvement": {
+    "mean": 0.49385,
+    "low": 0.3915214316442661,
+    "high": 0.5961785683557339,
+    "confidence": 0.975,
+    "n_models": 5
+  },
+  "controls": {
+    "permuted_head_ba": {
+      "mean": 0.6245499999999999,
+      "low": 0.5226473724683834,
+      "high": 0.7264526275316164,
+      "confidence": 0.95,
+      "n_models": 5
+    },
+    "reset_original_ba": {
+      "mean": 0.5012000000000001,
+      "low": 0.49786826587376276,
+      "high": 0.5045317341262374,
+      "confidence": 0.95,
+      "n_models": 5
+    },
+    "reset_rescue_ba": {
+      "mean": 0.5006499999999999,
+      "low": 0.4991677839174666,
+      "high": 0.5021322160825332,
+      "confidence": 0.95,
+      "n_models": 5
+    }
+  },
+  "secondary": {
+    "cross_time": {
+      "head_5_to_5": {
+        "mean": 1.0,
+        "low": 1.0,
+        "high": 1.0,
+        "confidence": 0.95,
+        "n_models": 5
+      },
+      "sample_5_to_5": {
+        "mean": 1.0,
+        "low": 1.0,
+        "high": 1.0,
+        "confidence": 0.95,
+        "n_models": 5
+      },
+      "head_5_to_15": {
+        "mean": 0.48224999999999996,
+        "low": 0.4392285373788309,
+        "high": 0.525271462621169,
+        "confidence": 0.95,
+        "n_models": 5
+      },
+      "sample_5_to_15": {
+        "mean": 0.136,
+        "low": 0.021658992360519116,
+        "high": 0.2503410076394809,
+        "confidence": 0.95,
+        "n_models": 5
+      },
+      "head_15_to_5": {
+        "mean": 0.5018,
+        "low": 0.42488307434671047,
+        "high": 0.5787169256532896,
+        "confidence": 0.95,
+        "n_models": 5
+      },
+      "sample_15_to_5": {
+        "mean": 0.28,
+        "low": 0.1439825238683489,
+        "high": 0.4160174761316512,
+        "confidence": 0.95,
+        "n_models": 5
+      },
+      "head_15_to_15": {
+        "mean": 0.9778,
+        "low": 0.9565354844406083,
+        "high": 0.9990645155593917,
+        "confidence": 0.95,
+        "n_models": 5
+      },
+      "sample_15_to_15": {
+        "mean": 1.0,
+        "low": 1.0,
+        "high": 1.0,
+        "confidence": 0.95,
+        "n_models": 5
+      }
+    },
+    "quantity": {
+      "0": {
+        "0": {
+          "a": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "conditional_permutation": {
+              "mean": 0.3122625,
+              "low": 0.3122625,
+              "high": 0.3122625,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          }
+        }
+      },
+      "5": {
+        "0": {
+          "a": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "conditional_permutation": {
+              "mean": 0.3122625,
+              "low": 0.3122625,
+              "high": 0.3122625,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          },
+          "b": {
+            "test_ba": {
+              "mean": 0.5,
+              "low": 0.5,
+              "high": 0.5,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 0.5,
+              "low": 0.5,
+              "high": 0.5,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 0.5,
+              "low": 0.5,
+              "high": 0.5,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 0.0,
+              "low": 0.0,
+              "high": 0.0,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          }
+        },
+        "1": {
+          "a": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 0.9999750000000001,
+              "low": 0.9999055888723701,
+              "high": 1.0000444111276299,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "conditional_permutation": {
+              "mean": 0.3122625,
+              "low": 0.3122625,
+              "high": 0.3122625,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          },
+          "b": {
+            "test_ba": {
+              "mean": 0.9999499999999999,
+              "low": 0.99981117774474,
+              "high": 1.0000888222552597,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 0.9999750000000001,
+              "low": 0.9999055888723701,
+              "high": 1.0000444111276299,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 0.9999,
+              "low": 0.9996223554894803,
+              "high": 1.0001776445105197,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          }
+        },
+        "2": {
+          "a": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "conditional_permutation": {
+              "mean": 0.3122625,
+              "low": 0.3122625,
+              "high": 0.3122625,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          },
+          "b": {
+            "test_ba": {
+              "mean": 0.99985,
+              "low": 0.9995723554894803,
+              "high": 1.0001276445105198,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 0.999925,
+              "low": 0.9997167666171101,
+              "high": 1.0001332333828898,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 0.9997,
+              "low": 0.9991447109789605,
+              "high": 1.0002552890210397,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          }
+        },
+        "3": {
+          "a": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "conditional_permutation": {
+              "mean": 0.3122625,
+              "low": 0.3122625,
+              "high": 0.3122625,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          },
+          "b": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          }
+        },
+        "4": {
+          "a": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "conditional_permutation": {
+              "mean": 0.3122625,
+              "low": 0.3122625,
+              "high": 0.3122625,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          },
+          "b": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 0.9999500000000001,
+              "low": 0.9998111777447403,
+              "high": 1.00008882225526,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          }
+        }
+      },
+      "10": {
+        "0": {
+          "a": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "conditional_permutation": {
+              "mean": 0.3122625,
+              "low": 0.3122625,
+              "high": 0.3122625,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          }
+        }
+      },
+      "15": {
+        "0": {
+          "a": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "conditional_permutation": {
+              "mean": 0.3122625,
+              "low": 0.3122625,
+              "high": 0.3122625,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          },
+          "b": {
+            "test_ba": {
+              "mean": 0.49990000000000007,
+              "low": 0.4996223554894803,
+              "high": 0.5001776445105198,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 0.5,
+              "low": 0.5,
+              "high": 0.5,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 0.5,
+              "low": 0.5,
+              "high": 0.5,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 0.9998000000000001,
+              "low": 0.9992447109789606,
+              "high": 1.0003552890210397,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 0.0,
+              "low": 0.0,
+              "high": 0.0,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          }
+        },
+        "1": {
+          "a": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "conditional_permutation": {
+              "mean": 0.3122625,
+              "low": 0.3122625,
+              "high": 0.3122625,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          },
+          "b": {
+            "test_ba": {
+              "mean": 0.9999,
+              "low": 0.9996223554894803,
+              "high": 1.0001776445105197,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 0.9999750000000001,
+              "low": 0.9999055888723701,
+              "high": 1.0000444111276299,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 0.9998000000000001,
+              "low": 0.9992447109789606,
+              "high": 1.0003552890210397,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          }
+        },
+        "2": {
+          "a": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 0.9999750000000001,
+              "low": 0.9999055888723701,
+              "high": 1.0000444111276299,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "conditional_permutation": {
+              "mean": 0.3122625,
+              "low": 0.3122625,
+              "high": 0.3122625,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          },
+          "b": {
+            "test_ba": {
+              "mean": 0.9999,
+              "low": 0.9996223554894803,
+              "high": 1.0001776445105197,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 0.999925,
+              "low": 0.9997861777447401,
+              "high": 1.0000638222552598,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 0.9998000000000001,
+              "low": 0.9992447109789606,
+              "high": 1.0003552890210397,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          }
+        },
+        "3": {
+          "a": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "conditional_permutation": {
+              "mean": 0.3122625,
+              "low": 0.3122625,
+              "high": 0.3122625,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          },
+          "b": {
+            "test_ba": {
+              "mean": 0.9999500000000001,
+              "low": 0.9998111777447403,
+              "high": 1.00008882225526,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 0.9999,
+              "low": 0.9996223554894803,
+              "high": 1.0001776445105197,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          }
+        },
+        "4": {
+          "a": {
+            "test_ba": {
+              "mean": 0.9999,
+              "low": 0.9996223554894803,
+              "high": 1.0001776445105197,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 0.9998250000000001,
+              "low": 0.9993391221065905,
+              "high": 1.0003108778934096,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 0.9998000000000001,
+              "low": 0.9992447109789606,
+              "high": 1.0003552890210397,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "conditional_permutation": {
+              "mean": 0.31226750000000003,
+              "low": 0.312253617774474,
+              "high": 0.31228138222552604,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          },
+          "b": {
+            "test_ba": {
+              "mean": 0.99985,
+              "low": 0.9995723554894803,
+              "high": 1.0001276445105198,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 0.9998000000000001,
+              "low": 0.9992447109789606,
+              "high": 1.0003552890210397,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 0.9999,
+              "low": 0.9996223554894803,
+              "high": 1.0001776445105197,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          }
+        }
+      },
+      "25": {
+        "0": {
+          "a": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "conditional_permutation": {
+              "mean": 0.3122625,
+              "low": 0.3122625,
+              "high": 0.3122625,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          }
+        }
+      },
+      "40": {
+        "0": {
+          "a": {
+            "test_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "train_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "validation_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "match_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "nonmatch_ba": {
+              "mean": 1.0,
+              "low": 1.0,
+              "high": 1.0,
+              "confidence": 0.95,
+              "n_models": 5
+            },
+            "conditional_permutation": {
+              "mean": 0.3122625,
+              "low": 0.3122625,
+              "high": 0.3122625,
+              "confidence": 0.95,
+              "n_models": 5
+            }
+          }
+        }
+      }
+    },
+    "noise": {
+      "delay5_fraction0": {
+        "original_ba": {
+          "mean": 1.0,
+          "low": 1.0,
+          "high": 1.0,
+          "confidence": 0.95,
+          "n_models": 5
+        },
+        "rescue_ba": {
+          "mean": 1.0,
+          "low": 1.0,
+          "high": 1.0,
+          "confidence": 0.95,
+          "n_models": 5
+        }
+      },
+      "delay5_fraction0.01": {
+        "original_ba": {
+          "mean": 1.0,
+          "low": 1.0,
+          "high": 1.0,
+          "confidence": 0.95,
+          "n_models": 5
+        },
+        "rescue_ba": {
+          "mean": 1.0,
+          "low": 1.0,
+          "high": 1.0,
+          "confidence": 0.95,
+          "n_models": 5
+        }
+      },
+      "delay5_fraction0.05": {
+        "original_ba": {
+          "mean": 0.9974000000000001,
+          "low": 0.993545025699364,
+          "high": 1.001254974300636,
+          "confidence": 0.95,
+          "n_models": 5
+        },
+        "rescue_ba": {
+          "mean": 0.99581,
+          "low": 0.9895457236030912,
+          "high": 1.0020742763969088,
+          "confidence": 0.95,
+          "n_models": 5
+        }
+      },
+      "delay15_fraction0": {
+        "original_ba": {
+          "mean": 0.48395,
+          "low": 0.4114848492401225,
+          "high": 0.5564151507598775,
+          "confidence": 0.95,
+          "n_models": 5
+        },
+        "rescue_ba": {
+          "mean": 0.9778,
+          "low": 0.9565354844406082,
+          "high": 0.9990645155593918,
+          "confidence": 0.95,
+          "n_models": 5
+        }
+      },
+      "delay15_fraction0.01": {
+        "original_ba": {
+          "mean": 0.48397000000000007,
+          "low": 0.4120777101269252,
+          "high": 0.555862289873075,
+          "confidence": 0.95,
+          "n_models": 5
+        },
+        "rescue_ba": {
+          "mean": 0.7281000000000001,
+          "low": 0.4582649908012592,
+          "high": 0.9979350091987409,
+          "confidence": 0.95,
+          "n_models": 5
+        }
+      },
+      "delay15_fraction0.05": {
+        "original_ba": {
+          "mean": 0.48716,
+          "low": 0.4197584832911625,
+          "high": 0.5545615167088375,
+          "confidence": 0.95,
+          "n_models": 5
+        },
+        "rescue_ba": {
+          "mean": 0.6993900000000001,
+          "low": 0.4225267910303823,
+          "high": 0.9762532089696179,
+          "confidence": 0.95,
+          "n_models": 5
+        }
+      }
+    },
+    "delay_curve": {
+      "0": {
+        "original_ba": {
+          "mean": 0.6010000000000001,
+          "low": 0.5601351749437805,
+          "high": 0.6418648250562197,
+          "confidence": 0.95,
+          "n_models": 5
+        },
+        "rescue_ba": {
+          "mean": 0.9896499999999999,
+          "low": 0.9612604245291265,
+          "high": 1.0180395754708733,
+          "confidence": 0.95,
+          "n_models": 5
+        }
+      },
+      "5": {
+        "original_ba": {
+          "mean": 1.0,
+          "low": 1.0,
+          "high": 1.0,
+          "confidence": 0.95,
+          "n_models": 5
+        },
+        "rescue_ba": {
+          "mean": 1.0,
+          "low": 1.0,
+          "high": 1.0,
+          "confidence": 0.95,
+          "n_models": 5
+        }
+      },
+      "10": {
+        "original_ba": {
+          "mean": 0.5166000000000001,
+          "low": 0.32965873259569706,
+          "high": 0.7035412674043031,
+          "confidence": 0.95,
+          "n_models": 5
+        },
+        "rescue_ba": {
+          "mean": 0.9993000000000001,
+          "low": 0.9981098470838481,
+          "high": 1.000490152916152,
+          "confidence": 0.95,
+          "n_models": 5
+        }
+      },
+      "15": {
+        "original_ba": {
+          "mean": 0.48394999999999994,
+          "low": 0.41148484924012246,
+          "high": 0.5564151507598774,
+          "confidence": 0.95,
+          "n_models": 5
+        },
+        "rescue_ba": {
+          "mean": 0.9778,
+          "low": 0.9565354844406083,
+          "high": 0.9990645155593917,
+          "confidence": 0.95,
+          "n_models": 5
+        }
+      },
+      "25": {
+        "original_ba": {
+          "mean": 0.49265,
+          "low": 0.4722431284767962,
+          "high": 0.5130568715232038,
+          "confidence": 0.95,
+          "n_models": 5
+        },
+        "rescue_ba": {
+          "mean": 0.8285,
+          "low": 0.6760612479813195,
+          "high": 0.9809387520186805,
+          "confidence": 0.95,
+          "n_models": 5
+        }
+      },
+      "40": {
+        "original_ba": {
+          "mean": 0.48995,
+          "low": 0.46204672669276214,
+          "high": 0.5178532733072378,
+          "confidence": 0.95,
+          "n_models": 5
+        },
+        "rescue_ba": {
+          "mean": 0.7057,
+          "low": 0.47103305955950847,
+          "high": 0.9403669404404915,
+          "confidence": 0.95,
+          "n_models": 5
+        }
+      }
+    }
+  },
+  "per_seed": [
+    {
+      "seed": 301,
+      "old15": 0.4,
+      "rescue15": 0.98575,
+      "C": 100.0
+    },
+    {
+      "seed": 302,
+      "old15": 0.55025,
+      "rescue15": 0.9755,
+      "C": 100.0
+    },
+    {
+      "seed": 303,
+      "old15": 0.45375,
+      "rescue15": 0.975,
+      "C": 10.0
+    },
+    {
+      "seed": 304,
+      "old15": 0.5157499999999999,
+      "rescue15": 0.9530000000000001,
+      "C": 100.0
+    },
+    {
+      "seed": 305,
+      "old15": 0.5,
+      "rescue15": 0.99975,
+      "C": 10.0
+    }
+  ]
+}

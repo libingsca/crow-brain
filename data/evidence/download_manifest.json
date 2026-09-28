@@ -1,0 +1,576 @@
+[
+  {
+    "name": "data_behavior.mat",
+    "size": 2132,
+    "sha256": "2196b7b59e4d5a19ac6409dfb8fba387298edb29b29ade3ef2c09b6886e053eb",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1",
+    "variables": [
+      [
+        "all_average_1",
+        [
+          1,
+          5
+        ],
+        "double"
+      ],
+      [
+        "all_numer_1_1",
+        [
+          1,
+          5
+        ],
+        "double"
+      ],
+      [
+        "all_numer_2_1",
+        [
+          1,
+          5
+        ],
+        "double"
+      ],
+      [
+        "all_numer_3_1",
+        [
+          1,
+          5
+        ],
+        "double"
+      ],
+      [
+        "all_numer_4_1",
+        [
+          1,
+          5
+        ],
+        "double"
+      ],
+      [
+        "all_numer_5_1",
+        [
+          1,
+          5
+        ],
+        "double"
+      ],
+      [
+        "all_average_2",
+        [
+          1,
+          7
+        ],
+        "double"
+      ],
+      [
+        "all_numer_12_2",
+        [
+          1,
+          7
+        ],
+        "double"
+      ],
+      [
+        "all_numer_1_2",
+        [
+          1,
+          7
+        ],
+        "double"
+      ],
+      [
+        "all_numer_20_2",
+        [
+          1,
+          7
+        ],
+        "double"
+      ],
+      [
+        "all_numer_2_2",
+        [
+          1,
+          7
+        ],
+        "double"
+      ],
+      [
+        "all_numer_30_2",
+        [
+          1,
+          7
+        ],
+        "double"
+      ],
+      [
+        "all_numer_4_2",
+        [
+          1,
+          7
+        ],
+        "double"
+      ],
+      [
+        "all_numer_7_2",
+        [
+          1,
+          7
+        ],
+        "double"
+      ],
+      [
+        "all_average_3",
+        [
+          1,
+          4
+        ],
+        "double"
+      ],
+      [
+        "all_numer_1_3",
+        [
+          1,
+          4
+        ],
+        "double"
+      ],
+      [
+        "all_numer_2_3",
+        [
+          1,
+          4
+        ],
+        "double"
+      ],
+      [
+        "all_numer_3_3",
+        [
+          1,
+          4
+        ],
+        "double"
+      ],
+      [
+        "all_numer_4_3",
+        [
+          1,
+          4
+        ],
+        "double"
+      ]
+    ]
+  },
+  {
+    "name": "data_firingrate.mat",
+    "size": 5018273,
+    "sha256": "6db35226c7abe04fbef2394a945f3c429eebb243e454dbfd4f9abc35fefb7a1c",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1",
+    "variables": [
+      [
+        "recording1",
+        [
+          564,
+          2700
+        ],
+        "double"
+      ],
+      [
+        "recording2",
+        [
+          564,
+          2700
+        ],
+        "double"
+      ],
+      [
+        "normed_waves",
+        [
+          1,
+          1136
+        ],
+        "cell"
+      ],
+      [
+        "corr_trials",
+        [
+          564,
+          4
+        ],
+        "double"
+      ],
+      [
+        "corr_trials2",
+        [
+          564,
+          4
+        ],
+        "double"
+      ],
+      [
+        "preference",
+        [
+          1,
+          1136
+        ],
+        "cell"
+      ],
+      [
+        "firing_numer",
+        [
+          1,
+          1136
+        ],
+        "cell"
+      ],
+      [
+        "numerosity",
+        [
+          1,
+          1136
+        ],
+        "cell"
+      ],
+      [
+        "grouping",
+        [
+          1136,
+          1
+        ],
+        "double"
+      ]
+    ]
+  },
+  {
+    "name": "data_physio.mat",
+    "size": 8466015,
+    "sha256": "fb87b031172cf79602c3fb9de8a10ad48d5e0fa9f049c16c7f0110e2e8fa5830",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1",
+    "variables": [
+      [
+        "all_vectors",
+        [
+          1136,
+          2300
+        ],
+        "double"
+      ],
+      [
+        "grouping",
+        [
+          1136,
+          1
+        ],
+        "double"
+      ],
+      [
+        "spk_densities",
+        [
+          1,
+          1136
+        ],
+        "cell"
+      ]
+    ]
+  },
+  {
+    "name": "data_tempcorr.mat",
+    "size": 50882,
+    "sha256": "050118c7830ffc1c182cd4f3f189ea7772c7d7e910d0e80884ec7d4de05b0e46",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1",
+    "variables": [
+      [
+        "data_table_a",
+        [
+          2,
+          486
+        ],
+        "cell"
+      ],
+      [
+        "data_table_b",
+        [
+          2,
+          338
+        ],
+        "cell"
+      ],
+      [
+        "data_table_c",
+        [
+          2,
+          312
+        ],
+        "cell"
+      ],
+      [
+        "cc_timing",
+        [
+          1,
+          26
+        ],
+        "cell"
+      ],
+      [
+        "threshold",
+        [
+          1,
+          26
+        ],
+        "double"
+      ]
+    ]
+  },
+  {
+    "name": "data_tuningadjacent.mat",
+    "size": 51431,
+    "sha256": "b4442a72454fddd363b9b168b06d6ccab4fb987724238011638cb0adda625eb0",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1",
+    "variables": [
+      [
+        "correlation_a",
+        [
+          2,
+          222
+        ],
+        "cell"
+      ],
+      [
+        "correlation_b",
+        [
+          2,
+          107
+        ],
+        "cell"
+      ],
+      [
+        "correlation_c",
+        [
+          2,
+          77
+        ],
+        "cell"
+      ],
+      [
+        "data_table_a",
+        [
+          2,
+          486
+        ],
+        "cell"
+      ],
+      [
+        "data_table_b",
+        [
+          2,
+          338
+        ],
+        "cell"
+      ],
+      [
+        "data_table_c",
+        [
+          2,
+          312
+        ],
+        "cell"
+      ],
+      [
+        "BSBS_pairs",
+        [
+          1,
+          22
+        ],
+        "double"
+      ],
+      [
+        "NSBS_pairs",
+        [
+          1,
+          11
+        ],
+        "double"
+      ]
+    ]
+  },
+  {
+    "name": "data_tuningcurve.mat",
+    "size": 10578,
+    "sha256": "067d07f9ebc6123f35be30efaf742c9f11ad2e6d58d764e0540e464b9c42b4a7",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1",
+    "variables": [
+      [
+        "BS_delay_tuning_large",
+        [
+          45,
+          9
+        ],
+        "double"
+      ],
+      [
+        "BS_delay_tuning_small",
+        [
+          45,
+          7
+        ],
+        "double"
+      ],
+      [
+        "BS_sample_tuning_large",
+        [
+          48,
+          9
+        ],
+        "double"
+      ],
+      [
+        "BS_sample_tuning_small",
+        [
+          51,
+          7
+        ],
+        "double"
+      ],
+      [
+        "NS_delay_tuning_large",
+        [
+          21,
+          9
+        ],
+        "double"
+      ],
+      [
+        "NS_delay_tuning_small",
+        [
+          11,
+          7
+        ],
+        "double"
+      ],
+      [
+        "NS_sample_tuning_large",
+        [
+          18,
+          9
+        ],
+        "double"
+      ],
+      [
+        "NS_sample_tuning_small",
+        [
+          18,
+          7
+        ],
+        "double"
+      ]
+    ]
+  },
+  {
+    "name": "data_waves.mat",
+    "size": 74651,
+    "sha256": "4d0f1ef2d555e431b9804fbe342dc7455ef7a170f5393f92ce89168e72645d70",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1",
+    "variables": [
+      [
+        "grouping",
+        [
+          300,
+          1
+        ],
+        "double"
+      ],
+      [
+        "subset_300",
+        [
+          2,
+          300
+        ],
+        "cell"
+      ],
+      [
+        "broad_spikes",
+        [
+          1,
+          918
+        ],
+        "cell"
+      ],
+      [
+        "narrow_spikes",
+        [
+          1,
+          218
+        ],
+        "cell"
+      ]
+    ]
+  },
+  {
+    "name": "dotraster_num7.m",
+    "size": 2553,
+    "sha256": "9296c5637155ba79d6c288cac5118f78841bcfb730d230ae02c4809f7bfc9f10",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1"
+  },
+  {
+    "name": "plot_adjacenttuning.m",
+    "size": 2586,
+    "sha256": "646b2dd3e123a62a15e785e41bf920dcda37a11cb2ebfb68d619c481188e28a0",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1"
+  },
+  {
+    "name": "plot_behavior.m",
+    "size": 2672,
+    "sha256": "57277ba84829502c54383dbb71e85957621a3a7c0d344bd5175306fb6b6509c6",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1"
+  },
+  {
+    "name": "plot_firingrates.m",
+    "size": 13304,
+    "sha256": "e9a96a8c94fd90b9a3cef6fe6c55c3b3f85b4aff5114995cb3e6d0ad1e08974b",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1"
+  },
+  {
+    "name": "plot_physiodiff.m",
+    "size": 5040,
+    "sha256": "65bcd77cbdd4cad2283328c21baed754ba6fd8097ce3f3a91841af6b64fbd4d3",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1"
+  },
+  {
+    "name": "plot_populationtuning.m",
+    "size": 4358,
+    "sha256": "184d699df689edeeb8f84db99b8ac3f637c3e563b6a2d3062f025917d9243b1f",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1"
+  },
+  {
+    "name": "plot_temporalcorrelations.m",
+    "size": 1952,
+    "sha256": "114b866922adbc2b343918f54fd30fd158c094f14d9ae9d422ac7bb522fb2c1d",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1"
+  },
+  {
+    "name": "plot_waves.m",
+    "size": 2110,
+    "sha256": "95264cd4d3d78eabecbb4b54b90047a9ce2131ae01e0aa9fb0a68d42a90bde70",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1"
+  },
+  {
+    "name": "spikedensity_num7.m",
+    "size": 1948,
+    "sha256": "7655dd415a24b3cc88d995d8375672f9427c0ce5b4e4b546f6086ea4ff0398fa",
+    "license": "CC BY 4.0",
+    "dataset": "10.17632/7kmtz7kj4c.1"
+  }
+]

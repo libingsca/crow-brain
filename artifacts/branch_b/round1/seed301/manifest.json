@@ -1,0 +1,8 @@
+{
+  "seed": 301,
+  "checkpoint": "artifacts/round6/final/rnn_lr0.001_seed301/final.pt",
+  "checkpoint_sha256": "66a0defd7ebb9f8a0b3684c02c13266b535a4660b42922aef58827b3c0f3facf",
+  "script_sha256": "85dacd4ff9448abd1b9dfe55bccf92f2648ef99e4ef59d5fe4a850380ecb3e52",
+  "protocol_sha256": "ccdb2d012d3623f5aaf0b03dd0647285369f54ca93e906e621c4bd147750b7ce",
+  "started_at": 1790268452.689625
+}

@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "cells": 4400,
+  "prediction_vectors": 132000,
+  "prior_images": 374000,
+  "new_images": 80000,
+  "all_noise_reconstructed": true,
+  "recurrence_rebuilt_from_pixels": true,
+  "chronology_verified": true,
+  "frozen_parameters_verified": true
+}

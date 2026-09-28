@@ -1,0 +1,6 @@
+{
+  "source": "scripts/unified_cognition/confirm_h01.py",
+  "sha256": "6b04e2bc6e4d4d0d4c95026406bc20e8cab049fcf05730207d4ad979dee36814",
+  "fixed_look_after_all_298_fits": true,
+  "no_interim_inference": true
+}

@@ -1,0 +1,2036 @@
+[
+  {
+    "path": "artifacts/round3/final/rnn_lr0.001_seed101/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round3/final/rnn_lr0.001_seed101/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round3/final/rnn_lr0.001_seed102/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round3/final/rnn_lr0.001_seed102/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round3/final/rnn_lr0.001_seed103/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round3/final/rnn_lr0.001_seed103/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round3/final/rnn_lr0.001_seed104/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round3/final/rnn_lr0.001_seed104/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round3/final/rnn_lr0.001_seed105/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round3/final/rnn_lr0.001_seed105/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round4/seed101/calibrated_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round4/seed102/calibrated_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round4/seed103/calibrated_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round4/seed104/calibrated_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round4/seed105/calibrated_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed201/id_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed201/reset_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed201/shift_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed201/train_features.npz",
+    "shapes": {
+      "features": [
+        8000,
+        64
+      ],
+      "labels": [
+        8000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed202/id_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed202/reset_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed202/shift_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed202/train_features.npz",
+    "shapes": {
+      "features": [
+        8000,
+        64
+      ],
+      "labels": [
+        8000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed203/id_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed203/reset_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed203/shift_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed203/train_features.npz",
+    "shapes": {
+      "features": [
+        8000,
+        64
+      ],
+      "labels": [
+        8000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed204/id_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed204/reset_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed204/shift_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed204/train_features.npz",
+    "shapes": {
+      "features": [
+        8000,
+        64
+      ],
+      "labels": [
+        8000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed205/id_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed205/reset_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed205/shift_ba_features.npz",
+    "shapes": {
+      "features": [
+        4000,
+        64
+      ],
+      "labels": [
+        4000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round5/reservoir/seed205/train_features.npz",
+    "shapes": {
+      "features": [
+        8000,
+        64
+      ],
+      "labels": [
+        8000
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed301/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed301/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed301/shape_predictions.npz",
+    "shapes": {
+      "labels": [
+        4000
+      ],
+      "pairs": [
+        4000,
+        2
+      ],
+      "sample_indices": [
+        4000
+      ],
+      "test_indices": [
+        4000
+      ],
+      "solid_solid": [
+        4000,
+        2
+      ],
+      "ring_ring": [
+        4000,
+        2
+      ],
+      "solid_ring": [
+        4000,
+        2
+      ],
+      "ring_solid": [
+        4000,
+        2
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed302/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed302/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed302/shape_predictions.npz",
+    "shapes": {
+      "labels": [
+        4000
+      ],
+      "pairs": [
+        4000,
+        2
+      ],
+      "sample_indices": [
+        4000
+      ],
+      "test_indices": [
+        4000
+      ],
+      "solid_solid": [
+        4000,
+        2
+      ],
+      "ring_ring": [
+        4000,
+        2
+      ],
+      "solid_ring": [
+        4000,
+        2
+      ],
+      "ring_solid": [
+        4000,
+        2
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed303/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed303/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed303/shape_predictions.npz",
+    "shapes": {
+      "labels": [
+        4000
+      ],
+      "pairs": [
+        4000,
+        2
+      ],
+      "sample_indices": [
+        4000
+      ],
+      "test_indices": [
+        4000
+      ],
+      "solid_solid": [
+        4000,
+        2
+      ],
+      "ring_ring": [
+        4000,
+        2
+      ],
+      "solid_ring": [
+        4000,
+        2
+      ],
+      "ring_solid": [
+        4000,
+        2
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed304/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed304/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed304/shape_predictions.npz",
+    "shapes": {
+      "labels": [
+        4000
+      ],
+      "pairs": [
+        4000,
+        2
+      ],
+      "sample_indices": [
+        4000
+      ],
+      "test_indices": [
+        4000
+      ],
+      "solid_solid": [
+        4000,
+        2
+      ],
+      "ring_ring": [
+        4000,
+        2
+      ],
+      "solid_ring": [
+        4000,
+        2
+      ],
+      "ring_solid": [
+        4000,
+        2
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed305/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed305/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/ei_lr0.001_seed305/shape_predictions.npz",
+    "shapes": {
+      "labels": [
+        4000
+      ],
+      "pairs": [
+        4000,
+        2
+      ],
+      "sample_indices": [
+        4000
+      ],
+      "test_indices": [
+        4000
+      ],
+      "solid_solid": [
+        4000,
+        2
+      ],
+      "ring_ring": [
+        4000,
+        2
+      ],
+      "solid_ring": [
+        4000,
+        2
+      ],
+      "ring_solid": [
+        4000,
+        2
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed301/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed301/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed301/shape_predictions.npz",
+    "shapes": {
+      "labels": [
+        4000
+      ],
+      "pairs": [
+        4000,
+        2
+      ],
+      "sample_indices": [
+        4000
+      ],
+      "test_indices": [
+        4000
+      ],
+      "solid_solid": [
+        4000,
+        2
+      ],
+      "ring_ring": [
+        4000,
+        2
+      ],
+      "solid_ring": [
+        4000,
+        2
+      ],
+      "ring_solid": [
+        4000,
+        2
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed302/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed302/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed302/shape_predictions.npz",
+    "shapes": {
+      "labels": [
+        4000
+      ],
+      "pairs": [
+        4000,
+        2
+      ],
+      "sample_indices": [
+        4000
+      ],
+      "test_indices": [
+        4000
+      ],
+      "solid_solid": [
+        4000,
+        2
+      ],
+      "ring_ring": [
+        4000,
+        2
+      ],
+      "solid_ring": [
+        4000,
+        2
+      ],
+      "ring_solid": [
+        4000,
+        2
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed303/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed303/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed303/shape_predictions.npz",
+    "shapes": {
+      "labels": [
+        4000
+      ],
+      "pairs": [
+        4000,
+        2
+      ],
+      "sample_indices": [
+        4000
+      ],
+      "test_indices": [
+        4000
+      ],
+      "solid_solid": [
+        4000,
+        2
+      ],
+      "ring_ring": [
+        4000,
+        2
+      ],
+      "solid_ring": [
+        4000,
+        2
+      ],
+      "ring_solid": [
+        4000,
+        2
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed304/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed304/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed304/shape_predictions.npz",
+    "shapes": {
+      "labels": [
+        4000
+      ],
+      "pairs": [
+        4000,
+        2
+      ],
+      "sample_indices": [
+        4000
+      ],
+      "test_indices": [
+        4000
+      ],
+      "solid_solid": [
+        4000,
+        2
+      ],
+      "ring_ring": [
+        4000,
+        2
+      ],
+      "solid_ring": [
+        4000,
+        2
+      ],
+      "ring_solid": [
+        4000,
+        2
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed305/final_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed305/initial_representations.npz",
+    "shapes": {
+      "selection": [
+        600,
+        13,
+        64
+      ],
+      "probe_train": [
+        600,
+        13,
+        64
+      ],
+      "probe_test": [
+        600,
+        13,
+        64
+      ],
+      "selection_labels": [
+        600
+      ],
+      "probe_train_labels": [
+        600
+      ],
+      "probe_test_labels": [
+        600
+      ],
+      "encoder_selection": [
+        600,
+        16
+      ],
+      "encoder_train": [
+        600,
+        16
+      ],
+      "encoder_test": [
+        600,
+        16
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/final/rnn_lr0.001_seed305/shape_predictions.npz",
+    "shapes": {
+      "labels": [
+        4000
+      ],
+      "pairs": [
+        4000,
+        2
+      ],
+      "sample_indices": [
+        4000
+      ],
+      "test_indices": [
+        4000
+      ],
+      "solid_solid": [
+        4000,
+        2
+      ],
+      "ring_ring": [
+        4000,
+        2
+      ],
+      "solid_ring": [
+        4000,
+        2
+      ],
+      "ring_solid": [
+        4000,
+        2
+      ]
+    }
+  },
+  {
+    "path": "artifacts/round6/valid_shape_bank.npz",
+    "shapes": {
+      "solid": [
+        5,
+        400,
+        1,
+        32,
+        32
+      ],
+      "ring": [
+        5,
+        400,
+        1,
+        32,
+        32
+      ]
+    }
+  }
+]

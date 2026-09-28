@@ -1,0 +1,1 @@
+{"round":"round1","counts":[1,2,3,4,5],"image_size":32,"hidden":64,"alpha":0.5,"sample_steps":4,"delay_steps":5,"test_steps":4,"batch_size":64,"dev_steps":1500,"final_steps":2000,"dev_seeds":[1,2,3],"final_seeds":[101,102,103,104,105],"learning_rates":[0.001,0.003],"train_bank_per_count":1000,"eval_repeats":40,"threads":1,"run_timeout_seconds":900}

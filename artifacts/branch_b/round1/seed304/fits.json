@@ -1,0 +1,1813 @@
+{
+  "head_0": {
+    "C": 100.0,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          70
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.8300000000000001
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          171
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.8885000000000001
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          293
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.978
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          531
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9995
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          648
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_0_0_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          148
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          155
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          156
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          141
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          87
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "head_5": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          39
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          42
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          46
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          45
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          48
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_0_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          111
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          117
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          114
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          130
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          82
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_0_b": {
+    "C": 0.01,
+    "validation_ba": 0.5,
+    "train_ba": 0.5,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          154
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          395
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          1143
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          3000
+        ],
+        "converged": false,
+        "warnings": [
+          "lbfgs failed to converge after 3000 iteration(s) (status=1):\nSTOP: TOTAL NO. OF ITERATIONS REACHED LIMIT\n\nIncrease the number of iterations to improve the convergence (max_iter=3000).\nYou might also want to scale the data as shown in:\n    https://scikit-learn.org/stable/modules/preprocessing.html\nPlease also refer to the documentation for alternative solver options:\n    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression"
+        ]
+      },
+      {
+        "C": 10.0,
+        "max_iter": 15000,
+        "iterations": [
+          3429
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          3000
+        ],
+        "converged": false,
+        "warnings": [
+          "lbfgs failed to converge after 3000 iteration(s) (status=1):\nSTOP: TOTAL NO. OF ITERATIONS REACHED LIMIT\n\nIncrease the number of iterations to improve the convergence (max_iter=3000).\nYou might also want to scale the data as shown in:\n    https://scikit-learn.org/stable/modules/preprocessing.html\nPlease also refer to the documentation for alternative solver options:\n    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression"
+        ]
+      },
+      {
+        "C": 100.0,
+        "max_iter": 15000,
+        "iterations": [
+          10475
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      }
+    ]
+  },
+  "quantity_5_1_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          154
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          135
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          132
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          105
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          100
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_1_b": {
+    "C": 0.1,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          154
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9324999999999999
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          310
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          422
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          446
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          417
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_2_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          158
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          153
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          161
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          136
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          96
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_2_b": {
+    "C": 0.1,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          206
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.998
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          292
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          391
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          407
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          364
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_3_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          158
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          175
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          155
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          131
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          106
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_3_b": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          185
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          328
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          388
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          406
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          342
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_4_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          147
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          174
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          159
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          109
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          102
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_4_b": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          193
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          291
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          395
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          411
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          381
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "head_10": {
+    "C": 100.0,
+    "validation_ba": 0.9995,
+    "train_ba": 0.9995,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          33
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.8545
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          110
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.917
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          306
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9495
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          460
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9935
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          851
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9995
+      }
+    ]
+  },
+  "quantity_10_0_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          92
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          102
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          93
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          67
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "head_15": {
+    "C": 100.0,
+    "validation_ba": 0.9510000000000001,
+    "train_ba": 0.95775,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          43
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.7190000000000001
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          122
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.773
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          285
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.8440000000000001
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          552
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9085
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          1083
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9510000000000001
+      }
+    ]
+  },
+  "quantity_15_0_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          199
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          163
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          194
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          147
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          151
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_0_b": {
+    "C": 0.01,
+    "validation_ba": 0.5,
+    "train_ba": 0.5,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          148
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          393
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          931
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          2793
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          3000
+        ],
+        "converged": false,
+        "warnings": [
+          "lbfgs failed to converge after 3000 iteration(s) (status=1):\nSTOP: TOTAL NO. OF ITERATIONS REACHED LIMIT\n\nIncrease the number of iterations to improve the convergence (max_iter=3000).\nYou might also want to scale the data as shown in:\n    https://scikit-learn.org/stable/modules/preprocessing.html\nPlease also refer to the documentation for alternative solver options:\n    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression"
+        ]
+      },
+      {
+        "C": 100.0,
+        "max_iter": 15000,
+        "iterations": [
+          6698
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      }
+    ]
+  },
+  "quantity_15_1_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          207
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          232
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          187
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          209
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          160
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_1_b": {
+    "C": 100.0,
+    "validation_ba": 1.0,
+    "train_ba": 0.9998750000000001,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          147
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5005
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          384
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.608
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          1064
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.8130000000000001
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          2725
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9855
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          3000
+        ],
+        "converged": false,
+        "warnings": [
+          "lbfgs failed to converge after 3000 iteration(s) (status=1):\nSTOP: TOTAL NO. OF ITERATIONS REACHED LIMIT\n\nIncrease the number of iterations to improve the convergence (max_iter=3000).\nYou might also want to scale the data as shown in:\n    https://scikit-learn.org/stable/modules/preprocessing.html\nPlease also refer to the documentation for alternative solver options:\n    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression"
+        ]
+      },
+      {
+        "C": 100.0,
+        "max_iter": 15000,
+        "iterations": [
+          4252
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_2_a": {
+    "C": 0.1,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          196
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.998
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          279
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          285
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          311
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          272
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_2_b": {
+    "C": 10.0,
+    "validation_ba": 1.0,
+    "train_ba": 0.99975,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          180
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.545
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          439
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.679
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          978
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9195
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          2064
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          2564
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_3_a": {
+    "C": 0.1,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          213
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9775
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          283
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          338
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          459
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          391
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_3_b": {
+    "C": 10.0,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          170
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5775
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          456
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.7140000000000001
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          1167
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9605
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          2020
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          2464
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_4_a": {
+    "C": 1.0,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          198
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9675
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          332
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.998
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          447
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          494
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          460
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_4_b": {
+    "C": 10.0,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          186
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5735
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          459
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.7095
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          1192
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9109999999999999
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          2216
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          2497
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "head_25": {
+    "C": 100.0,
+    "validation_ba": 0.7525,
+    "train_ba": 0.751625,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          21
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          31
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5615
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          58
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5785
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          126
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.619
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          248
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.7525
+      }
+    ]
+  },
+  "quantity_25_0_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          235
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          331
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          360
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          421
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          357
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "head_40": {
+    "C": 10.0,
+    "validation_ba": 0.501,
+    "train_ba": 0.500375,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          10
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          21
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          26
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          47
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.501
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          54
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.501
+      }
+    ]
+  },
+  "quantity_40_0_a": {
+    "C": 0.1,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          119
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.8
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          236
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          270
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          1277
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          2587
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "permuted_head": {
+    "C": 1.0,
+    "validation_ba": 0.5805,
+    "train_ba": 0.51475,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          29
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5385
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          51
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5785
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          132
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5805
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          635
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5245
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          2520
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5369999999999999
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "selected_lr": 0.001,
+  "criterion": "mean last-checkpoint ID validation BA, tie lower lr",
+  "all_candidates": {
+    "0.001": 1.0,
+    "0.003": 0.9974999999999999
+  },
+  "final_test_not_used": true
+}

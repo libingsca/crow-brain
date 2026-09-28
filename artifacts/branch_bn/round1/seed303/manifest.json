@@ -1,0 +1,13 @@
+{
+  "seed": 303,
+  "checkpoint": "artifacts/round6/final/rnn_lr0.001_seed303/final.pt",
+  "checkpoint_sha256": "b75da72b541e724a1dcbf2db2e73378f04c14d86cf28b0f80d6756e724ad6e1a",
+  "old_head_sha256": "7c3ef73a469422a510cf1d55a74551b50220fcd6614e6e8e09a546503bc80b4c",
+  "script_sha256": "7faeb80c513387ff502036a259d5a2379c3ec9a1bbdad31408ebabd71c1efe04",
+  "protocol_sha256": "edab11858ef0a634e53f6a12a93fd25105597369f6344d850ff7ea16d2bdaa51",
+  "sigma_primary": 0.03332026481628418,
+  "started_at": 1790271127.0505471,
+  "solver_override_path": "/workspace/CrowBrain/scripts/branch_bn_newton.py",
+  "solver_override_sha256": "0c8e9580c3929616610e805286fc52efe7f959d801161d17c0827b14d1ac539f",
+  "solver_protocol_sha256": "55408e17d1022b99be4bd3f76ef20ba96eb45f1da48716fbb181aacae5be71ea"
+}

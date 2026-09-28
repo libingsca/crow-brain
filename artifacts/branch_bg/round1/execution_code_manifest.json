@@ -1,0 +1,26 @@
+{
+  "created_at": 1790357201.8221087,
+  "files": {
+    "scripts/branch_bg_history.py": "bb6528d9e9aa5867eafff3992968caf00d2984bd82d0728e0150391c8deb3378",
+    "scripts/branch_bg_solver.py": "3bf2cd50f15be779445cd05f1131f9c21b56d981e6701a95a5700433a1ee773a",
+    "scripts/branch_bg_round1.py": "d9124e23025c59bfc2030ce1f6e56a50ce9eb96b8226b56a0ae442141c2c3992",
+    "scripts/branch_bg_analyze.py": "5f64d315facb09724d28ce8420b5666088ea437cd5eccf074dcbd456c06f4b6d",
+    "scripts/branch_bg_crosscheck.py": "7209dbd2cdbf0ba87581afbbbb7ff0e18055ac0128aab4029cf0cfa81e8840d3",
+    "scripts/branch_bg_audit.py": "9f90d5217acbac01931ec480f813d6ba50d3f9ba7952707309332190301c5f50",
+    "scripts/branch_bg_dispatch.py": "e70c242dc262f7303a812507dd61596f0bd3cc8dca6f1e216a43645372c0bfaa",
+    "src/crowbrain/model.py": "75206664caf28e25f497be306607439d08a7998141a0fdcf1f85e4a216d9678d",
+    "src/crowbrain/analysis.py": "49f80029af84ea83cf6124073ae04cf73dd972503964c8b3e1914837bd5086c2",
+    "src/crowbrain/task.py": "ce6893b34e3b2fcae6b20d6a06f64c1a9948931fbffb4712200354a0d685a60c",
+    "src/crowbrain/challenge.py": "c4e671dc4c31d36f814573d0c1452b4eeddff8ab2e37825a684443ebd329f2ab",
+    "src/crowbrain/__init__.py": "78f888eda5c796b10f6c2a2d56aaf82afc4e11fba4b899ab9bb5475c6be913d1",
+    "src/crowbrain/legacy_task.py": "d98e7f0c85d38580aa1fbf907b26e577212d191682a64179ccb57e812e528a93",
+    "src/crowbrain/run.py": "3f0d837877dd663bfed22ea53eec40258a81a4eefc3dd8972b0b702745ee1017",
+    "tests/test_branch_bg.py": "108c2317f484cab4c6f9d828793f899d4c6203478775558e63c4eda9fa0184d0",
+    "artifacts/branch_bg/round1/protocol.md": "224bda8339893695743ddda2f192eed2b66cb2b4a0a5bfb129e0d82806923c7a",
+    "scripts/branch_b_round1.py": "85dacd4ff9448abd1b9dfe55bccf92f2648ef99e4ef59d5fe4a850380ecb3e52",
+    "scripts/branch_bn_round1.py": "7faeb80c513387ff502036a259d5a2379c3ec9a1bbdad31408ebabd71c1efe04",
+    "scripts/branch_bt_round1.py": "af3ff14bef0a84b4149173d9d92e2c8265b4a8578e2f95b61671a620c984a3fb",
+    "scripts/branch_bf_round1.py": "dea4e8fed67a8117274500ead21613e9a3df5d10e44e3b06a68f0b428c756367",
+    "scripts/branch_bf_solver.py": "38ed739ab6765afda26eb466df2cd5213ca3e720e8dd235dd5a24a4769f726bb"
+  }
+}

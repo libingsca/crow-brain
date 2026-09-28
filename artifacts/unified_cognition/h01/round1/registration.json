@@ -1,0 +1,10 @@
+{
+  "files": {
+    "scripts/unified_cognition/h01.py": "bc7f529fa3f1bb49e15cba1df244312961f6341c00a07ad19f90db7730e17c1e",
+    "docs/decisions/unified_cognition/H01_ROUND1_PROTOCOL.md": "6dc7adefab3384da74be3ffc05095c17d8867ee994c6cc2a1f82313ffd0bdd74",
+    "docs/plans/2026-09-27_UNIFIED_COGNITION_PLAN.md": "f923bffe7dd24c1e0a8925d65b7566f13a1b28f94f0d86d5cfb1b94b132fe5b7",
+    "requirements-lock.txt": "07179ba046b32257d068bc4105ca637d9bf382675313cb27d3ad7a070609186f"
+  },
+  "status": "registered_before_training",
+  "alpha_spent": 0
+}

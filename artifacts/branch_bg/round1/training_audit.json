@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "heads": 20,
+  "new_heads": 15,
+  "max_gradient": 8.840553959252639e-08,
+  "cache_noise_scaler_validation_reconstructed": true,
+  "forward_checks": 100
+}

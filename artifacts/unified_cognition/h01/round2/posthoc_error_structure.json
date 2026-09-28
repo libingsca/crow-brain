@@ -1,0 +1,167 @@
+[
+  {
+    "model": "F64",
+    "seed": 270201,
+    "posthoc": true,
+    "color_rule": 0.8125,
+    "shape_rule": 0.568359375,
+    "relations_00": 0.6103515625,
+    "relations_01": 0.83984375,
+    "relations_10": 0.5849609375,
+    "relations_11": 0.7265625
+  },
+  {
+    "model": "F64",
+    "seed": 270202,
+    "posthoc": true,
+    "color_rule": 0.80712890625,
+    "shape_rule": 0.84619140625,
+    "relations_00": 0.9375,
+    "relations_01": 0.873046875,
+    "relations_10": 0.8388671875,
+    "relations_11": 0.6572265625
+  },
+  {
+    "model": "F64",
+    "seed": 270203,
+    "posthoc": true,
+    "color_rule": 0.7705078125,
+    "shape_rule": 0.91650390625,
+    "relations_00": 0.861328125,
+    "relations_01": 0.9189453125,
+    "relations_10": 0.8271484375,
+    "relations_11": 0.7666015625
+  },
+  {
+    "model": "F64",
+    "seed": 270204,
+    "posthoc": true,
+    "color_rule": 0.51025390625,
+    "shape_rule": 0.66162109375,
+    "relations_00": 0.7998046875,
+    "relations_01": 0.3798828125,
+    "relations_10": 0.6796875,
+    "relations_11": 0.484375
+  },
+  {
+    "model": "F64",
+    "seed": 270205,
+    "posthoc": true,
+    "color_rule": 0.6669921875,
+    "shape_rule": 0.9423828125,
+    "relations_00": 0.50390625,
+    "relations_01": 0.974609375,
+    "relations_10": 0.8857421875,
+    "relations_11": 0.8544921875
+  },
+  {
+    "model": "FP",
+    "seed": 270201,
+    "posthoc": true,
+    "color_rule": 0.99951171875,
+    "shape_rule": 0.94140625,
+    "relations_00": 1.0,
+    "relations_01": 1.0,
+    "relations_10": 0.9990234375,
+    "relations_11": 0.8828125
+  },
+  {
+    "model": "FP",
+    "seed": 270202,
+    "posthoc": true,
+    "color_rule": 0.77490234375,
+    "shape_rule": 0.56005859375,
+    "relations_00": 0.8623046875,
+    "relations_01": 0.697265625,
+    "relations_10": 0.486328125,
+    "relations_11": 0.6240234375
+  },
+  {
+    "model": "FP",
+    "seed": 270203,
+    "posthoc": true,
+    "color_rule": 0.5712890625,
+    "shape_rule": 0.580078125,
+    "relations_00": 0.99609375,
+    "relations_01": 0.458984375,
+    "relations_10": 0.6572265625,
+    "relations_11": 0.1904296875
+  },
+  {
+    "model": "FP",
+    "seed": 270204,
+    "posthoc": true,
+    "color_rule": 0.92041015625,
+    "shape_rule": 0.560546875,
+    "relations_00": 0.669921875,
+    "relations_01": 0.865234375,
+    "relations_10": 0.8046875,
+    "relations_11": 0.6220703125
+  },
+  {
+    "model": "FP",
+    "seed": 270205,
+    "posthoc": true,
+    "color_rule": 0.5244140625,
+    "shape_rule": 0.78173828125,
+    "relations_00": 0.77734375,
+    "relations_01": 0.6865234375,
+    "relations_10": 0.6513671875,
+    "relations_11": 0.4970703125
+  },
+  {
+    "model": "S64",
+    "seed": 270201,
+    "posthoc": true,
+    "color_rule": 0.83154296875,
+    "shape_rule": 0.654296875,
+    "relations_00": 0.4716796875,
+    "relations_01": 0.75,
+    "relations_10": 0.8779296875,
+    "relations_11": 0.8720703125
+  },
+  {
+    "model": "S64",
+    "seed": 270202,
+    "posthoc": true,
+    "color_rule": 0.8837890625,
+    "shape_rule": 0.52197265625,
+    "relations_00": 0.51953125,
+    "relations_01": 0.8603515625,
+    "relations_10": 0.78515625,
+    "relations_11": 0.646484375
+  },
+  {
+    "model": "S64",
+    "seed": 270203,
+    "posthoc": true,
+    "color_rule": 0.8330078125,
+    "shape_rule": 0.671875,
+    "relations_00": 0.6005859375,
+    "relations_01": 0.8291015625,
+    "relations_10": 0.7177734375,
+    "relations_11": 0.8623046875
+  },
+  {
+    "model": "S64",
+    "seed": 270204,
+    "posthoc": true,
+    "color_rule": 0.7822265625,
+    "shape_rule": 0.3564453125,
+    "relations_00": 0.7021484375,
+    "relations_01": 0.748046875,
+    "relations_10": 0.412109375,
+    "relations_11": 0.4150390625
+  },
+  {
+    "model": "S64",
+    "seed": 270205,
+    "posthoc": true,
+    "color_rule": 0.5732421875,
+    "shape_rule": 0.78662109375,
+    "relations_00": 0.6025390625,
+    "relations_01": 0.556640625,
+    "relations_10": 0.8203125,
+    "relations_11": 0.740234375
+  }
+]

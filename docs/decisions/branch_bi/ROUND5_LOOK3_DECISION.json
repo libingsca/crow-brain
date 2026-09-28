@@ -1,0 +1,517 @@
+{
+  "decided_at": 1790436314.4660027,
+  "prior": "artifacts/branch_bi/round5/look2/round_summary.json",
+  "prior_sha256": "533767109de865b3e9abc837b33223b75f5e8a532a9cf6d0f6b5731dd9d0e3a1",
+  "prior_evidence_sha256": "af8772f030685749947fc37c263fd778a98a0cddacaaffe71d7b639af4f40209",
+  "prior_gate": {
+    "K": 96,
+    "S": 28,
+    "F": 28,
+    "U": 40,
+    "lower": 0.16634525846224948,
+    "upper": 0.8336547415377504,
+    "rate_event_source_round": 3,
+    "rate_alpha_reused": 0.003125,
+    "decision": "inconclusive"
+  },
+  "decision": "continue_to_registered_4096",
+  "new_banks": 2048,
+  "new_fits": 0,
+  "reason": "Only four additional distinct failures required. Plug-in precision projection suggests three at 4096 and several further near the threshold; sampling variation remains, so this is a planning diagnostic rather than a promise or evidence certificate. Measurement still has material information value.",
+  "unchanged_family_conditions": 68,
+  "unchanged_look_grid": [
+    1024,
+    2048,
+    4096,
+    8192
+  ],
+  "unchanged_error_budget": true,
+  "planning_only_projections": [
+    {
+      "batch": 92,
+      "delay": 15,
+      "input": "clean",
+      "mean": 0.849364990234375,
+      "current_upper": 0.850002822019777,
+      "plugin_upper_4096": 0.84981541067168,
+      "plugin_upper_8192": 0.8496832757474909
+    },
+    {
+      "batch": 86,
+      "delay": 15,
+      "input": "clean",
+      "mean": 0.84943115234375,
+      "current_upper": 0.8500620198429969,
+      "plugin_upper_4096": 0.8498766547809062,
+      "plugin_upper_8192": 0.8497459625967064
+    },
+    {
+      "batch": 87,
+      "delay": 11,
+      "input": "noise",
+      "mean": 0.8495871337890625,
+      "current_upper": 0.850120894123479,
+      "plugin_upper_4096": 0.8499640616386089,
+      "plugin_upper_8192": 0.8498534864322028
+    },
+    {
+      "batch": 11,
+      "delay": 15,
+      "input": "clean",
+      "mean": 0.8496057128906249,
+      "current_upper": 0.8502336926261848,
+      "plugin_upper_4096": 0.850049176063178,
+      "plugin_upper_8192": 0.8499190821157618
+    },
+    {
+      "batch": 46,
+      "delay": 11,
+      "input": "noise",
+      "mean": 0.8496662841796875,
+      "current_upper": 0.850212120089254,
+      "plugin_upper_4096": 0.8500517394904928,
+      "plugin_upper_8192": 0.8499386626759143
+    },
+    {
+      "batch": 45,
+      "delay": 15,
+      "input": "noise",
+      "mean": 0.8498162597656249,
+      "current_upper": 0.8501737125039344,
+      "plugin_upper_4096": 0.8500686837156225,
+      "plugin_upper_8192": 0.8499946328583924
+    },
+    {
+      "batch": 75,
+      "delay": 15,
+      "input": "noise",
+      "mean": 0.8498239990234375,
+      "current_upper": 0.8501851303920256,
+      "plugin_upper_4096": 0.8500790207277282,
+      "plugin_upper_8192": 0.8500042077956939
+    },
+    {
+      "batch": 20,
+      "delay": 11,
+      "input": "noise",
+      "mean": 0.8497151611328125,
+      "current_upper": 0.8502411319225919,
+      "plugin_upper_4096": 0.8500865882058499,
+      "plugin_upper_8192": 0.8499776267021686
+    },
+    {
+      "batch": 71,
+      "delay": 11,
+      "input": "noise",
+      "mean": 0.8497188232421875,
+      "current_upper": 0.8502624952804457,
+      "plugin_upper_4096": 0.8501027504826094,
+      "plugin_upper_8192": 0.8499901219413497
+    },
+    {
+      "batch": 9,
+      "delay": 11,
+      "input": "noise",
+      "mean": 0.84973935546875,
+      "current_upper": 0.850261216881176,
+      "plugin_upper_4096": 0.850107880604965,
+      "plugin_upper_8192": 0.8499997704107942
+    },
+    {
+      "batch": 20,
+      "delay": 9,
+      "input": "noise",
+      "mean": 0.8498496337890624,
+      "current_upper": 0.8502265672624965,
+      "plugin_upper_4096": 0.8501158145342443,
+      "plugin_upper_8192": 0.8500377279962631
+    },
+    {
+      "batch": 23,
+      "delay": 15,
+      "input": "noise",
+      "mean": 0.84986357421875,
+      "current_upper": 0.8502312654657384,
+      "plugin_upper_4096": 0.8501232283408119,
+      "plugin_upper_8192": 0.8500470564469713
+    },
+    {
+      "batch": 37,
+      "delay": 9,
+      "input": "noise",
+      "mean": 0.8498718994140625,
+      "current_upper": 0.8502489450476346,
+      "plugin_upper_4096": 0.8501381593638554,
+      "plugin_upper_8192": 0.8500600495904824
+    },
+    {
+      "batch": 7,
+      "delay": 10,
+      "input": "noise",
+      "mean": 0.849908740234375,
+      "current_upper": 0.8502670102613186,
+      "plugin_upper_4096": 0.8501617413326309,
+      "plugin_upper_8192": 0.8500875211637198
+    },
+    {
+      "batch": 96,
+      "delay": 11,
+      "input": "noise",
+      "mean": 0.849808740234375,
+      "current_upper": 0.8503526205665027,
+      "plugin_upper_4096": 0.8501928145665818,
+      "plugin_upper_8192": 0.8500801428746118
+    },
+    {
+      "batch": 73,
+      "delay": 15,
+      "input": "noise",
+      "mean": 0.8499707763671875,
+      "current_upper": 0.8503349241970467,
+      "plugin_upper_4096": 0.8502279282190123,
+      "plugin_upper_8192": 0.8501524903888614
+    },
+    {
+      "batch": 21,
+      "delay": 15,
+      "input": "noise",
+      "mean": 0.850024853515625,
+      "current_upper": 0.8503954063936612,
+      "plugin_upper_4096": 0.8502865284480909,
+      "plugin_upper_8192": 0.8502097637311735
+    },
+    {
+      "batch": 23,
+      "delay": 9,
+      "input": "noise",
+      "mean": 0.8500421142578125,
+      "current_upper": 0.8504215878105892,
+      "plugin_upper_4096": 0.8503100887418368,
+      "plugin_upper_8192": 0.8502314759942825
+    },
+    {
+      "batch": 1,
+      "delay": 15,
+      "input": "clean",
+      "mean": 0.849869873046875,
+      "current_upper": 0.8504934707593914,
+      "plugin_upper_4096": 0.8503102417472166,
+      "plugin_upper_8192": 0.8501810555913153
+    },
+    {
+      "batch": 56,
+      "delay": 15,
+      "input": "clean",
+      "mean": 0.84988232421875,
+      "current_upper": 0.8504984774890856,
+      "plugin_upper_4096": 0.8503174358450803,
+      "plugin_upper_8192": 0.8501897918995638
+    },
+    {
+      "batch": 35,
+      "delay": 11,
+      "input": "noise",
+      "mean": 0.8499381591796875,
+      "current_upper": 0.8504841374150452,
+      "plugin_upper_4096": 0.850323714997314,
+      "plugin_upper_8192": 0.8502106086981471
+    },
+    {
+      "batch": 83,
+      "delay": 15,
+      "input": "noise",
+      "mean": 0.8501521484375001,
+      "current_upper": 0.8505166958908246,
+      "plugin_upper_4096": 0.85040958249316,
+      "plugin_upper_8192": 0.8503340618759522
+    },
+    {
+      "batch": 31,
+      "delay": 15,
+      "input": "noise",
+      "mean": 0.8501542480468751,
+      "current_upper": 0.8505197362838505,
+      "plugin_upper_4096": 0.8504123464598047,
+      "plugin_upper_8192": 0.8503366309473608
+    },
+    {
+      "batch": 24,
+      "delay": 11,
+      "input": "noise",
+      "mean": 0.8500388427734376,
+      "current_upper": 0.8505820121862737,
+      "plugin_upper_4096": 0.850422415072686,
+      "plugin_upper_8192": 0.8503098906566416
+    },
+    {
+      "batch": 11,
+      "delay": 15,
+      "input": "noise",
+      "mean": 0.8501674316406249,
+      "current_upper": 0.8505340201769854,
+      "plugin_upper_4096": 0.8504263070567417,
+      "plugin_upper_8192": 0.8503503636033592
+    },
+    {
+      "batch": 45,
+      "delay": 15,
+      "input": "clean",
+      "mean": 0.849984375,
+      "current_upper": 0.8506157298768982,
+      "plugin_upper_4096": 0.8504302216107453,
+      "plugin_upper_8192": 0.8502994284600988
+    },
+    {
+      "batch": 32,
+      "delay": 15,
+      "input": "noise",
+      "mean": 0.8502206298828126,
+      "current_upper": 0.850578130659255,
+      "plugin_upper_4096": 0.8504730877561069,
+      "plugin_upper_8192": 0.8503990269471696
+    },
+    {
+      "batch": 39,
+      "delay": 9,
+      "input": "noise",
+      "mean": 0.8502029785156251,
+      "current_upper": 0.8505919837344968,
+      "plugin_upper_4096": 0.8504776840176216,
+      "plugin_upper_8192": 0.8503970966648412
+    },
+    {
+      "batch": 6,
+      "delay": 11,
+      "input": "noise",
+      "mean": 0.8501110839843751,
+      "current_upper": 0.8506348328468665,
+      "plugin_upper_4096": 0.8504809419893861,
+      "plugin_upper_8192": 0.8503724407860542
+    },
+    {
+      "batch": 93,
+      "delay": 15,
+      "input": "noise",
+      "mean": 0.85025224609375,
+      "current_upper": 0.8506226857965876,
+      "plugin_upper_4096": 0.8505138411047952,
+      "plugin_upper_8192": 0.8504370998335521
+    },
+    {
+      "batch": 86,
+      "delay": 15,
+      "input": "noise",
+      "mean": 0.8502724365234375,
+      "current_upper": 0.8506361022014728,
+      "plugin_upper_4096": 0.8505292478920183,
+      "plugin_upper_8192": 0.850453909945718
+    },
+    {
+      "batch": 53,
+      "delay": 15,
+      "input": "clean",
+      "mean": 0.850085693359375,
+      "current_upper": 0.8507178864813694,
+      "plugin_upper_4096": 0.8505321319172943,
+      "plugin_upper_8192": 0.8504011651135704
+    },
+    {
+      "batch": 46,
+      "delay": 10,
+      "input": "noise",
+      "mean": 0.8502811035156249,
+      "current_upper": 0.8506375836975587,
+      "plugin_upper_4096": 0.8505328406712701,
+      "plugin_upper_8192": 0.8504589912913979
+    },
+    {
+      "batch": 74,
+      "delay": 9,
+      "input": "noise",
+      "mean": 0.8502832275390625,
+      "current_upper": 0.8506712327459649,
+      "plugin_upper_4096": 0.8505572268582708,
+      "plugin_upper_8192": 0.8504768466706221
+    },
+    {
+      "batch": 7,
+      "delay": 9,
+      "input": "noise",
+      "mean": 0.8502970947265625,
+      "current_upper": 0.8506753340154783,
+      "plugin_upper_4096": 0.8505641976051248,
+      "plugin_upper_8192": 0.8504858405509452
+    },
+    {
+      "batch": 42,
+      "delay": 15,
+      "input": "noise",
+      "mean": 0.8503433105468751,
+      "current_upper": 0.8507017385698664,
+      "plugin_upper_4096": 0.850596423217885,
+      "plugin_upper_8192": 0.8505221703180936
+    },
+    {
+      "batch": 87,
+      "delay": 9,
+      "input": "noise",
+      "mean": 0.8503458740234375,
+      "current_upper": 0.8507200418930438,
+      "plugin_upper_4096": 0.8506101017701738,
+      "plugin_upper_8192": 0.8505325881620158
+    },
+    {
+      "batch": 13,
+      "delay": 15,
+      "input": "clean",
+      "mean": 0.8501767578125,
+      "current_upper": 0.8508082982817502,
+      "plugin_upper_4096": 0.8506227354838012,
+      "plugin_upper_8192": 0.8504919038853508
+    },
+    {
+      "batch": 73,
+      "delay": 9,
+      "input": "noise",
+      "mean": 0.8503880859374999,
+      "current_upper": 0.8507723441801416,
+      "plugin_upper_4096": 0.8506594392467108,
+      "plugin_upper_8192": 0.8505798352901152
+    },
+    {
+      "batch": 27,
+      "delay": 15,
+      "input": "noise",
+      "mean": 0.8504643798828125,
+      "current_upper": 0.8508276545717122,
+      "plugin_upper_4096": 0.8507209151449003,
+      "plugin_upper_8192": 0.8506456581969462
+    },
+    {
+      "batch": 27,
+      "delay": 9,
+      "input": "noise",
+      "mean": 0.8504606201171875,
+      "current_upper": 0.850846007551723,
+      "plugin_upper_4096": 0.8507327708327338,
+      "plugin_upper_8192": 0.8506529329497509
+    },
+    {
+      "batch": 81,
+      "delay": 9,
+      "input": "noise",
+      "mean": 0.8504702392578125,
+      "current_upper": 0.8508519124116094,
+      "plugin_upper_4096": 0.8507397670436259,
+      "plugin_upper_8192": 0.850660698620891
+    },
+    {
+      "batch": 79,
+      "delay": 15,
+      "input": "noise",
+      "mean": 0.8505041748046875,
+      "current_upper": 0.8508673858545465,
+      "plugin_upper_4096": 0.850760665126518,
+      "plugin_upper_8192": 0.8506854213621963
+    },
+    {
+      "batch": 57,
+      "delay": 9,
+      "input": "noise",
+      "mean": 0.8505621826171874,
+      "current_upper": 0.8509401397253924,
+      "plugin_upper_4096": 0.8508290862269737,
+      "plugin_upper_8192": 0.8507507876300986
+    },
+    {
+      "batch": 46,
+      "delay": 9,
+      "input": "noise",
+      "mean": 0.850586474609375,
+      "current_upper": 0.8509628650873452,
+      "plugin_upper_4096": 0.850852271905096,
+      "plugin_upper_8192": 0.850774297855495
+    },
+    {
+      "batch": 83,
+      "delay": 15,
+      "input": "clean",
+      "mean": 0.8504904785156251,
+      "current_upper": 0.851104797360281,
+      "plugin_upper_4096": 0.8509242947176198,
+      "plugin_upper_8192": 0.850797030796592
+    },
+    {
+      "batch": 14,
+      "delay": 15,
+      "input": "clean",
+      "mean": 0.8505480957031251,
+      "current_upper": 0.8511815294548761,
+      "plugin_upper_4096": 0.8509954103619385,
+      "plugin_upper_8192": 0.8508641865460642
+    },
+    {
+      "batch": 78,
+      "delay": 15,
+      "input": "clean",
+      "mean": 0.85060791015625,
+      "current_upper": 0.8512346880134678,
+      "plugin_upper_4096": 0.8510505245931633,
+      "plugin_upper_8192": 0.8509206796300519
+    },
+    {
+      "batch": 49,
+      "delay": 11,
+      "input": "noise",
+      "mean": 0.8506889404296876,
+      "current_upper": 0.8512213370786581,
+      "plugin_upper_4096": 0.8510649052795701,
+      "plugin_upper_8192": 0.8509546125778575
+    },
+    {
+      "batch": 58,
+      "delay": 11,
+      "input": "noise",
+      "mean": 0.8507046630859376,
+      "current_upper": 0.8512270379738301,
+      "plugin_upper_4096": 0.8510735508253491,
+      "plugin_upper_8192": 0.850965334258239
+    },
+    {
+      "batch": 52,
+      "delay": 11,
+      "input": "noise",
+      "mean": 0.8507033691406249,
+      "current_upper": 0.8512468748368247,
+      "plugin_upper_4096": 0.8510871789145542,
+      "plugin_upper_8192": 0.8509745848331565
+    },
+    {
+      "batch": 9,
+      "delay": 15,
+      "input": "clean",
+      "mean": 0.850667236328125,
+      "current_upper": 0.8512936710207611,
+      "plugin_upper_4096": 0.8511096084310179,
+      "plugin_upper_8192": 0.8509798345587912
+    },
+    {
+      "batch": 79,
+      "delay": 15,
+      "input": "clean",
+      "mean": 0.850690185546875,
+      "current_upper": 0.8513130851680932,
+      "plugin_upper_4096": 0.8511300612730579,
+      "plugin_upper_8192": 0.8510010197356013
+    },
+    {
+      "batch": 76,
+      "delay": 9,
+      "input": "noise",
+      "mean": 0.8508693115234376,
+      "current_upper": 0.8512582417707226,
+      "plugin_upper_4096": 0.8511439640824235,
+      "plugin_upper_8192": 0.851063392260956
+    }
+  ]
+}

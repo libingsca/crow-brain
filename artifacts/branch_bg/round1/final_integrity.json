@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "initial_history_audit": "history_audit.json",
+  "locked_inputs_and_code_unchanged": true,
+  "heads_frozen_before_new_images": true,
+  "complete_primary_crosscheck": true,
+  "new_images": 20000,
+  "historical_retained_images": 324000,
+  "no_scientific_execution_failures": true,
+  "mutable_planning_entry_before": "planning_entry_before.md",
+  "completed_at": 1790357670.0445561
+}

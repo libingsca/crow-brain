@@ -1,0 +1,28 @@
+{
+  "H01": {
+    "status": "scoped_useful_gain_excluded",
+    "stopped_round": "round3",
+    "primary": "S64 minus parameter-matched FP52",
+    "mean_pp": -1.7881983475719423,
+    "adjusted_interval_pp": [
+      -5.692727520422718,
+      2.116330825278833
+    ],
+    "broader_hypothesis": "unresolved",
+    "biological_common_mechanism": "not_tested",
+    "state_matched_secondary": "inconclusive"
+  },
+  "other_hypotheses": {
+    "H02": "not_started",
+    "H03": "not_started",
+    "H04": "not_started",
+    "H05": "not_started",
+    "H06": "not_started",
+    "H07": "not_started",
+    "H08": "not_started",
+    "H09": "not_started",
+    "H10": "not_started",
+    "H11": "not_started",
+    "H12": "not_started"
+  }
+}

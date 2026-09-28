@@ -1,0 +1,18 @@
+{
+  "rnn": {
+    "selected_lr": 0.001,
+    "candidate_means": {
+      "0.001": 1.0,
+      "0.003": 1.0
+    },
+    "criterion": "mean last-checkpoint validation BA, tie lower lr"
+  },
+  "ei": {
+    "selected_lr": 0.001,
+    "candidate_means": {
+      "0.001": 1.0,
+      "0.003": 1.0
+    },
+    "criterion": "mean last-checkpoint validation BA, tie lower lr"
+  }
+}

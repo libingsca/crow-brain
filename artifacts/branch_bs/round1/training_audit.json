@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "candidate_count": 50,
+  "max_gradient_inf": 8.970888128481366e-08,
+  "validation_selection_recomputed": true,
+  "pooled_scaler_verified": true,
+  "per_trial_and_delay_weights_verified": true,
+  "test_files_absent": true,
+  "heldout_states_absent": true
+}

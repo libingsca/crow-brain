@@ -1,0 +1,10 @@
+{
+  "python": "3.12.3",
+  "torch": "2.14.0+cpu",
+  "numpy": "2.5.3",
+  "scipy": "1.18.1",
+  "sklearn": "1.9.1",
+  "device": "cpu",
+  "torch_threads_per_evaluation": 1,
+  "max_concurrent_evaluations": 2
+}

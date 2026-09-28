@@ -1,0 +1,10 @@
+{
+  "seed": 810013,
+  "pair_seed": 810113,
+  "file_sha256": "048b8439267a982c6debb7d918f25335cb023a35d1bd1e7d41825f29aad722a9",
+  "image_sha256": "989646a43c613673101a95746a977517cc0e2d373b7ea169457af51ac50d9043",
+  "images": 5000,
+  "trials": 4000,
+  "counts_verified": true,
+  "disjoint_from_all_B1_partitions": true
+}

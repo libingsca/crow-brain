@@ -1,0 +1,8 @@
+{
+  "seed": 205,
+  "alpha": 0.1,
+  "train_pairs": 8000,
+  "id_ba": 0.56525,
+  "shift_ba": 0.4985,
+  "reset_ba": 0.5
+}

@@ -1,0 +1,27 @@
+import sys,pickle
+from pathlib import Path
+sys.path.insert(0,str(Path(__file__).parents[1]/'scripts'))
+import numpy as np
+import pytest
+import branch_bl_round1 as bl
+from branch_bl_analyze import interval
+
+def test_reference_is_bs_shared_with_separate_bn_anchor():
+    _,refs,_,inputs=bl.load_core(301)
+    for key,branch in [('shared','branch_bs'),('anchor','branch_bn')]:
+        path=Path(f'artifacts/{branch}/round1/seed301/heads.pkl')
+        with path.open('rb') as f:expected=pickle.load(f)['aug']
+        np.testing.assert_array_equal(refs[key].clf.coef_,expected.clf.coef_)
+        assert str(path) in inputs
+    assert bl.DELAYS==[8,11,12]
+
+def test_six_cell_interval_wider_than_unadjusted():
+    from scipy.stats import t
+    x=np.linspace(.8,.9,20);v=interval(x)
+    half=t.ppf(.975,19)*x.std(ddof=1)/np.sqrt(20)
+    assert v['confidence']==1-.05/6
+    assert v['lower']<x.mean()-half and v['upper']>x.mean()+half
+
+def test_test_generation_requires_freeze(tmp_path,monkeypatch):
+    monkeypatch.setattr(bl,'ROOT',tmp_path)
+    with pytest.raises(FileNotFoundError):bl.prepare(True)

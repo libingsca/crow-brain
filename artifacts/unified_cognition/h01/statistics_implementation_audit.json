@@ -1,0 +1,13 @@
+{
+  "alpha": 0.0005208333333333333,
+  "normal_null_simulations": 100000,
+  "misses": 64,
+  "miss_rate": 0.00064,
+  "miss_rate_99ci": [
+    0.0004527557928469683,
+    0.000876288092878723
+  ],
+  "nominal_within_simulation_ci": true,
+  "independent_scipy_crosscheck": true,
+  "limitation": "validates implementation under normal iid seed effects, not actual seed normality"
+}

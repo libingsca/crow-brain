@@ -1,0 +1,24 @@
+{
+  "hypothesis": "UC-H01",
+  "decision": "exclude_useful_gain_scoped",
+  "threshold": 0.03,
+  "primary_baseline": "FP52",
+  "primary_interval": {
+    "n": 139,
+    "mean": -0.017881983475719423,
+    "lower": -0.056927275204227176,
+    "upper": 0.021163308252788327,
+    "alpha": 0.0005208333333333333
+  },
+  "alpha_cumulative": 0.0020833333333333333,
+  "quality_gate": true,
+  "reason": "upper confidence limit below registered +3pp useful-effect threshold",
+  "limits": [
+    "fixed structured task and attribute split",
+    "48/16 state partition with symmetric product readout",
+    "fixed 2000-step training algorithm",
+    "approximate seed-level t coverage",
+    "not a universal or biological falsification"
+  ],
+  "confirmation_sha256": "1c1e4a2b9c0fe0b79ccd0ddc8bb5297691f4a45b3267b344f3c8f3dab9d07db8"
+}

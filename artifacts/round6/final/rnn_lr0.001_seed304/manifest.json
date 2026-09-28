@@ -1,0 +1,66 @@
+{
+  "config": "configs/round6.json",
+  "kind": "rnn",
+  "seed": 304,
+  "lr": 0.001,
+  "steps": 2000,
+  "output": "artifacts/round6/final/rnn_lr0.001_seed304",
+  "final": true,
+  "test_base": 220000,
+  "config_values": {
+    "round": "round6",
+    "counts": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "image_size": 32,
+    "hidden": 64,
+    "alpha": 0.5,
+    "sample_steps": 4,
+    "delay_steps": 5,
+    "test_steps": 4,
+    "batch_size": 64,
+    "dev_steps": 1500,
+    "final_steps": 2000,
+    "dev_seeds": [
+      1,
+      2,
+      3
+    ],
+    "final_seeds": [
+      301,
+      302,
+      303,
+      304,
+      305
+    ],
+    "learning_rates": [
+      0.001,
+      0.003
+    ],
+    "train_bank_per_count": 1000,
+    "eval_repeats": 40,
+    "threads": 1,
+    "run_timeout_seconds": 900,
+    "normalize": true,
+    "matched_init": true,
+    "frozen_encoder": "artifacts/round3/dev/rnn_lr0.001_seed1/final.pt",
+    "shape_test_base": 230000
+  },
+  "started_at": "2026-09-24T15:48:00Z",
+  "python": "3.12.3",
+  "torch": "2.14.0+cpu",
+  "code_sha256": {
+    "src/crowbrain/model.py": "75206664caf28e25f497be306607439d08a7998141a0fdcf1f85e4a216d9678d",
+    "src/crowbrain/analysis.py": "49f80029af84ea83cf6124073ae04cf73dd972503964c8b3e1914837bd5086c2",
+    "src/crowbrain/task.py": "ce6893b34e3b2fcae6b20d6a06f64c1a9948931fbffb4712200354a0d685a60c",
+    "src/crowbrain/challenge.py": "92d87ada6c571f1bf284aa6788bfc8c0752f8e713fd6132ce5ceff2502694046",
+    "src/crowbrain/__init__.py": "78f888eda5c796b10f6c2a2d56aaf82afc4e11fba4b899ab9bb5475c6be913d1",
+    "src/crowbrain/legacy_task.py": "d98e7f0c85d38580aa1fbf907b26e577212d191682a64179ccb57e812e528a93",
+    "src/crowbrain/run.py": "32c14e6fa8753e35a511743e8da3011d6c4f27f736f243a29da003c879e1a673"
+  },
+  "frozen_encoder_sha256": "2df93afba8c0ab0edea5b5fb486a4fb989b1f4fefa011e29edfe83493562a183"
+}

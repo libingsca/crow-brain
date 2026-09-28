@@ -1,0 +1,9 @@
+{
+  "decision": "docs/decisions/008_round6_render_repair.md",
+  "checkpoint_sha256": "ee990649d4a1ecfa8fafb2bbfd4cdc9e46f214419b9b35f4197178e07d2c3549",
+  "shape_bank_sha256": "cb5eed3565bd678bb61440c84aa1839b30b13fcce646f759c64dda6f8901edc0",
+  "script_sha256": "b71bea3f6833bf8f622011d31f77643986b792449f4c1feccac20f50ba5bea07",
+  "weights_changed": false,
+  "original_failure_retained": true,
+  "evaluated_at": "2026-09-24T15:52:32Z"
+}

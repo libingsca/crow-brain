@@ -1,0 +1,34 @@
+{
+  "partitions": {
+    "fit": {
+      "seed": 810001,
+      "trials": 8000,
+      "images": 5000,
+      "images_sha256": "559d3db620af9d5734ad4d6deb1702eaad7aa07765972b752365d2795d191d3f",
+      "file_sha256": "136c27da58127f532f05a527714810ca250b5f954440cf7422b9592c577bf6aa",
+      "objects_verified": true
+    },
+    "validation": {
+      "seed": 810002,
+      "trials": 2000,
+      "images": 5000,
+      "images_sha256": "a763041023f736674d74f164b4aef9821750fc44f4408d1432c14ae998f68e6d",
+      "file_sha256": "9102adc368b6d13517fa74b16ba8306a3d7676fe4061c497e9ceda349b9fb72c",
+      "objects_verified": true
+    },
+    "test": {
+      "seed": 810003,
+      "trials": 4000,
+      "images": 5000,
+      "images_sha256": "7bccfe972e49655eabb33ff51a2d77955deae1afad203be74f9b10177ccfade1",
+      "file_sha256": "0d99b19ff5b1f6e11757cac3c30d1b3283a0e945cdb5e0b67c2fc0e441bb9afa",
+      "objects_verified": true
+    }
+  },
+  "image_sets_disjoint": true,
+  "source_sha256": {
+    "/workspace/CrowBrain/scripts/branch_b_round1.py": "85dacd4ff9448abd1b9dfe55bccf92f2648ef99e4ef59d5fe4a850380ecb3e52",
+    "src/crowbrain/task.py": "ce6893b34e3b2fcae6b20d6a06f64c1a9948931fbffb4712200354a0d685a60c",
+    "src/crowbrain/model.py": "75206664caf28e25f497be306607439d08a7998141a0fdcf1f85e4a216d9678d"
+  }
+}

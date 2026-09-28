@@ -1,0 +1,50 @@
+{
+  "round": "UC-R01",
+  "branch": "unified_cognition",
+  "nature": "development_screening",
+  "grid": {
+    "models": ["F0", "F1", "S0", "S1", "G", "Neg"],
+    "seeds": [270101, 270102, 270103, 270104, 270105],
+    "lrs": [0.001, 0.003],
+    "steps": 2000,
+    "batch": 64,
+    "optimizer": "Adam",
+    "grad_clip": 1.0
+  },
+  "task": {
+    "name": "T1_structured",
+    "colors": 4,
+    "shapes": 4,
+    "positions": 4,
+    "held_out_rule": "diagonal_c_eq_s",
+    "delays_train": [2, 4, 6],
+    "delay_extrapolation": 8,
+    "eval_conditions": ["val", "id", "ood", "delay8"],
+    "eval_n_per_condition": 4096,
+    "balance_strata": "update x query x color_rel x shape_rel (16, exact)"
+  },
+  "lr_selection": {
+    "rule": "mean val loss across 5 seeds; tie -> smaller lr",
+    "all_candidates_retained": true
+  },
+  "param_matching": {
+    "F1_vs_F0_pct": 0.36,
+    "S1_vs_S0_pct": 0.52,
+    "G_vs_S1_pct": 1.39,
+    "F_vs_S_same_state": "state 64 both; params not matched between families (+45.6%); G(width 51) is the parameter-matched control per plan section 5"
+  },
+  "commands": {
+    "audit": ".venv/bin/python scripts/unified_cognition/r01.py audit",
+    "run_one": ".venv/bin/python scripts/unified_cognition/r01.py run --model {M} --seed {S} --lr {L}",
+    "logs_dir": "artifacts/unified_cognition/r01/logs/",
+    "resume": "re-issue the same command set; completed runs (result.json present) are skipped"
+  },
+  "quality_gates": {
+    "oracle_accuracy": 1.0,
+    "truth_cross_check": true,
+    "neg_control_accuracy_band": [0.45, 0.55],
+    "reset_accuracy_band": [0.45, 0.55],
+    "learnability_G_id": 0.85,
+    "shortcut_probes": {"question_only": 0.5, "update_only": 0.5, "pair_a_only_expected": 0.75}
+  }
+}

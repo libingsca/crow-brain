@@ -1,0 +1,78 @@
+{
+  "passed": true,
+  "records": {
+    "b": {
+      "entries": 118,
+      "sha256": "ca8598b59039362e94b5f6b204c997e2a9bd1c16d22b6e5fe7c314d07b27efc5"
+    },
+    "bn": {
+      "entries": 218,
+      "sha256": "5f96be18d7b007933a68365bce8ea0fab84d3f20c7e8f82b87c29546abce748e"
+    },
+    "bt": {
+      "entries": 601,
+      "sha256": "b2600106241a9c559aa78cacc7971b4d79a0e79d5a897f38d69271c84a517902"
+    },
+    "br": {
+      "entries": 705,
+      "sha256": "1de6796b4da29613cd5f46241308d78d0ef4559464927d74273133f2afa9ade6"
+    },
+    "bs": {
+      "entries": 1345,
+      "sha256": "920b07a964b3412c130216205f11e280e3abd22116abb70f2123e5be13ddb775"
+    },
+    "bl": {
+      "entries": 639,
+      "sha256": "3f0ef971375f480d283af2adacaf19c45ed4d2c9203b3590100e244eef31a68e"
+    },
+    "bc": {
+      "entries": 1288,
+      "sha256": "d54a913da70dd1df7cdc46871d20117c60f07966c44de5bd75ca8f19ae0510c5"
+    },
+    "bw": {
+      "entries": 1292,
+      "sha256": "96705f63d07fc12c6234040a493821c7c98df2dc7b3eea9ab981c63fe3101b33"
+    },
+    "bz": {
+      "entries": 1850,
+      "sha256": "a43254ac10df0d917b81d6bf6183dc6bd9b23f71d154d6022601f20b6cd72f4c"
+    },
+    "bf": {
+      "entries": 1539,
+      "sha256": "6e6b426bfd645ef248ab2d570d812345c7235f9ee214642020dcb13f8de1bbe5"
+    }
+  },
+  "mutable_pointer_exceptions": [
+    {
+      "branch": "bn",
+      "expected": "a43831e9682b93a1a646c568b775421f38d027de8876df73b9a7d7c46e0236c9",
+      "current": "e5cdb6ec7faf252d491da4da04a5945961b4156c86ea005e3ceee6fbdce84e93"
+    },
+    {
+      "branch": "bl",
+      "expected": "5ed4830ef6825a3fb27b1d5be7be8a37344f89455a9a45b2da59cf3650c0b41a",
+      "current": "e5cdb6ec7faf252d491da4da04a5945961b4156c86ea005e3ceee6fbdce84e93"
+    },
+    {
+      "branch": "bc",
+      "expected": "843ab379559e668892e47261273dc0df26fe88e16e7943d8e3d4f844fa5f0957",
+      "current": "e5cdb6ec7faf252d491da4da04a5945961b4156c86ea005e3ceee6fbdce84e93"
+    },
+    {
+      "branch": "bw",
+      "expected": "f7e75248659bf8bc2575c8af8bd1f7a6a8832579afdae362288ec73fb349c6df",
+      "current": "e5cdb6ec7faf252d491da4da04a5945961b4156c86ea005e3ceee6fbdce84e93"
+    },
+    {
+      "branch": "bz",
+      "expected": "d62d9b722560695f700e8a27ab71cd018c1691d94f634b5bab22a10d1f9308eb",
+      "current": "e5cdb6ec7faf252d491da4da04a5945961b4156c86ea005e3ceee6fbdce84e93"
+    },
+    {
+      "branch": "bf",
+      "expected": "89f52c386eeb4f1ea6d9a65f9bb952c64d1569e5bb6bdd58c0b0ccf9375e6892",
+      "current": "e5cdb6ec7faf252d491da4da04a5945961b4156c86ea005e3ceee6fbdce84e93"
+    }
+  ],
+  "checked_at": 1790356949.5140996
+}

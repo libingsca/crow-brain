@@ -1,0 +1,72 @@
+# Python environments, caches and build output
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+.tox/
+.nox/
+*.egg-info/
+/build/
+/dist/
+.coverage
+.coverage.*
+/htmlcov/
+coverage.xml
+.ipynb_checkpoints/
+
+# Local credentials (keep shareable example files)
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+
+# Local editor / OS files; keep .cursor/rules and .agents/rules
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.swp
+*.swo
+
+# Runtime logs and temporary files
+*.log
+*.pid
+*.tmp
+*.temp
+/tmp/
+/temp/
+
+# Large experiment arrays, model weights and serialized intermediate state.
+# Keep artifacts JSON/CSV summaries, Markdown protocols, source snapshots,
+# integrity manifests and report figures in Git. Ignored evidence must still
+# be archived separately for full reproduction and integrity verification.
+/artifacts/**/*.npy
+/artifacts/**/*.npz
+/artifacts/**/*.pt
+/artifacts/**/*.pth
+/artifacts/**/*.ckpt
+/artifacts/**/*.safetensors
+/artifacts/**/*.pkl
+/artifacts/**/*.pickle
+/artifacts/**/*.h5
+/artifacts/**/*.hdf5
+/artifacts/**/*.bin
+
+# Downloaded raw datasets; retain attribution, metadata and analysis scripts.
+/data/**/*.mat
+/data/**/*.npy
+/data/**/*.npz
+/data/**/*.h5
+/data/**/*.hdf5
+/data/**/*.zip
+/data/**/*.tar
+/data/**/*.tar.gz
+/data/**/*.gz

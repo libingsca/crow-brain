@@ -1,0 +1,50 @@
+{
+  "data_hash_and_label_balance_verified": true,
+  "models": [
+    {
+      "seed": 301,
+      "all_hashes_verified": true,
+      "frozen_head_predictions_recomputed": true,
+      "original_head_recomputed": true,
+      "all_256_null_predictions_recomputed": true,
+      "training_scaler_recomputed": true,
+      "all_fits_converged": true
+    },
+    {
+      "seed": 302,
+      "all_hashes_verified": true,
+      "frozen_head_predictions_recomputed": true,
+      "original_head_recomputed": true,
+      "all_256_null_predictions_recomputed": true,
+      "training_scaler_recomputed": true,
+      "all_fits_converged": true
+    },
+    {
+      "seed": 303,
+      "all_hashes_verified": true,
+      "frozen_head_predictions_recomputed": true,
+      "original_head_recomputed": true,
+      "all_256_null_predictions_recomputed": true,
+      "training_scaler_recomputed": true,
+      "all_fits_converged": true
+    },
+    {
+      "seed": 304,
+      "all_hashes_verified": true,
+      "frozen_head_predictions_recomputed": true,
+      "original_head_recomputed": true,
+      "all_256_null_predictions_recomputed": true,
+      "training_scaler_recomputed": true,
+      "all_fits_converged": true
+    },
+    {
+      "seed": 305,
+      "all_hashes_verified": true,
+      "frozen_head_predictions_recomputed": true,
+      "original_head_recomputed": true,
+      "all_256_null_predictions_recomputed": true,
+      "training_scaler_recomputed": true,
+      "all_fits_converged": true
+    }
+  ]
+}

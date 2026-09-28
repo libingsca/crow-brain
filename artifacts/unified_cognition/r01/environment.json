@@ -1,0 +1,13 @@
+{
+  "recorded_utc": "2026-09-28",
+  "python": "3.12.3 (main, Aug 31 2026, 10:17:52) [GCC 13.3.0]",
+  "torch": "2.14.0+cpu",
+  "numpy": "2.5.3",
+  "scipy": "1.18.1",
+  "scikit_learn": "1.9.1",
+  "platform": "linux container overlay; /workspace device 59G, ~23 GiB free at freeze",
+  "threads_per_process": 1,
+  "max_concurrent_training_processes": 2,
+  "device": "cpu only",
+  "note": "Metadata check only (workspace.py doctor); imports and small-scale runs verified by smoke tests before freeze."
+}

@@ -1,0 +1,3107 @@
+[
+  {
+    "permutation": 0,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 1,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          78
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 2,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          89
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 3,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 4,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 5,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 6,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 7,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 8,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 9,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          90
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 10,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 11,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          73
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 12,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          70
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 13,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          97
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 14,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          82
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 15,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 16,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 17,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 18,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 19,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          87
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 20,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 21,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          87
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 22,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 23,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 24,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          82
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 25,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 26,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 27,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 28,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          92
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 29,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 30,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 31,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          97
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 32,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          76
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 33,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          87
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 34,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 35,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 36,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 37,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 38,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 39,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          73
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 40,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 41,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 42,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          72
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 43,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          93
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 44,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          92
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 45,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 46,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 47,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          90
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 48,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          90
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 49,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          90
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 50,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 51,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          77
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 52,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          89
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 53,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 54,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 55,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          76
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 56,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 57,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 58,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          89
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 59,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 60,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 61,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 62,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          91
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 63,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 64,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          94
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 65,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 66,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          82
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 67,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 68,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          75
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 69,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          91
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 70,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 71,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          82
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 72,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          82
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 73,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 74,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          95
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 75,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          87
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 76,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          91
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 77,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 78,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 79,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 80,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          94
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 81,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          72
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 82,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 83,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 84,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          78
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 85,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 86,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 87,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          91
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 88,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 89,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          91
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 90,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 91,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          92
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 92,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          90
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 93,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          87
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 94,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          75
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 95,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 96,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 97,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 98,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 99,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 100,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 101,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          91
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 102,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 103,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          99
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 104,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          91
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 105,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 106,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          91
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 107,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          82
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 108,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 109,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 110,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 111,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          90
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 112,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          82
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 113,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 114,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 115,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          76
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 116,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 117,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 118,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 119,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          76
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 120,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          92
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 121,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 122,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          82
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 123,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 124,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 125,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          92
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 126,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 127,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 128,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 129,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 130,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          95
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 131,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 132,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          74
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 133,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 134,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          74
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 135,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 136,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          72
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 137,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          78
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 138,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 139,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 140,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          75
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 141,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 142,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          82
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 143,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 144,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          74
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 145,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 146,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          74
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 147,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 148,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          74
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 149,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 150,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 151,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 152,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          90
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 153,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 154,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          89
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 155,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 156,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 157,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          89
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 158,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          76
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 159,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 160,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          74
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 161,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 162,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          75
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 163,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 164,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          91
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 165,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 166,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 167,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          75
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 168,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          75
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 169,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 170,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 171,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          82
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 172,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          78
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 173,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 174,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          77
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 175,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          89
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 176,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          92
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 177,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 178,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 179,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          87
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 180,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 181,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 182,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          76
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 183,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 184,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 185,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          89
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 186,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          78
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 187,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          90
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 188,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          82
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 189,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 190,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 191,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 192,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 193,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 194,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 195,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          72
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 196,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 197,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          77
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 198,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          74
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 199,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          89
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 200,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          87
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 201,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 202,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          94
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 203,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          93
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 204,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 205,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          76
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 206,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 207,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 208,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 209,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          78
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 210,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 211,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 212,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          91
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 213,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 214,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 215,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          76
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 216,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          90
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 217,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 218,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 219,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 220,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 221,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 222,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 223,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          93
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 224,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 225,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          94
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 226,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          89
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 227,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 228,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 229,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          75
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 230,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 231,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          75
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 232,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 233,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 234,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          99
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 235,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 236,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          87
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 237,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          80
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 238,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          94
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 239,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 240,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          76
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 241,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 242,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          93
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 243,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 244,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 245,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 246,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          88
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 247,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          90
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 248,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 249,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 250,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 251,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          92
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 252,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          81
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 253,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 254,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          85
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "permutation": 255,
+    "history": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "real_label_reference": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          66
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "original_permutation_pair": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          244
+        ],
+        "converged": true
+      }
+    ]
+  },
+  {
+    "original_permutation_pair": [
+      {
+        "max_iter": 3000,
+        "iterations": [
+          252
+        ],
+        "converged": true
+      }
+    ]
+  }
+]

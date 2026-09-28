@@ -1,0 +1,25 @@
+{
+  "seeds": {
+    "solid": 230000,
+    "ring": 230001
+  },
+  "accepted_images": 4000,
+  "rejections": {
+    "solid": {
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0
+    },
+    "ring": {
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1
+    }
+  },
+  "sha256": "cb5eed3565bd678bb61440c84aa1839b30b13fcce646f759c64dda6f8901edc0",
+  "filter": "pre-existing 8-connected component assertion; no model outputs consulted"
+}

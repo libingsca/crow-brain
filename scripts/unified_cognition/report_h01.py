@@ -1,0 +1,92 @@
+"""Generate the final scoped report only after a valid negative stop certificate."""
+import json,sys
+from pathlib import Path
+import numpy as np
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+import h01
+p=h01.BASE/'round3';d=json.loads((p/'confirmation.json').read_text());stop=json.loads((p/'STOP.json').read_text())
+assert d['decision']=='exclude_useful_gain_scoped' and d['quality_gate']
+report=h01.ROOT/'reports/unified_cognition';report.mkdir(exist_ok=True,parents=True)
+def pc(x):return f'{100*x:.2f}%'
+def pp(x):return f'{100*x:+.2f} pp'
+rows=[]
+for b in ['FP','F64']:
+ c=d['comparisons'][b];ood=c['ood'];idd=c['id']
+ rows.append(f'| S64 − {b} | {ood["n"]} | {pp(ood["mean"])} | [{pp(ood["lower"])}, {pp(ood["upper"])}] | [{pp(idd["lower"])}, {pp(idd["upper"])}] |')
+models=[]
+for m in ['S64','FP','F64']:
+ v=d['models'][m];models.append(f'| {m} | {v["n"]} | {v["params"]} | {pc(v["id_mean"])} | {pc(v["ood_mean"])} | {v["id_below_85_count"]} |')
+a=d['comparisons']['FP']['ood'];sec=d['comparisons']['F64']['ood']
+text=f'''# UC-H01 最终报告：限定实现的有用收益检验
+
+日期：2026-09-27。状态：已满足预登记科学停止规则；没有启动 H02–H12。
+
+## 结论
+在固定结构化延迟关系任务、固定属性组合留出、48维内容/16维规则分区、乘性交互读出以及2000步训练算法下，**排除平均至少+3个百分点的同参数迁移收益**。主比较 S64−FP 的均值为 {pp(a['mean'])}，校正双侧区间为 [{pp(a['lower'])}, {pp(a['upper'])}]；上界低于+3pp，触发预登记停止。这里的“排除”依赖独立训练seed及近似t覆盖假设，不是无条件数学证伪。
+
+这不证明所有分离架构都无效，也不否定人、类人猿和乌鸦共享抽象计算机制。融合结构也可能自行形成可分离的表征；本次未完成其对应因果映射检验，不能把显式分区无收益解释为功能性分离无作用。实际动物神经数据未参与本次训练或确认。
+
+## 依结果推进的三轮链
+
+1. **R1（30次开发训练）**：固定门控，仅比较融合/分区。分区模型ID约75.28%，融合对照约100%；审计排除明显真值/通路错误后，不直接进行一般机制否定。
+2. **R2（30次开发训练）**：依据R1，为所有模型对称加入同一乘性交互读出。选定配置下ID均100%，但分区平均OOD68.95%，同参数融合72.14%，同状态融合75.02%。诊断证明规则可以被使用；收益仍需独立确认。
+3. **R3（298次确认训练）**：冻结R2算法，S64与FP各139个新seed，F64另20个同批seed。根据R2方差和排除方向的备择预先定样本量，全部完成后一次正式查看；没有根据中途分数改变配置、样本量或停止规则。
+
+合计358次开发/确认训练，另有1次旧seed复现运行用于验证常驻进程运行方式。复现运行不算独立科学样本。
+
+## 模型和平均表现
+
+| 模型 | 独立训练数 | 参数量 | ID BA均值 | OOD BA均值 | ID低于85%的训练数 |
+|---|---:|---:|---:|---:|---:|
+{chr(10).join(models)}
+
+S64与FP基于同一139组输入流；F64仅20组，因此不能把上表S64的139组均值直接减去F64的20组均值进行推断。同状态比较严格使用前20组配对差，见下表。S64总状态64，FP总状态52，F64总状态64；两个比较分别控制参数和总状态，不能声称同时完全匹配所有资源。
+
+## 确认性效应与统计
+
+| 配对比较 | 独立配对数 | OOD均值差 | OOD校正区间 | ID均值差校正区间 |
+|---|---:|---:|---|---|
+{chr(10).join(rows)}
+
+同状态辅助比较的区间仍跨越+3pp，证据不足；本次科学停止只由同参数主比较达到登记判据触发，不能说两种资源匹配都已排除收益。
+
+本轮总alpha={d['alpha_total']:.12f}，四个区间各alpha={d['alpha_each']:.12f}，即双侧{100*(1-d['alpha_each']):.6f}%区间。主停止仅依据同参数OOD上界；同状态对照、ID非劣性和描述性分组不替代主判据。排除“至少3pp”不等于证明恰好零效应；除非区间确实全部落入预登记等效带，不能写成实践等效。
+
+图片/任务记录、同一模型不同条件和重复时间步均未充当独立训练重复。每个seed分别生成评估流；有限任务集内可重复抽到同一离散记录，属于登记的生成分布，不声称所有语义实例唯一。
+
+## 质量与机制边界
+
+- 所有输入真值由独立记录解析重建；完整实例的训练/验证/测试散列划分无交叉。
+- 同seed模型的训练记录和评估输入相同。全部模型重载后，所有保存评估logits逐位重现。
+- 全状态清空后的ID/OOD/长延迟正确率为50%；原始输入oracle为100%。候选与基线组平均ID均超过85%质量门槛，低分seed完整保留。
+- R1与R2探索性探针和规则变换只用于诊断，没有作为确认性动物机制证据。规则状态编码可解码、架构上内容不受问题影响，都不足以单独证明组合迁移。
+- 结构化输入直接提供对象属性，没有检验视觉前端、自然场景、新属性取值或所有规则组合。主要OOD是未见颜色×形状对象组合；不能改称所有组合推理。
+- 只测试一种48/16分区及两种先后诊断的读出形式。门控固定为GRU，未检验H02。网络训练平均效用包含优化可靠性，不是筛选成功seed后的表现。
+- t区间使用近似覆盖。139组主比较比5组开发结果稳定，但不能据此消除偏斜、有限样本及伪随机实现的所有限制；20组辅助比较尤其应谨慎。
+
+## 停止与后续
+
+停止证书：`artifacts/unified_cognition/h01/round3/STOP.json`。当前实现不再增加训练或样本；科学停止理由是上置信界低于预登记实用效应界限，而非时间或预算。
+
+更一般的H01保持未决。若以后重启，应明确新问题，例如内容状态是否保留跨对象的关系不变量、分区比例是否改变结论，或不同任务分布是否支持迁移；不得覆盖本次负结果或重置已消耗的统计额度。其他11个假说仍未启动。
+
+## 复现入口
+
+- 总规划：`docs/plans/2026-09-27_UNIFIED_COGNITION_PLAN.md`。
+- 三轮训练前协议：`docs/decisions/unified_cognition/H01_ROUND1_PROTOCOL.md` 至 `H01_ROUND3_PROTOCOL.md`。
+- 每轮源码/配置锁、全部权重、训练及评估记录、审计与确认结果：`artifacts/unified_cognition/h01/`。
+- 核心运行：`scripts/unified_cognition/h01.py`、`h01_product.py`、`run_persistent.py`；固定查看点分析：`confirm_h01.py`。
+- 不覆盖已有运行；重新复现须用新的输出目录并注明与原实验的关系。统计结果只能在登记全部批次完成且审计通过后生成。
+'''
+(report/'H01_FINAL_REPORT.md').write_text(text)
+fig,axes=plt.subplots(1,2,figsize=(10,4))
+for i,b in enumerate(['FP','F64']):
+ x=np.array(d['comparisons'][b]['ood']['differences'])*100
+ axes[0].scatter(np.arange(len(x)),x,s=12,alpha=.6,label='S64 - '+b)
+ c=d['comparisons'][b]['ood'];mu=c['mean']*100;lo=c['lower']*100;hi=c['upper']*100
+ axes[1].errorbar(mu,i,xerr=[[mu-lo],[hi-mu]],fmt='o',capsize=5,label=b)
+axes[0].axhline(3,color='red',ls='--');axes[0].axhline(0,color='gray',ls=':');axes[0].set_xlabel('Independent paired training block');axes[0].set_ylabel('OOD accuracy difference (percentage points)');axes[0].legend()
+axes[1].axvline(3,color='red',ls='--',label='Registered useful gain: +3 pp');axes[1].axvline(0,color='gray',ls=':');axes[1].set_yticks([0,1],['Parameter matched (n=139)','State matched (n=20)']);axes[1].set_xlabel('Mean difference and adjusted t interval (pp)');axes[1].legend(fontsize=7);fig.tight_layout();fig.savefig(report/'H01_CONFIRMATION.png',dpi=160)
+print(report/'H01_FINAL_REPORT.md')

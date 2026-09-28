@@ -1,0 +1,18 @@
+{
+  "synthetic_objective_and_probabilities_agree": true,
+  "actual_model": 302,
+  "C": 1,
+  "objective": 0.35503174413824246,
+  "max_absolute_mean_objective_gradient": 2.589739427138226e-11,
+  "history": [
+    {
+      "solver": "newton-cholesky",
+      "max_iter": 200,
+      "iterations": [
+        11
+      ],
+      "converged": true,
+      "warnings": []
+    }
+  ]
+}

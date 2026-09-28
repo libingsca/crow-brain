@@ -1,0 +1,11 @@
+{
+  "files": {
+    "scripts/unified_cognition/h01.py": "bc7f529fa3f1bb49e15cba1df244312961f6341c00a07ad19f90db7730e17c1e",
+    "scripts/unified_cognition/h01_product.py": "412b10062587627a5afbb3254fb52331bdc01f403d598ccf54e0d1a734f32df5",
+    "scripts/unified_cognition/run_batch.py": "304c113310acc0294aafc2588f91909e7acb2ff3d1c9b78af11027c6b1b6d964",
+    "docs/decisions/unified_cognition/H01_ROUND2_PROTOCOL.md": "209c700e1d8ea943ae275c1c134e144dd88533afb34389e75122212c503b3377"
+  },
+  "config_sha256": "bddc0f36834e1980fc4e7b9bbb25a183c3f9132e52bbb1437f46e373e5962416",
+  "status": "registered_before_training",
+  "alpha_spent": 0
+}

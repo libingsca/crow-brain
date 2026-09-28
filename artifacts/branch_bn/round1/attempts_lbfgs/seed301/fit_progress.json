@@ -1,0 +1,178 @@
+{
+  "clean": {
+    "C": 100.0,
+    "validation_loss": 0.039595259517344716,
+    "grid": [
+      {
+        "C": 0.01,
+        "validation_loss": 0.38540583347089835,
+        "training_loss": 0.3850656748507131,
+        "history": [
+          {
+            "max_iter": 3000,
+            "iterations": [
+              62
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 0.1,
+        "validation_loss": 0.260938604839723,
+        "training_loss": 0.2602361287785724,
+        "history": [
+          {
+            "max_iter": 3000,
+            "iterations": [
+              180
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 1.0,
+        "validation_loss": 0.14405649176521051,
+        "training_loss": 0.1436208656686809,
+        "history": [
+          {
+            "max_iter": 3000,
+            "iterations": [
+              424
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 10.0,
+        "validation_loss": 0.07078396170382346,
+        "training_loss": 0.07008295767765343,
+        "history": [
+          {
+            "max_iter": 3000,
+            "iterations": [
+              709
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 100.0,
+        "validation_loss": 0.039595259517344716,
+        "training_loss": 0.03816223429360093,
+        "history": [
+          {
+            "max_iter": 3000,
+            "iterations": [
+              1276
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      }
+    ],
+    "weight_sum": 8000.0,
+    "n_original": 8000
+  },
+  "aug": {
+    "C": 100.0,
+    "validation_loss": 0.050201476950603494,
+    "grid": [
+      {
+        "C": 0.01,
+        "validation_loss": 0.39751671767781116,
+        "training_loss": 0.3961263650947833,
+        "history": [
+          {
+            "max_iter": 3000,
+            "iterations": [
+              133
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 0.1,
+        "validation_loss": 0.300786422408086,
+        "training_loss": 0.298668248834647,
+        "history": [
+          {
+            "max_iter": 3000,
+            "iterations": [
+              361
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 1.0,
+        "validation_loss": 0.1944534549188784,
+        "training_loss": 0.19328296373232529,
+        "history": [
+          {
+            "max_iter": 3000,
+            "iterations": [
+              908
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 10.0,
+        "validation_loss": 0.09502407702438466,
+        "training_loss": 0.09573464536779465,
+        "history": [
+          {
+            "max_iter": 3000,
+            "iterations": [
+              2046
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 100.0,
+        "validation_loss": 0.050201476950603494,
+        "training_loss": 0.049834850266896186,
+        "history": [
+          {
+            "max_iter": 3000,
+            "iterations": [
+              3000
+            ],
+            "converged": false,
+            "warnings": [
+              "lbfgs failed to converge after 3000 iteration(s) (status=1):\nSTOP: TOTAL NO. OF ITERATIONS REACHED LIMIT\n\nIncrease the number of iterations to improve the convergence (max_iter=3000).\nYou might also want to scale the data as shown in:\n    https://scikit-learn.org/stable/modules/preprocessing.html\nPlease also refer to the documentation for alternative solver options:\n    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression"
+            ]
+          },
+          {
+            "max_iter": 15000,
+            "iterations": [
+              3595
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      }
+    ],
+    "weight_sum": 8000.0,
+    "n_original": 8000
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "specs": {
+    "F0": {
+      "kind": "F0",
+      "width": 64,
+      "params": 20194
+    },
+    "F1": {
+      "kind": "F1",
+      "width": 64,
+      "params": 20266
+    },
+    "S0": {
+      "kind": "S0",
+      "width": 64,
+      "params": 13858
+    },
+    "S1": {
+      "kind": "S1",
+      "width": 64,
+      "params": 13930
+    },
+    "G": {
+      "kind": "G",
+      "width": 51,
+      "params": 14123
+    },
+    "Neg": {
+      "kind": "Neg",
+      "width": 0,
+      "params": 6
+    }
+  },
+  "checks": [
+    {
+      "split": "train",
+      "ood": false,
+      "oracle_accuracy": 1.0,
+      "n": 4096
+    },
+    {
+      "split": "train",
+      "ood": true,
+      "oracle_accuracy": 1.0,
+      "n": 4096
+    },
+    {
+      "split": "val",
+      "ood": false,
+      "oracle_accuracy": 1.0,
+      "n": 4096
+    },
+    {
+      "split": "val",
+      "ood": true,
+      "oracle_accuracy": 1.0,
+      "n": 4096
+    },
+    {
+      "split": "test",
+      "ood": false,
+      "oracle_accuracy": 1.0,
+      "n": 4096
+    },
+    {
+      "split": "test",
+      "ood": true,
+      "oracle_accuracy": 1.0,
+      "n": 4096
+    }
+  ],
+  "cross_split_duplicates": 0,
+  "shortcut_probes": {
+    "question_only": 0.5,
+    "update_only": 0.5,
+    "pair_a_only": 0.749755859375
+  },
+  "split_content_invariance": true,
+  "torch": "2.14.0+cpu",
+  "python": "3.12.3",
+  "source_sha256": "2ea0e82d4133d8023de0f38eef4e5b0bdd1c0bfea932de1f41b6f4de9ab40989"
+}

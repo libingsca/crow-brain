@@ -1,0 +1,7 @@
+# Round 6 technical amendment — before any primary endpoint was produced
+
+The held-out shape-bank generation (seed 230001) hit its connected-component assertion, so primary evaluation stopped before any model prediction on the shape bank. Training and representation analysis completed; original failure.json/logs/checkpoints are retained. This is an invalid rendered stimulus, not a model failure and not evidence about H2.
+
+Repair: use the SAME draw function, seed, target mass/extent distributions and ring ratio, but reject a rendered image if it fails the existing component-count assertion and redraw from the ongoing RNG stream for the same intended count. Record rejection counts; validate every accepted image. Generate ONE repaired shape bank before model evaluation and reuse it for both arms and all seeds. The filter never sees model outputs or match labels. No threshold, model, training, seed, or hyperparameter is changed.
+
+Allow the already scheduled training jobs to finish, retain their original evaluation failures, and recompute all final metrics from the same saved final checkpoints. Recover original independent representation summaries from saved NPZ arrays. Write an evaluation-repair provenance file with checkpoint and repaired bank hashes. Do not rerun training or select alternative checkpoints. This implements the original requirement of one connected object per item; it does not loosen it.

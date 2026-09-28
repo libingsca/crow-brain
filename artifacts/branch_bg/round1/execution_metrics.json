@@ -1,0 +1,35 @@
+{
+  "training": {
+    "301": {
+      "seconds": 15.330446769003174,
+      "peak_rss_kib": 941164
+    },
+    "302": {
+      "seconds": 26.638542371991207,
+      "peak_rss_kib": 924336
+    },
+    "303": {
+      "seconds": 23.228515827009687,
+      "peak_rss_kib": 923860
+    },
+    "304": {
+      "seconds": 16.982314278997364,
+      "peak_rss_kib": 939728
+    },
+    "305": {
+      "seconds": 20.95449188700877,
+      "peak_rss_kib": 935484
+    }
+  },
+  "evaluation": {
+    "301": 40.24033699100255,
+    "302": 41.477765211995575,
+    "303": 39.94399541200255,
+    "304": 40.33985343600216,
+    "305": 32.94933547000983
+  },
+  "tests": "63 passed",
+  "original_execution_code_unchanged": true,
+  "implementation_notes": "round1/implementation_notes.md",
+  "recorded_at": 1790357670.0031793
+}

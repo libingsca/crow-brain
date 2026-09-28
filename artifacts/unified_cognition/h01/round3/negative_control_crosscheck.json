@@ -1,0 +1,7 @@
+{
+  "models": 298,
+  "reconstructed_reset_predictions": 4882432,
+  "parameter_counts_match": true,
+  "all_reset_predictions_reproduced": true,
+  "all_balanced_reset_accuracy": 0.5
+}

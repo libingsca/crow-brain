@@ -1,0 +1,27 @@
+{
+  "utc": "2026-09-27T05:57:51.385450+00:00",
+  "processes": [
+    {
+      "pid": 151924,
+      "PPid": "151920",
+      "VmRSS": "16424 kB",
+      "VmHWM": "16424 kB",
+      "Threads": "3"
+    },
+    {
+      "pid": 151925,
+      "PPid": "151924",
+      "VmRSS": "384652 kB",
+      "VmHWM": "385352 kB",
+      "Threads": "3"
+    },
+    {
+      "pid": 151926,
+      "PPid": "151924",
+      "VmRSS": "385156 kB",
+      "VmHWM": "385676 kB",
+      "Threads": "3"
+    }
+  ],
+  "note": "process lifetime peak RSS, not per-model memory allocation"
+}

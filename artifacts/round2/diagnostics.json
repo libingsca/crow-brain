@@ -1,0 +1,56 @@
+[
+  {
+    "run": "rnn_lr0.001_seed1",
+    "encoder_decode": 0.638,
+    "sample_decode": 0.734,
+    "delay_decode": 0.7380000000000001,
+    "encoder_std": 0.004741263575851917,
+    "delay_std": 0.00016429927200078964,
+    "active_fraction": 0.50559375
+  },
+  {
+    "run": "rnn_lr0.001_seed2",
+    "encoder_decode": 0.47000000000000003,
+    "sample_decode": 0.506,
+    "delay_decode": 0.5439999999999999,
+    "encoder_std": 0.0006320495740510523,
+    "delay_std": 4.068416455993429e-05,
+    "active_fraction": 0.59375
+  },
+  {
+    "run": "rnn_lr0.001_seed3",
+    "encoder_decode": 0.368,
+    "sample_decode": 0.376,
+    "delay_decode": 0.374,
+    "encoder_std": 0.00021274256869219244,
+    "delay_std": 6.940306775504723e-06,
+    "active_fraction": 0.46875
+  },
+  {
+    "run": "rnn_lr0.003_seed1",
+    "encoder_decode": 0.6020000000000001,
+    "sample_decode": 0.766,
+    "delay_decode": 0.7959999999999999,
+    "encoder_std": 0.007426179014146328,
+    "delay_std": 8.004785922821611e-05,
+    "active_fraction": 0.4140625
+  },
+  {
+    "run": "rnn_lr0.003_seed2",
+    "encoder_decode": 0.5000000000000001,
+    "sample_decode": 0.502,
+    "delay_decode": 0.502,
+    "encoder_std": 0.00017753081920091063,
+    "delay_std": 6.049737748980988e-06,
+    "active_fraction": 0.46875
+  },
+  {
+    "run": "rnn_lr0.003_seed3",
+    "encoder_decode": 0.242,
+    "sample_decode": 0.242,
+    "delay_decode": 0.242,
+    "encoder_std": 1.4484864550468046e-05,
+    "delay_std": 4.415785781475279e-07,
+    "active_fraction": 0.421875
+  }
+]

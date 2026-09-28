@@ -1,0 +1,17 @@
+{
+  "family_total": 0.05,
+  "H01_allocation": 0.004166666666666667,
+  "attempts": [
+    {
+      "round": "round3",
+      "k": 1,
+      "reserved": 0.0020833333333333333,
+      "endpoints": 4,
+      "alpha_each": 0.0005208333333333333,
+      "fixed_final_look": true,
+      "status": "completed_fixed_final_look"
+    }
+  ],
+  "development_rounds_alpha": 0,
+  "alpha_cumulative_used": 0.0020833333333333333
+}

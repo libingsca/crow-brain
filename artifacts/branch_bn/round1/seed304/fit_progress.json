@@ -1,0 +1,354 @@
+{
+  "clean": {
+    "C": 100.0,
+    "validation_loss": 0.24405084269760374,
+    "grid": [
+      {
+        "C": 0.01,
+        "validation_loss": 0.6109363743372923,
+        "training_loss": 0.6104268884004034,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              3
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 0.1,
+        "validation_loss": 0.5332485041496211,
+        "training_loss": 0.5322099230963884,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              4
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 1.0,
+        "validation_loss": 0.4388205696542766,
+        "training_loss": 0.4373758171712067,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              5
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 10.0,
+        "validation_loss": 0.32253082001612826,
+        "training_loss": 0.3193774728608201,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              6
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 100.0,
+        "validation_loss": 0.24405084269760374,
+        "training_loss": 0.23984736295317538,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              8
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      }
+    ],
+    "weight_sum": 8000.0,
+    "n_original": 8000
+  },
+  "aug": {
+    "C": 100.0,
+    "validation_loss": 0.2447394327474438,
+    "grid": [
+      {
+        "C": 0.01,
+        "validation_loss": 0.6109771214556234,
+        "training_loss": 0.6104793349905963,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              3
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 0.1,
+        "validation_loss": 0.5333136374240411,
+        "training_loss": 0.5323199196264728,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              4
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 1.0,
+        "validation_loss": 0.438889197518768,
+        "training_loss": 0.43753353877192924,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              5
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 10.0,
+        "validation_loss": 0.3226917978547249,
+        "training_loss": 0.3197958431126193,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              6
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 100.0,
+        "validation_loss": 0.2447394327474438,
+        "training_loss": 0.24123122677544864,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              8
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      }
+    ],
+    "weight_sum": 8000.0,
+    "n_original": 8000
+  },
+  "quantity0": {
+    "C": 100.0,
+    "validation_loss": 1.2922944173318115e-05,
+    "grid": [
+      {
+        "C": 0.01,
+        "validation_loss": 0.03724110241718148,
+        "training_loss": 0.03806954654890184,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              8
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 0.1,
+        "validation_loss": 0.005737169502561572,
+        "training_loss": 0.005985520408124683,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              10
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 1.0,
+        "validation_loss": 0.0007983065435884598,
+        "training_loss": 0.000851061963988688,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              12
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 10.0,
+        "validation_loss": 0.00010392425717477378,
+        "training_loss": 0.00011300186899381458,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              14
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 100.0,
+        "validation_loss": 1.2922944173318115e-05,
+        "training_loss": 1.4282356140806892e-05,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              16
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      }
+    ],
+    "weight_sum": 8000.0,
+    "n_original": 8000
+  },
+  "quantity1": {
+    "C": 100.0,
+    "validation_loss": 0.00021616732953739392,
+    "grid": [
+      {
+        "C": 0.01,
+        "validation_loss": 0.15518659169979368,
+        "training_loss": 0.15793932741631983,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              9
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 0.1,
+        "validation_loss": 0.044499996226339045,
+        "training_loss": 0.04689279084267905,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              10
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 1.0,
+        "validation_loss": 0.008668534547765483,
+        "training_loss": 0.009645465180459301,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              13
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 10.0,
+        "validation_loss": 0.0014337611986988488,
+        "training_loss": 0.0016762009704251882,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              15
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      },
+      {
+        "C": 100.0,
+        "validation_loss": 0.00021616732953739392,
+        "training_loss": 0.0002606098889440821,
+        "history": [
+          {
+            "solver": "newton-cholesky",
+            "max_iter": 200,
+            "iterations": [
+              16
+            ],
+            "converged": true,
+            "warnings": []
+          }
+        ]
+      }
+    ],
+    "weight_sum": 8000.0,
+    "n_original": 8000
+  }
+}

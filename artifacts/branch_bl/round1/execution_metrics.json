@@ -1,0 +1,37 @@
+{
+  "training": {
+    "301": {
+      "seconds": 9.600301915997989,
+      "peak_rss_kib": 533652
+    },
+    "302": {
+      "seconds": 15.205117561999941,
+      "peak_rss_kib": 515408
+    },
+    "303": {
+      "seconds": 15.397328801002004,
+      "peak_rss_kib": 528972
+    },
+    "304": {
+      "seconds": 11.729372517002048,
+      "peak_rss_kib": 522732
+    },
+    "305": {
+      "seconds": 14.56420175099629,
+      "peak_rss_kib": 532712
+    }
+  },
+  "evaluation": {
+    "301": 47.48719989399979,
+    "302": 47.44792215000052,
+    "303": 46.91219083000033,
+    "304": 47.017086172003474,
+    "305": 34.968388984998455
+  },
+  "source_changes_since_pretest_manifest": [
+    "scripts/branch_bl_integrity.py"
+  ],
+  "source_change_explanation": "Documented mutable planning entry audit; scientific runner, prediction audit and analysis unchanged.",
+  "tests": "34 passed",
+  "primary_interval_crosscheck_passed": true
+}

@@ -1,0 +1,70 @@
+{
+  "data_hashes_verified": true,
+  "models": [
+    {
+      "seed": 301,
+      "source_and_input_hashes": true,
+      "selected_C_and_convergence": true,
+      "selected_binary_objective_gradient_max": {
+        "clean": 1.8848224228679576e-08,
+        "aug": 7.091222309005486e-12
+      },
+      "objective_weight_sum": true,
+      "shared_training_scaler": true,
+      "all_20_bank_scores_recomputed": true,
+      "all_20_bank_states_and_first_noise_recomputed": true
+    },
+    {
+      "seed": 302,
+      "source_and_input_hashes": true,
+      "selected_C_and_convergence": true,
+      "selected_binary_objective_gradient_max": {
+        "clean": 1.0093971014937808e-13,
+        "aug": 3.4320158107263524e-08
+      },
+      "objective_weight_sum": true,
+      "shared_training_scaler": true,
+      "all_20_bank_scores_recomputed": true,
+      "all_20_bank_states_and_first_noise_recomputed": true
+    },
+    {
+      "seed": 303,
+      "source_and_input_hashes": true,
+      "selected_C_and_convergence": true,
+      "selected_binary_objective_gradient_max": {
+        "clean": 3.973909295975752e-10,
+        "aug": 4.091813356862966e-09
+      },
+      "objective_weight_sum": true,
+      "shared_training_scaler": true,
+      "all_20_bank_scores_recomputed": true,
+      "all_20_bank_states_and_first_noise_recomputed": true
+    },
+    {
+      "seed": 304,
+      "source_and_input_hashes": true,
+      "selected_C_and_convergence": true,
+      "selected_binary_objective_gradient_max": {
+        "clean": 5.753090278476369e-12,
+        "aug": 4.109612752504306e-12
+      },
+      "objective_weight_sum": true,
+      "shared_training_scaler": true,
+      "all_20_bank_scores_recomputed": true,
+      "all_20_bank_states_and_first_noise_recomputed": true
+    },
+    {
+      "seed": 305,
+      "source_and_input_hashes": true,
+      "selected_C_and_convergence": true,
+      "selected_binary_objective_gradient_max": {
+        "clean": 3.290302110287976e-08,
+        "aug": 1.0490626740009248e-10
+      },
+      "objective_weight_sum": true,
+      "shared_training_scaler": true,
+      "all_20_bank_scores_recomputed": true,
+      "all_20_bank_states_and_first_noise_recomputed": true
+    }
+  ]
+}

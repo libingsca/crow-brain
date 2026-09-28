@@ -1,0 +1,1813 @@
+{
+  "head_0": {
+    "C": 10.0,
+    "validation_ba": 1.0,
+    "train_ba": 0.99975,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          78
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.888
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          182
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9295
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          389
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9935
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          548
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          615
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_0_0_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          169
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          167
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          156
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          122
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          75
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "head_5": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          34
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          38
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          35
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          42
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          38
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_0_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          100
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          87
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          67
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          44
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_0_b": {
+    "C": 0.01,
+    "validation_ba": 0.5,
+    "train_ba": 0.5,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          125
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          311
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          1000
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          2799
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          3000
+        ],
+        "converged": false,
+        "warnings": [
+          "lbfgs failed to converge after 3000 iteration(s) (status=1):\nSTOP: TOTAL NO. OF ITERATIONS REACHED LIMIT\n\nIncrease the number of iterations to improve the convergence (max_iter=3000).\nYou might also want to scale the data as shown in:\n    https://scikit-learn.org/stable/modules/preprocessing.html\nPlease also refer to the documentation for alternative solver options:\n    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression"
+        ]
+      },
+      {
+        "C": 100.0,
+        "max_iter": 15000,
+        "iterations": [
+          8709
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      }
+    ]
+  },
+  "quantity_5_1_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          96
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          79
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          68
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          57
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_1_b": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          184
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          295
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          333
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          322
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          301
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_2_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          121
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          103
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          110
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          84
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          83
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_2_b": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          186
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          312
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          319
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          312
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          220
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_3_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          161
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          178
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          179
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          152
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          124
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_3_b": {
+    "C": 0.1,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          210
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9974999999999999
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          315
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          336
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          341
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          250
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_4_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          168
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          238
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          216
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          246
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          193
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_5_4_b": {
+    "C": 0.1,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          220
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9969999999999999
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          404
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          383
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          455
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          387
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "head_10": {
+    "C": 100.0,
+    "validation_ba": 0.9964999999999999,
+    "train_ba": 0.998375,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          57
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.944
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          124
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9670000000000001
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          365
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9610000000000001
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          745
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.992
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          1228
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9964999999999999
+      }
+    ]
+  },
+  "quantity_10_0_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          65
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          78
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          60
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          62
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          38
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "head_15": {
+    "C": 10.0,
+    "validation_ba": 1.0,
+    "train_ba": 0.9998750000000001,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          70
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.8554999999999999
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          197
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.921
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          409
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9984999999999999
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          643
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          730
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_0_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          119
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          135
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          120
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          144
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          91
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_0_b": {
+    "C": 0.01,
+    "validation_ba": 0.5,
+    "train_ba": 0.5,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          139
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          384
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          1120
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          3000
+        ],
+        "converged": false,
+        "warnings": [
+          "lbfgs failed to converge after 3000 iteration(s) (status=1):\nSTOP: TOTAL NO. OF ITERATIONS REACHED LIMIT\n\nIncrease the number of iterations to improve the convergence (max_iter=3000).\nYou might also want to scale the data as shown in:\n    https://scikit-learn.org/stable/modules/preprocessing.html\nPlease also refer to the documentation for alternative solver options:\n    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression"
+        ]
+      },
+      {
+        "C": 10.0,
+        "max_iter": 15000,
+        "iterations": [
+          3233
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          3000
+        ],
+        "converged": false,
+        "warnings": [
+          "lbfgs failed to converge after 3000 iteration(s) (status=1):\nSTOP: TOTAL NO. OF ITERATIONS REACHED LIMIT\n\nIncrease the number of iterations to improve the convergence (max_iter=3000).\nYou might also want to scale the data as shown in:\n    https://scikit-learn.org/stable/modules/preprocessing.html\nPlease also refer to the documentation for alternative solver options:\n    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression"
+        ]
+      },
+      {
+        "C": 100.0,
+        "max_iter": 15000,
+        "iterations": [
+          10379
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5
+      }
+    ]
+  },
+  "quantity_15_1_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          189
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          173
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          169
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          137
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          97
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_1_b": {
+    "C": 1.0,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          164
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.7145
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          397
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9275
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          734
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          928
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          1030
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_2_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          167
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          202
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          197
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          188
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          155
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_2_b": {
+    "C": 1.0,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          173
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.749
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          397
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9890000000000001
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          611
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          905
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          913
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_3_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          183
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          227
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          261
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          222
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          203
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_3_b": {
+    "C": 1.0,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          189
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.7535000000000001
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          421
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.9800000000000001
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          726
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          861
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          829
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_4_a": {
+    "C": 0.1,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          197
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.994
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          290
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          315
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          323
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          271
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "quantity_15_4_b": {
+    "C": 1.0,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          199
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.7555
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          443
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.922
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          803
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          1124
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          1088
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "head_25": {
+    "C": 10.0,
+    "validation_ba": 0.6759999999999999,
+    "train_ba": 0.670625,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          28
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5135000000000001
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          86
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.587
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          324
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.633
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          1020
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.6759999999999999
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          2608
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.667
+      }
+    ]
+  },
+  "quantity_25_0_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          176
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          174
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          183
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          178
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          139
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "head_40": {
+    "C": 100.0,
+    "validation_ba": 0.5954999999999999,
+    "train_ba": 0.59975,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          28
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.4995
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          44
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.492
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          77
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.573
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          225
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.589
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          295
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5954999999999999
+      }
+    ]
+  },
+  "quantity_40_0_a": {
+    "C": 0.01,
+    "validation_ba": 1.0,
+    "train_ba": 1.0,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          169
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          167
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          163
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          130
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          113
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 1.0
+      }
+    ]
+  },
+  "permuted_head": {
+    "C": 0.1,
+    "validation_ba": 0.6745,
+    "train_ba": 0.51725,
+    "search": [
+      {
+        "C": 0.01,
+        "max_iter": 3000,
+        "iterations": [
+          66
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5825
+      },
+      {
+        "C": 0.1,
+        "max_iter": 3000,
+        "iterations": [
+          207
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.6745
+      },
+      {
+        "C": 1.0,
+        "max_iter": 3000,
+        "iterations": [
+          602
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5495000000000001
+      },
+      {
+        "C": 10.0,
+        "max_iter": 3000,
+        "iterations": [
+          1751
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5295000000000001
+      },
+      {
+        "C": 100.0,
+        "max_iter": 3000,
+        "iterations": [
+          3000
+        ],
+        "converged": false,
+        "warnings": [
+          "lbfgs failed to converge after 3000 iteration(s) (status=1):\nSTOP: TOTAL NO. OF ITERATIONS REACHED LIMIT\n\nIncrease the number of iterations to improve the convergence (max_iter=3000).\nYou might also want to scale the data as shown in:\n    https://scikit-learn.org/stable/modules/preprocessing.html\nPlease also refer to the documentation for alternative solver options:\n    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression"
+        ]
+      },
+      {
+        "C": 100.0,
+        "max_iter": 15000,
+        "iterations": [
+          6050
+        ],
+        "converged": true,
+        "warnings": [],
+        "validation_ba": 0.5355000000000001
+      }
+    ]
+  }
+}

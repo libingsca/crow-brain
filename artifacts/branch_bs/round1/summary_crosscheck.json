@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "paired_reference_differences_verified": true,
+  "all_excluded_conditions_are_heldout": true,
+  "supported": 16,
+  "excluded": 6,
+  "unresolved": 0
+}

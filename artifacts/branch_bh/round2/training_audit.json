@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "heads": 10,
+  "max_gradient": 2.4412928371383156e-08,
+  "scaler_validation_forward_verified": true
+}

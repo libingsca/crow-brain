@@ -1,0 +1,49 @@
+{
+  "data_hashes_verified": true,
+  "models": [
+    {
+      "seed": 301,
+      "checkpoint_and_code_hashes": true,
+      "selected_fits_converged": true,
+      "C_selection_verified": true,
+      "raw_predictions_recomputed": true,
+      "scaler_fit_partition_verified": true,
+      "zero_noise_matches_clean": true,
+      "portable_probes_exported": true,
+      "n_probes": 31
+    },
+    {
+      "seed": 302,
+      "checkpoint_and_code_hashes": true,
+      "selected_fits_converged": true,
+      "C_selection_verified": true,
+      "raw_predictions_recomputed": true,
+      "scaler_fit_partition_verified": true,
+      "zero_noise_matches_clean": true,
+      "portable_probes_exported": true,
+      "n_probes": 31
+    },
+    {
+      "seed": 303,
+      "checkpoint_and_code_hashes": true,
+      "selected_fits_converged": true,
+      "C_selection_verified": true,
+      "raw_predictions_recomputed": true,
+      "scaler_fit_partition_verified": true,
+      "zero_noise_matches_clean": true,
+      "portable_probes_exported": true,
+      "n_probes": 31
+    },
+    {
+      "seed": 304,
+      "checkpoint_and_code_hashes": true,
+      "selected_fits_converged": true,
+      "C_selection_verified": true,
+      "raw_predictions_recomputed": true,
+      "scaler_fit_partition_verified": true,
+      "zero_noise_matches_clean": true,
+      "portable_probes_exported": true,
+      "n_probes": 31
+    }
+  ]
+}

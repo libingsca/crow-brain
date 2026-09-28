@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "rounds": [
+    {
+      "round": 1,
+      "stage": "development",
+      "decision": "inconclusive",
+      "quality": true
+    },
+    {
+      "round": 2,
+      "stage": "confirmation",
+      "decision": "inconclusive",
+      "quality": true
+    },
+    {
+      "round": 3,
+      "stage": "targeted_confirmation",
+      "decision": "supported",
+      "quality": true
+    }
+  ],
+  "test_cells": 5980,
+  "head_prediction_vectors": 179080,
+  "tests": "65 passed",
+  "new_fit_heads": 15,
+  "reused_initial_heads": 5,
+  "no_training_in_round3": true,
+  "new_unique_images": 270000,
+  "historical_retained_images": 344000,
+  "final_retained_images": 614000,
+  "final_joint_error_bound": 0.05,
+  "locked_sources_inputs_heads_unchanged": true,
+  "completed_at": 1790402475.362169
+}

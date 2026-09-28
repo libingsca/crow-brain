@@ -1,0 +1,28 @@
+{
+  "criterion_met": true,
+  "criterion": "hypothesis_excluded",
+  "source_round": 5,
+  "source_look": 4,
+  "main_p_upper": 0.7642543025245521,
+  "scientific_hypothesis": "p >= .80, where p is the success probability of a fresh independent refit under the frozen five-core eleven procedure; success requires all 110 true BAs > .85",
+  "necessary_gate": {
+    "K": 96,
+    "S": 28,
+    "F": 36,
+    "U": 32,
+    "lower": 0.16634525846224948,
+    "upper": 0.7642543025245521,
+    "rate_event_source_round": 3,
+    "rate_alpha_reused": 0.003125,
+    "decision": "excluded"
+  },
+  "bridge": "Original five-core event E implies the same round3 core301 event A, hence p<=q.",
+  "stopped_at": 1790456977.5972388,
+  "reason": "Full registered 8192-bank look, all independent audits and statistical crosschecks passed; 36 distinct certified failures imply q upper .7642543025245521 and p<=q.",
+  "limitations": [
+    "Approximate bank-level t coverage",
+    "Approximately IID refit sampling; finite global dedup dependence and pseudorandom implementation",
+    "Fixed cores, generator and fitting algorithm only"
+  ],
+  "new_experiments_after_stop": false
+}

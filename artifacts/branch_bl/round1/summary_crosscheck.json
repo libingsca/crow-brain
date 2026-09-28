@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "checked": [
+    {
+      "delay": 8,
+      "condition": "clean",
+      "lower": 0.9999802805242326,
+      "passed": true
+    },
+    {
+      "delay": 8,
+      "condition": "noise",
+      "lower": 0.9999618937327245,
+      "passed": true
+    },
+    {
+      "delay": 11,
+      "condition": "clean",
+      "lower": 0.9879532344601047,
+      "passed": true
+    },
+    {
+      "delay": 11,
+      "condition": "noise",
+      "lower": 0.988271399135249,
+      "passed": true
+    },
+    {
+      "delay": 12,
+      "condition": "clean",
+      "lower": 0.9874881124461597,
+      "passed": true
+    },
+    {
+      "delay": 12,
+      "condition": "noise",
+      "lower": 0.9866794807501099,
+      "passed": true
+    }
+  ],
+  "method": "Independent loop over all result cells and scipy t.interval/sem; no analysis-array reuse"
+}

@@ -1,0 +1,1 @@
+{"round":2,"stage":"confirmation","banks":80,"fit_path":"artifacts/branch_bh/round2/fit.npz","validation_path":"artifacts/branch_bh/round2/validation.npz","reuse_baseline":false,"fit_seed":1020001,"test_seed":1020100,"prior_images":364000,"heads":{"ten":[5,7,8,9,10,11,12,13,14,15],"eleven":[5,6,7,8,9,10,11,12,13,14,15]},"candidate":"eleven"}

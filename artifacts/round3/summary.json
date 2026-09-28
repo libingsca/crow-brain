@@ -1,0 +1,275 @@
+{
+  "runs": [
+    {
+      "stage": "dev",
+      "kind": "rnn",
+      "seed": 1,
+      "lr": 0.001,
+      "validation_ba": 1.0,
+      "parameters": 6154,
+      "trainable_parameters": 6154,
+      "train_seconds": 84.37892791800004,
+      "total_seconds": 84.37893155799998
+    },
+    {
+      "stage": "dev",
+      "kind": "rnn",
+      "seed": 2,
+      "lr": 0.001,
+      "validation_ba": 1.0,
+      "parameters": 6154,
+      "trainable_parameters": 6154,
+      "train_seconds": 84.6533618389999,
+      "total_seconds": 84.65336520899996
+    },
+    {
+      "stage": "dev",
+      "kind": "rnn",
+      "seed": 3,
+      "lr": 0.001,
+      "validation_ba": 1.0,
+      "parameters": 6154,
+      "trainable_parameters": 6154,
+      "train_seconds": 89.8816231899998,
+      "total_seconds": 89.88162632099989
+    },
+    {
+      "stage": "dev",
+      "kind": "rnn",
+      "seed": 1,
+      "lr": 0.003,
+      "validation_ba": 1.0,
+      "parameters": 6154,
+      "trainable_parameters": 6154,
+      "train_seconds": 88.14877362900006,
+      "total_seconds": 88.14877728800002
+    },
+    {
+      "stage": "dev",
+      "kind": "rnn",
+      "seed": 2,
+      "lr": 0.003,
+      "validation_ba": 1.0,
+      "parameters": 6154,
+      "trainable_parameters": 6154,
+      "train_seconds": 84.16001934999986,
+      "total_seconds": 84.16002346000005
+    },
+    {
+      "stage": "dev",
+      "kind": "rnn",
+      "seed": 3,
+      "lr": 0.003,
+      "validation_ba": 0.9924999999999999,
+      "parameters": 6154,
+      "trainable_parameters": 6154,
+      "train_seconds": 83.25423885700002,
+      "total_seconds": 83.25424212799999
+    },
+    {
+      "stage": "final",
+      "kind": "rnn",
+      "seed": 101,
+      "lr": 0.001,
+      "validation_ba": 1.0,
+      "parameters": 6154,
+      "trainable_parameters": 6154,
+      "train_seconds": 108.64713972899995,
+      "id_ba": 1.0,
+      "shift_ba": 1.0,
+      "reset_ba": 0.5,
+      "long_delay_ba": 0.57375,
+      "total_seconds": 124.59782804199995,
+      "initial_delay_decode": 0.705,
+      "initial_encoder_decode": 0.5450000000000002,
+      "initial_sample_selective_fraction": 0.515625,
+      "initial_sample_interior_peaked_fraction": 0.0,
+      "initial_delay_selective_fraction": 0.671875,
+      "initial_delay_interior_peaked_fraction": 0.0,
+      "final_delay_decode": 1.0,
+      "final_encoder_decode": 0.5900000000000001,
+      "final_sample_selective_fraction": 1.0,
+      "final_sample_interior_peaked_fraction": 0.140625,
+      "final_delay_selective_fraction": 1.0,
+      "final_delay_interior_peaked_fraction": 0.125
+    },
+    {
+      "stage": "final",
+      "kind": "rnn",
+      "seed": 102,
+      "lr": 0.001,
+      "validation_ba": 1.0,
+      "parameters": 6154,
+      "trainable_parameters": 6154,
+      "train_seconds": 108.05722915700017,
+      "id_ba": 1.0,
+      "shift_ba": 1.0,
+      "reset_ba": 0.49750000000000005,
+      "long_delay_ba": 0.419375,
+      "total_seconds": 123.869188979,
+      "initial_delay_decode": 0.8766666666666667,
+      "initial_encoder_decode": 0.5916666666666667,
+      "initial_sample_selective_fraction": 0.640625,
+      "initial_sample_interior_peaked_fraction": 0.0,
+      "initial_delay_selective_fraction": 0.703125,
+      "initial_delay_interior_peaked_fraction": 0.0,
+      "final_delay_decode": 1.0,
+      "final_encoder_decode": 0.6916666666666667,
+      "final_sample_selective_fraction": 0.984375,
+      "final_sample_interior_peaked_fraction": 0.1875,
+      "final_delay_selective_fraction": 0.984375,
+      "final_delay_interior_peaked_fraction": 0.09375
+    },
+    {
+      "stage": "final",
+      "kind": "rnn",
+      "seed": 103,
+      "lr": 0.001,
+      "validation_ba": 0.6174999999999999,
+      "parameters": 6154,
+      "trainable_parameters": 6154,
+      "train_seconds": 108.30662678299996,
+      "id_ba": 0.6225,
+      "shift_ba": 0.540625,
+      "reset_ba": 0.5,
+      "long_delay_ba": 0.48625,
+      "total_seconds": 124.348989179,
+      "initial_delay_decode": 0.6866666666666668,
+      "initial_encoder_decode": 0.6283333333333333,
+      "initial_sample_selective_fraction": 0.4375,
+      "initial_sample_interior_peaked_fraction": 0.0,
+      "initial_delay_selective_fraction": 0.59375,
+      "initial_delay_interior_peaked_fraction": 0.0,
+      "final_delay_decode": 1.0,
+      "final_encoder_decode": 0.6083333333333334,
+      "final_sample_selective_fraction": 0.875,
+      "final_sample_interior_peaked_fraction": 0.078125,
+      "final_delay_selective_fraction": 1.0,
+      "final_delay_interior_peaked_fraction": 0.15625
+    },
+    {
+      "stage": "final",
+      "kind": "rnn",
+      "seed": 104,
+      "lr": 0.001,
+      "validation_ba": 1.0,
+      "parameters": 6154,
+      "trainable_parameters": 6154,
+      "train_seconds": 107.24168693000001,
+      "id_ba": 1.0,
+      "shift_ba": 1.0,
+      "reset_ba": 0.5,
+      "long_delay_ba": 0.51125,
+      "total_seconds": 123.40295802299988,
+      "initial_delay_decode": 0.9083333333333332,
+      "initial_encoder_decode": 0.5433333333333333,
+      "initial_sample_selective_fraction": 0.5,
+      "initial_sample_interior_peaked_fraction": 0.0,
+      "initial_delay_selective_fraction": 0.75,
+      "initial_delay_interior_peaked_fraction": 0.0,
+      "final_delay_decode": 1.0,
+      "final_encoder_decode": 0.6366666666666667,
+      "final_sample_selective_fraction": 1.0,
+      "final_sample_interior_peaked_fraction": 0.28125,
+      "final_delay_selective_fraction": 1.0,
+      "final_delay_interior_peaked_fraction": 0.21875
+    },
+    {
+      "stage": "final",
+      "kind": "rnn",
+      "seed": 105,
+      "lr": 0.001,
+      "validation_ba": 1.0,
+      "parameters": 6154,
+      "trainable_parameters": 6154,
+      "train_seconds": 64.69822727299993,
+      "id_ba": 1.0,
+      "shift_ba": 0.996875,
+      "reset_ba": 0.5018750000000001,
+      "long_delay_ba": 0.4425,
+      "total_seconds": 74.00669774800008,
+      "initial_delay_decode": 0.8799999999999999,
+      "initial_encoder_decode": 0.7533333333333333,
+      "initial_sample_selective_fraction": 0.640625,
+      "initial_sample_interior_peaked_fraction": 0.0,
+      "initial_delay_selective_fraction": 0.75,
+      "initial_delay_interior_peaked_fraction": 0.0,
+      "final_delay_decode": 1.0,
+      "final_encoder_decode": 0.645,
+      "final_sample_selective_fraction": 1.0,
+      "final_sample_interior_peaked_fraction": 0.125,
+      "final_delay_selective_fraction": 1.0,
+      "final_delay_interior_peaked_fraction": 0.078125
+    }
+  ],
+  "summary": {
+    "rnn": {
+      "development_lr_means": {
+        "0.001": 1.0,
+        "0.003": 0.9974999999999999
+      },
+      "final": {
+        "id_ba": {
+          "mean": 0.9245000000000001,
+          "low": 0.7148783945575667,
+          "high": 1.1341216054424335,
+          "n": 5
+        },
+        "shift_ba": {
+          "mean": 0.9075,
+          "low": 0.6528423827287668,
+          "high": 1.1621576172712331,
+          "n": 5
+        },
+        "reset_ba": {
+          "mean": 0.499875,
+          "low": 0.49794267598599073,
+          "high": 0.5018073240140093,
+          "n": 5
+        },
+        "long_delay_ba": {
+          "mean": 0.486625,
+          "low": 0.41143797713031216,
+          "high": 0.5618120228696878,
+          "n": 5
+        },
+        "initial_delay_decode": {
+          "mean": 0.8113333333333334,
+          "low": 0.6792826281964277,
+          "high": 0.943384038470239,
+          "n": 5
+        },
+        "final_delay_decode": {
+          "mean": 1.0,
+          "low": 1.0,
+          "high": 1.0,
+          "n": 5
+        },
+        "initial_encoder_decode": {
+          "mean": 0.6123333333333334,
+          "low": 0.5050552724675637,
+          "high": 0.7196113941991031,
+          "n": 5
+        },
+        "final_encoder_decode": {
+          "mean": 0.6343333333333334,
+          "low": 0.5860528059042732,
+          "high": 0.6826138607623936,
+          "n": 5
+        },
+        "final_sample_interior_peaked_fraction": {
+          "mean": 0.1625,
+          "low": 0.0668627120949328,
+          "high": 0.2581372879050672,
+          "n": 5
+        },
+        "final_delay_interior_peaked_fraction": {
+          "mean": 0.134375,
+          "low": 0.06496387237005516,
+          "high": 0.20378612762994483,
+          "n": 5
+        }
+      }
+    }
+  }
+}

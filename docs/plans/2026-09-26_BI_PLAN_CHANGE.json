@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-26",
+  "status": "planned_not_started",
+  "previous_entry_sha256": "9ce054751c3c1db038eb54855c8634abeb265716e191dc231c18c62765b6be40",
+  "previous_entry_archive": "docs/plans/2026-09-26_BEFORE_BI.md",
+  "previous_entry_matches_bh_manifest": true,
+  "current_entry_sha256": "f5aae2c31fc25ed3a7a250a2022c1b727862a0a6c556a0baee8959cfc5e04e30",
+  "historical_manifest_unchanged_sha256": "df057f60111bb5a930dd4c1a340a9d4d1182cd80ccfb41c012305a9d0a9c7d37",
+  "new_documents": {
+    "docs/RESEARCH_ROADMAP_v0.3.md": "27274b7fa9228e37cc15db79f5ba2e008cd42d9d77d0507125c9d1227f7d2a12",
+    "docs/branches/BI_REFIT_RELIABILITY.md": "4b8eb38d1858148a98f32530cc530b6fd1db6b1073837767a0da67f7412f891b"
+  },
+  "validation": [
+    "local Markdown links resolve",
+    "old current-entry bytes match B-H manifest",
+    "no B-I experiment artifact directory created"
+  ]
+}

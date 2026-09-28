@@ -1,0 +1,16 @@
+{
+  "scripts/branch_bh2_analyze.py": "638506e13ebac1cf9b0b252aa128d8b8e94a26da052c7976e0b6eabb430c385c",
+  "scripts/branch_bh2_round.py": "513ae86ee6ab6a1f0933a8601eaf2adb8c5bd1870d8e1aeef6422582da811aa6",
+  "scripts/branch_bh2_audit.py": "18dcf6a56340e19b7e6162b60a44a80dbcb5d36d8e9e85407751ffbbe7153619",
+  "scripts/branch_bh2_report.py": "66ab05dd8f4d54473c1829f14b4b13d2a5157c4684b03b8010b7193518047f4d",
+  "scripts/branch_bh2_dispatch.py": "98fd25aa6fa3fb1dab73c22b69cf6765e576423281d7bc568e203035d2e8ab4f",
+  "artifacts/branch_bh/round2/protocol.md": "dbf5c42530b2eaafb85074c1d2981f5238befdcd1d12c69f2fed05912202bd69",
+  "artifacts/branch_bh/round2/config.json": "1145175fe527abec7632e0f093f524abaf8e36d628272036b531dca269b1ee2a",
+  "tests/test_branch_bh.py": "6bcc1dc2e3cc53126060b9e92ce3feb329cac8f365e0805c6707f8b0b4f61653",
+  "scripts/branch_bg_solver.py": "3bf2cd50f15be779445cd05f1131f9c21b56d981e6701a95a5700433a1ee773a",
+  "scripts/branch_bf_round1.py": "dea4e8fed67a8117274500ead21613e9a3df5d10e44e3b06a68f0b428c756367",
+  "scripts/branch_bt_round1.py": "af3ff14bef0a84b4149173d9d92e2c8265b4a8578e2f95b61671a620c984a3fb",
+  "scripts/branch_b_round1.py": "85dacd4ff9448abd1b9dfe55bccf92f2648ef99e4ef59d5fe4a850380ecb3e52",
+  "src/crowbrain/model.py": "75206664caf28e25f497be306607439d08a7998141a0fdcf1f85e4a216d9678d",
+  "src/crowbrain/task.py": "ce6893b34e3b2fcae6b20d6a06f64c1a9948931fbffb4712200354a0d685a60c"
+}

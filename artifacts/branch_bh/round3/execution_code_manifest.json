@@ -1,0 +1,8 @@
+{
+  "scripts/branch_bh3_round.py": "609a247d8955e5e7aa36ad320ddcad30134c695d9a7ed369764c5a3785264aa8",
+  "scripts/branch_bh3_audit.py": "b4a97e34cc9a19a5d19f286688ed8fef49bb5883cad564ac99234272e2d3d3ee",
+  "scripts/branch_bh3_analyze.py": "e2d8ba2f0044e18089f90f90e91df4cae4eac310df2eaa4f38db4e629a0b7f4f",
+  "artifacts/branch_bh/round3/protocol.md": "b31e2183c66b443adb7ce2472ce4300119b035a3fd0ab1025440e1fb67d658cd",
+  "artifacts/branch_bh/round3/config.json": "c07ef4466aaef28baf0259292a4249deb861f5aaf72297420a98085f065a32e3",
+  "artifacts/branch_bh/round3/bridge.json": "09d3e1f92d9ffa2e2607811f924e1f7c795a4d47b5885bedeba6b853f872e9c4"
+}

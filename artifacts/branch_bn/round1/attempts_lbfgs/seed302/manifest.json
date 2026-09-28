@@ -1,0 +1,10 @@
+{
+  "seed": 302,
+  "checkpoint": "artifacts/round6/final/rnn_lr0.001_seed302/final.pt",
+  "checkpoint_sha256": "8012902cd3104353c5aa3a17d14fe0f12e5d7f787ec78888fbbe593279bf4e9e",
+  "old_head_sha256": "bdd66d0c78adaf7956e6bec8d5ce421c472f0cf3ab38c18af3b63b5fbf07f151",
+  "script_sha256": "7faeb80c513387ff502036a259d5a2379c3ec9a1bbdad31408ebabd71c1efe04",
+  "protocol_sha256": "edab11858ef0a634e53f6a12a93fd25105597369f6344d850ff7ea16d2bdaa51",
+  "sigma_primary": 0.13550386428833008,
+  "started_at": 1790270609.5667431
+}
